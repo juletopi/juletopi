@@ -1,9 +1,8 @@
-
+</div>
 <div align="center">
   <h1>Hello Wor-... actually, I need some energetic :cup_with_straw::persevere:</h1>
 <img 
   src="https://i0.wp.com/24.media.tumblr.com/1c146218ae8aee595ec45784ae98f076/tumblr_mjk9t4LutC1qkai1do1_500.gif" width="470" height="325" align="right">
-
 </div>
 
 <div align="left">      
@@ -47,6 +46,9 @@ in this world of programming ¯\_(ツ)_/¯
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&theme=codeSTACKr" width="350"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=7&theme=codeSTACKr" width="350"></a>
 </p>
+
+<img align="right" alt="julio-pic" height="150" style="border-radius:50px;
+  src="https://i0.wp.com/24.media.tumblr.com/1c146218ae8aee595ec45784ae98f076/tumblr_mjk9t4LutC1qkai1do1_500.gif">
 
 ## What am I currently learning?
  
