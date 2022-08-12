@@ -9,18 +9,18 @@
 ```
 # 👋 Heya folks i'm julio!
 
-🌱 Estudo Análise e Desenvolvimento de 
-Sistemas e busco onde me encaixar 
-nesse mundo da programação ¯\_(ツ)_/¯
+🌱 I'm currently studying System Analysis &
+Development, and looking where to fit
+in this world of programming ¯\_(ツ)_/¯
 
-👾 Dentre os meus hobbies, gosto de:
+👾 About my hobbies, I like:
 
-🎮 games, 🎲 RPG, 🖌️ ilustração
-📚 aprender, 🎧 ouvir música
+🎮 games, 🎲 RPG, 🖌️ ilustration
+📚 learning, 🎧 music
 
-🤓 No que eu estudo, posso citar:
+🤓 In what I study, I can quote:
 
-• Algoritmos e Lógica de Programação
-• Arquitetura e Organização de Computadores
-• Matemática Computacional
-• Engenharia de Requisitos
+• Algorithms & Programming Logic
+• Computer Architecture & Organization
+• Computational Mathematics
+• Engineering Requirements
