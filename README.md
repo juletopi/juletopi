@@ -9,18 +9,18 @@
 ```
 # 👋 Heya folks i'm julio!
 
-🌱 Estudo Análise e Desenvolvimento de Sistemas e 
-          busco onde me encaixar nesse mundo
-              da programação ¯\_(ツ)_/¯
+🌱 Estudo Análise e Desenvolvimento de 
+Sistemas e busco onde me encaixar 
+nesse mundo da programação ¯\_(ツ)_/¯
 
 👾 Dentre os meus hobbies, gosto de:
 
-          🎮 games, 🎲 RPG, 🖌️ ilustração
-            📚 aprender, 🎧 ouvir música
+🎮 games, 🎲 RPG, 🖌️ ilustração
+📚 aprender, 🎧 ouvir música
 
 🤓 No que eu estudo, posso citar:
 
-         • Algoritmos e Lógica de Programação
-     • Arquitetura e Organização de Computadores
-            • Matemática Computacional
-            • Engenharia de Requisitos
+• Algoritmos e Lógica de Programação
+• Arquitetura e Organização de Computadores
+• Matemática Computacional
+• Engenharia de Requisitos
