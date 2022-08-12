@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Hello Wor-... actually, I need some energetic :cup_with_straw::persevere:</h1>
 <img 
-  src="https://i0.wp.com/24.media.tumblr.com/1c146218ae8aee595ec45784ae98f076/tumblr_mjk9t4LutC1qkai1do1_500.gif" height="300" align="right">
+  src="https://i0.wp.com/24.media.tumblr.com/1c146218ae8aee595ec45784ae98f076/tumblr_mjk9t4LutC1qkai1do1_500.gif" height="350" align="right">
 
 </div>
 
@@ -11,8 +11,8 @@
 ```
 #👋 Heya folks i'm julio!
 
-🌱 I'm currently studying System Analysis &
-Development, and looking where to fit
+🌱 I'm currently studying System Analysis
+& Development, and looking where to fit
 in this world of programming ¯\_(ツ)_/¯
 
 👾 About my hobbies, I like:
