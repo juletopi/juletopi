@@ -44,8 +44,8 @@ in this world of programming ¯\_(ツ)_/¯
   
 </p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=7&theme=dark" height="350" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&theme=codeSTACKr" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=7&theme=codeSTACKr" width="350"></a>
 </p>
 
 ## What am I currently learning?
