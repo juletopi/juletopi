@@ -30,12 +30,16 @@ in this world of programming ¯\_(ツ)_/¯
 • Computational Mathematics
 • Engineering Requirements
 ```
+</div>
+<img align="left" alt="julio-pic" height=130" style="border-radius:50px";
+  src="https://media.giphy.com/media/2YWi88Z1LxPHr4pNY0/giphy.gif">
+</div>
 
 <div align="center">
 
 <br>
 
-### ➞ Socials & Status
+### ➞ Socials & Status:
 ----
 </div>
 
@@ -71,15 +75,15 @@ in this world of programming ¯\_(ツ)_/¯
 </p>
 
 </div>
-<img align="right" alt="julio-pic" height="150" style="border-radius:50px";
-  src="https://media.giphy.com/media/FkNbiaLqg9zOkcZF6W/giphy.gif">
+<img align="right" alt="julio-pic" height="130" style="border-radius:50px";
+  src="https://media.giphy.com/media/5hFcSYx3LDD60LjPrT/giphy.gif">
 </div>
 
 <div align="center">
 
 <br>
 
-### ➞ What am I Currently Learning
+### ➞ What am I Currently Learning?
 ----
 </div>
 
