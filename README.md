@@ -1,5 +1,9 @@
-</div>
 <div align="center">
+
+<p align="center"> 
+<img 
+  src="https://komarev.com/ghpvc/?username=juletopi&label=Profile%20views&color=427db2&style=flat">
+</p>
   <h1>Hello Wor-... actually, I need some energetic :cup_with_straw::persevere:</h1>
 <img 
   src="https://i0.wp.com/24.media.tumblr.com/1c146218ae8aee595ec45784ae98f076/tumblr_mjk9t4LutC1qkai1do1_500.gif" width="470" height="325" align="right">
@@ -27,7 +31,13 @@ in this world of programming ¯\_(ツ)_/¯
 • Engineering Requirements
 ```
 
-##
+<div align="center">
+
+<br>
+
+### ➞ Socials & Status
+----
+</div>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/">
@@ -43,6 +53,7 @@ in this world of programming ¯\_(ツ)_/¯
   src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
+
 <p align='center'>
   <a href="mailto:juliocezarpvh@hotmail.com"/a>
 <img 
@@ -63,9 +74,15 @@ in this world of programming ¯\_(ツ)_/¯
 <img align="right" alt="julio-pic" height="150" style="border-radius:50px";
   src="https://media.giphy.com/media/FkNbiaLqg9zOkcZF6W/giphy.gif">
 </div>
-                                                                                                                 
-## ➔ What am I currently learning?
- 
+
+<div align="center">
+
+<br>
+
+### ➞ What am I Currently Learning
+----
+</div>
+
 <p align='center'>
 <img 
   src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
