@@ -4,7 +4,9 @@
 <img 
   src="https://i0.wp.com/24.media.tumblr.com/1c146218ae8aee595ec45784ae98f076/tumblr_mjk9t4LutC1qkai1do1_500.gif" width="470" height="325" align="right">
 </div>
+<p align="center"><img src="https://resources.github.com/assets/img/site/octocat-help.svg" alt="Swastik Mohanty - Data Scientist"/></p>
 
+<img align="right" alt="GIF" src="https://github.com/developedbysm/developedbysm/blob/main/coding-freak.gif?raw=true" width="500" height="320" />
 <div align="left">      
 
 ```
@@ -44,13 +46,13 @@ in this world of programming ¯\_(ツ)_/¯
   </a>&nbsp;&nbsp;
 </p>
 <p align='center'>
-  <a href="https://juliocezarpvh@hotmail.com">
+  <a href="mailto:juliocezarpvh@hotmail.com"/a>
 <img 
-  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  src="https://img.shields.io/badge/-juliocezarpvh@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://https://web.telegram.org/@cezar_p_c">
+  <a href="http://api.whatsapp.com/send?phone=5569993606894">
 <img 
-  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  src="https://img.shields.io/badge/-+55 (69) 993606894-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
   
