@@ -5,10 +5,6 @@
   src="https://i0.wp.com/24.media.tumblr.com/1c146218ae8aee595ec45784ae98f076/tumblr_mjk9t4LutC1qkai1do1_500.gif" width="470" height="325" align="right">
 </div>
 
-</div>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=juletopi&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-</div>
-
 <div align="left">      
 
 ```
