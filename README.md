@@ -4,7 +4,7 @@
   <img src="https://i0.wp.com/24.media.tumblr.com/1c146218ae8aee595ec45784ae98f076/tumblr_mjk9t4LutC1qkai1do1_500.gif" align="right" width="470" height="325" alt="AnimeCoding-gif">
 </div>
 
-<div align="left">      
+<div align="left">
 
 ```
 #👋 Heya folks i'm julio!
@@ -21,10 +21,11 @@ to fit in this world of programming ¯\_(ツ)_/¯
 🤓 ▸ In what I study for now, I can quote:
 
 • Algorithms & Programming Logic 
-• Computer Architecture & Organization 
-• Computational Mathematics 
+• Computer Architecture & Organization
+• Computational Mathematics
 • Engineering Requirements 
 ```
+</div>
 
 ###
 
@@ -46,16 +47,16 @@ to fit in this world of programming ¯\_(ツ)_/¯
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio-badge">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VisualStudio-badge">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-badge">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="GitKraken-badge">&nbsp;&nbsp;
+  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio-badge">&nbsp;&nbsp;
+  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VisualStudio-badge">&nbsp;&nbsp;
+  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-badge">&nbsp;&nbsp;
+  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="GitKraken-badge">&nbsp;&nbsp;
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" height="30" alt="RStudio-icon">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="50" height="30" alt="CSharp-icon">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="30" alt="Git-icon">
+  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" height="35" alt="RStudio-icon">
+  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="50" height="35" alt="CSharp-icon">
+  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="35" alt="Git-icon">
 </div>
 
 ###
@@ -66,7 +67,7 @@ to fit in this world of programming ¯\_(ツ)_/¯
 
 <div align="center"><br>
 
-### <a href="https://emoji.gg/emoji/8137_SpeechBubble"><img src="https://cdn3.emoji.gg/emojis/8137_SpeechBubble.png" width="30px" height="25px" alt="SpeechBubble-emoji"></a></a> Socials & Contacts:
+### <a href="https://emoji.gg/emoji/8137_SpeechBubble"><img src="https://cdn3.emoji.gg/emojis/8137_SpeechBubble.png" width="30px" height="25px" alt="SpeechBubble-emoji"></a>&#160; Socials & Contacts:
 ----
 </div>
 
