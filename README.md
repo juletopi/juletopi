@@ -10,8 +10,8 @@
 #👋 Heya folks i'm julio!
 
 🌱 ▸ I'm currently studying System Analysis
-& Development on IFRO Campus, and looking where to fit
-in this world of programming ¯\_(ツ)_/¯
+& Development on IFRO Campus, and looking where
+to fit in this world of programming ¯\_(ツ)_/¯
 
 👾 ▸ About my hobbies, I like:
 
