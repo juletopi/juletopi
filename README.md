@@ -41,7 +41,7 @@ in this world of programming ¯\_(ツ)_/¯
 
 <div align="center"><br>
 
-### <a href="https://emoji.gg/emoji/1868-white-1"><img src="https://cdn3.emoji.gg/emojis/1868-white-1.png" width="30px" alt="number_1"></a> What am I currently learning?
+### <a href="https://emoji.gg/emoji/3468_book_n_quill"><img src="https://cdn3.emoji.gg/emojis/3468_book_n_quill.png" width="30px" height="30px" alt="book_n_quill"></a>&#160; What am I currently learning?
 ----
 </div>
 
@@ -66,7 +66,7 @@ in this world of programming ¯\_(ツ)_/¯
 
 <div align="center"><br>
 
-### <a href="https://emoji.gg/emoji/7366-white-2"><img src="https://cdn3.emoji.gg/emojis/7366-white-2.png" width="30px" alt="number_2"></a> Socials & Contacts:
+### <a href="https://emoji.gg/emoji/1447_laptop"><img src="https://cdn3.emoji.gg/emojis/1447_laptop.png" width="40px" height="40px" alt="laptop"></a> Socials & Contacts:
 ----
 </div>
 
