@@ -31,8 +31,8 @@ in this world of programming ¯\_(ツ)_/¯
 • Engineering Requirements
 ```
 </div>
-<img align="left" alt="julio-pic" height=195;
-  src="https://media.giphy.com/media/azkPWiOOrpUWzgpbqI/giphy.gif">
+<img align="left" alt="julio-pic1" height=195;
+  src="https://media.giphy.com/media/a7YPksWroQGfVsGRRY/giphy.gif">
 </div>
 
 <div align="center">
@@ -75,8 +75,8 @@ in this world of programming ¯\_(ツ)_/¯
 </p>
 
 </div>
-<img align="right" alt="julio-pic" height="180";
-  src="https://media.giphy.com/media/xugqiaSmyGVETrJLRi/giphy.gif">
+<img align="right" alt="julio-pic2" height="180";
+  src="https://media.giphy.com/media/M1hzHPgoY18n8YmRk6/giphy.gif">
 </div>
 
 <div align="center">
