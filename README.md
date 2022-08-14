@@ -61,7 +61,7 @@ to fit in this world of programming ¯\_(ツ)_/¯
 ###
 
 </div>
-  <img src="https://media.giphy.com/media/a7YPksWroQGfVsGRRY/giphy.gif" align="left" alt="julio-pic1" height=180>
+  <img src="https://media.giphy.com/media/a7YPksWroQGfVsGRRY/giphy.gif" align="left" alt="julio-pic1" height=182>
 </div>
 
 <div align="center"><br>
@@ -71,12 +71,12 @@ to fit in this world of programming ¯\_(ツ)_/¯
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/juletopi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="45px" height="45px"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="45px" height="45px"></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45px" height="45px"></a>&nbsp;&nbsp;
 </div>
 
 <div align="center">
-  <a href="mailto:juliocezarpvh@hotmail.com"><img src="https://img.shields.io/badge/-email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://img.shields.io/badge/-whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="mailto:juliocezarpvh@hotmail.com"><img src="https://img.shields.io/badge/-ᴇᴍᴀɪʟ-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" width="80px" height="25px"></a>&nbsp;&nbsp;
+  <a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://img.shields.io/badge/-ᴡʜᴀᴛsᴀᴘᴘ-25D366?style=flat&logo=whatsapp&logoColor=white" width="100px" height="25px"></a>&nbsp;&nbsp;
 </div>
