@@ -29,7 +29,7 @@ in this world of programming ¯\_(ツ)_/¯
 ###
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&theme=codeSTACKr" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&theme=codeSTACKr" width="450"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=7&theme=codeSTACKr" width="350"></a>
 </div>
 
@@ -66,7 +66,7 @@ in this world of programming ¯\_(ツ)_/¯
 
 <div align="center"><br>
 
-### <a href="https://emoji.gg/emoji/1447_laptop"><img src="https://cdn3.emoji.gg/emojis/1447_laptop.png" width="40px" height="40px" alt="laptop"></a> Socials & Contacts:
+### <a href="https://emoji.gg/emoji/8137_SpeechBubble"><img src="https://cdn3.emoji.gg/emojis/8137_SpeechBubble.png" width="30px" height="30px" alt="SpeechBubble"></a></a> Socials & Contacts:
 ----
 </div>
 
