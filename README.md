@@ -9,16 +9,16 @@
 ```
 #👋 Heya folks i'm julio!
 
-🌱 I'm currently studying System Analysis
+🌱 ▸ I'm currently studying System Analysis
 & Development, and looking where to fit
 in this world of programming ¯\_(ツ)_/¯
 
-👾 About my hobbies, I like:
+👾 ▸ About my hobbies, I like:
 
-🎮 games, 🎲 RPG, 🖌️ ilustration
-📚 learning, 🎧 music
+🎮 games • 🎲 RPG • 🖌️ ilustration
+📚 learning • 🎧 music • 🍜 anime
 
-🤓 In what I study for now, I can quote:
+🤓 ▸ In what I study for now, I can quote:
 
 • Algorithms & Programming Logic 
 • Computer Architecture & Organization 
@@ -41,7 +41,7 @@ in this world of programming ¯\_(ツ)_/¯
 
 <div align="center"><br>
 
-### 📚 What am I currently learning?
+### <a href="https://emoji.gg/emoji/1868-white-1"><img src="https://cdn3.emoji.gg/emojis/1868-white-1.png" width="30px" alt="number_1"></a> What am I currently learning?
 ----
 </div>
 
@@ -66,7 +66,7 @@ in this world of programming ¯\_(ツ)_/¯
 
 <div align="center"><br>
 
-### 👨‍💻 Socials & Status:
+### <a href="https://emoji.gg/emoji/7366-white-2"><img src="https://cdn3.emoji.gg/emojis/7366-white-2.png" width="30px" alt="number_2"></a> Socials & Contacts:
 ----
 </div>
 
