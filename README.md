@@ -54,9 +54,9 @@ to fit in this world of programming ¯\_(ツ)_/¯
 </div>
 
 <div align="center">
-  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" height="35" alt="RStudio-icon">
-  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="50" height="35" alt="CSharp-icon">
-  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="35" alt="Git-icon">
+  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" height="35" alt="RStudio-icon"></a>
+  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="50" height="35" alt="CSharp-icon"></a>
+  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="35" alt="Git-icon"></a>
 </div>
 
 ###
