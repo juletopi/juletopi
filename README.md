@@ -66,7 +66,7 @@ in this world of programming ¯\_(ツ)_/¯
 
 <div align="center"><br>
 
-### <a href="https://emoji.gg/emoji/8137_SpeechBubble"><img src="https://cdn3.emoji.gg/emojis/8137_SpeechBubble.png" width="30px" height="30px" alt="SpeechBubble"></a></a> Socials & Contacts:
+### <a href="https://emoji.gg/emoji/8137_SpeechBubble"><img src="https://cdn3.emoji.gg/emojis/8137_SpeechBubble.png" width="30px" height="25px" alt="SpeechBubble"></a></a> Socials & Contacts:
 ----
 </div>
 
