@@ -39,7 +39,7 @@ in this world of programming ¯\_(ツ)_/¯
 
 <br>
 
-### ➞ Socials & Status:
+### 👨‍💻 Socials & Status:
 ----
 </div>
 
@@ -83,7 +83,7 @@ in this world of programming ¯\_(ツ)_/¯
 
 <br>
 
-### ➞ What am I Currently Learning?
+### 📚 What am I Currently Learning?
 ----
 </div>
 
