@@ -25,9 +25,16 @@ in this world of programming ¯\_(ツ)_/¯
 • Computational Mathematics 
 • Engineering Requirements 
 ```
-  
+
+###
+
+<div align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&theme=codeSTACKr" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=7&theme=codeSTACKr" width="350"></a>
 </div>
-  <img src="https://media.giphy.com/media/a7YPksWroQGfVsGRRY/giphy.gif" align="left" alt="julio-pic1" height=195>
+
+</div>
+  <img src="https://media.giphy.com/media/a7YPksWroQGfVsGRRY/giphy.gif" align="left" alt="julio-pic1" height=180>
 </div>
 
 <div align="center"><br>
