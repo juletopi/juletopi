@@ -32,7 +32,9 @@ in this world of programming ¯\_(ツ)_/¯
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&theme=codeSTACKr" width="350"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=7&theme=codeSTACKr" width="350"></a>
 </div>
-  
+
+###
+
 <div align="center">
   <img src="https://media.giphy.com/media/M1hzHPgoY18n8YmRk6/giphy.gif" align="right" alt="julio-pic2" height="180">
 </div>
@@ -55,6 +57,8 @@ in this world of programming ¯\_(ツ)_/¯
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="30" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="50">
 </div>
+
+###
 
 </div>
   <img src="https://media.giphy.com/media/a7YPksWroQGfVsGRRY/giphy.gif" align="left" alt="julio-pic1" height=180>
