@@ -55,8 +55,6 @@ in this world of programming ¯\_(ツ)_/¯
 </div>
   
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&theme=codeSTACKr" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=7&theme=codeSTACKr" width="350"></a>
   <img src="https://media.giphy.com/media/M1hzHPgoY18n8YmRk6/giphy.gif" align="right" alt="julio-pic2" height="180">
 </div>
 
