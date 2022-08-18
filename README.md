@@ -9,13 +9,16 @@
 ```
   //I used "const" because I'm CONSTantly evolving
    const Me = {
-            Skills: "Penetration Tester, Back-end Developer",
-        Main_Langs: "Go, ShellScript, Python",
-      Casual_Langs: "C, C++", 
-         Web_Langs: "Javascript, PHP , SQL",
-          Services: "Apache",
-              Tech: "Git, Docker, NodeJs",
-                SO: "Gentoo",
+            Skills: "",
+        Main_Langs: "",
+      Casual_Langs: "", 
+         Web_Langs: "",
+          Services: "",
+              Tech: "",
+                SO: "",
+
+
+
     };
 ```
 </div>
