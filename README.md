@@ -7,6 +7,20 @@
 <div align="left">
 
 ```
+  //I used "const" because I'm CONSTantly evolving
+   const Me = {
+            Skills: "Penetration Tester, Back-end Developer",
+        Main_Langs: "Go, ShellScript, Python",
+      Casual_Langs: "C, C++", 
+         Web_Langs: "Javascript, PHP , SQL",
+          Services: "Apache",
+              Tech: "Git, Docker, NodeJs",
+                SO: "Gentoo",
+    };
+```
+</div>
+
+###
 #👋 Heya folks i'm julio!
 
 🌱 ▸ I'm currently studying System Analysis
@@ -20,14 +34,10 @@ to fit in this world of programming ¯\_(ツ)_/¯
 
 🤓 ▸ In what I study for now, I can quote:
 
-• Algorithms & Programming Logic 
+• Algorithms & Programming Logic
 • Computer Architecture & Organization
 • Computational Mathematics
 • Engineering Requirements 
-```
-</div>
-
-###
 
 <div align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&theme=codeSTACKr" width="450" alt="Juletopi-stats"></a>
