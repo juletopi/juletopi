@@ -64,7 +64,7 @@ to fit in this world of programming
 
 </div>
 
-> ----
+> ---
 
 <div align="center">
 
@@ -85,7 +85,7 @@ to fit in this world of programming
 <div align="center">
 
 ### <a href="https://emoji.gg/emoji/3468_book_n_quill"><img src="https://cdn3.emoji.gg/emojis/3468_book_n_quill.png" width="30px" height="30px" alt="BooknQuill-emoji"></a>&#160; What am I currently learning?
-----
+---
 </div>
 
 <div align="center">
