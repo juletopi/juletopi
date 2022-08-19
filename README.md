@@ -34,25 +34,25 @@
 ## Resume:
 
 #👋 Heya folks i'm julio!
-
+ 
 🌱 ▸ I'm currently studying System Analysis\
 & Development on IFRO Campus, and looking where\
 to fit in this world of programming
-
+ 
 👾 ▸ About my hobbies, I like:
-
+ 
 🎮 games • 🎲 RPG • 🖌️ ilustration
 📚 learning • 🎧 music • 🍜 anime
-
+ 
 🤓 ▸ In what I study for now, I can quote:
-
+ 
 • Algorithms & Programming Logic\
 • Computer Architecture & Organization\
 • Computational Mathematics\
 • Engineering Requirements
 </div>
 
-##
+> ----
 
 <div align="left">
 <details>
@@ -63,6 +63,8 @@ to fit in this world of programming
 **IN PROGRESS**
 
 </div>
+
+> ----
 
 <div align="center">
 
@@ -80,7 +82,7 @@ to fit in this world of programming
   <img src="https://media.giphy.com/media/M1hzHPgoY18n8YmRk6/giphy.gif" align="right" height="180" alt="Juletopi-gif2">
 </div>
 
-<div align="center"><br>
+<div align="center">
 
 ### <a href="https://emoji.gg/emoji/3468_book_n_quill"><img src="https://cdn3.emoji.gg/emojis/3468_book_n_quill.png" width="30px" height="30px" alt="BooknQuill-emoji"></a>&#160; What am I currently learning?
 ----
@@ -105,7 +107,7 @@ to fit in this world of programming
   <img src="https://media.giphy.com/media/a7YPksWroQGfVsGRRY/giphy.gif" align="left" height=182 alt="Juletopi-gif1">
 </div>
 
-<div align="center"><br>
+<div align="center">
 
 ### <a href="https://emoji.gg/emoji/8137_SpeechBubble"><img src="https://cdn3.emoji.gg/emojis/8137_SpeechBubble.png" width="30px" height="25px" alt="SpeechBubble-emoji"></a>&#160; Socials & Contacts:
 ----
