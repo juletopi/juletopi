@@ -27,12 +27,17 @@
 ```
 </div>
 
-###
+<div align="left">
+<details>
+  <summary>📕 About Me!</summary>
+
+## Resume:
+
 #👋 Heya folks i'm julio!
 
-🌱 ▸ I'm currently studying System Analysis
-& Development on IFRO Campus, and looking where
-to fit in this world of programming ¯\_(ツ)_/¯
+🌱 ▸ I'm currently studying System Analysis\
+& Development on IFRO Campus, and looking where\
+to fit in this world of programming
 
 👾 ▸ About my hobbies, I like:
 
@@ -41,10 +46,18 @@ to fit in this world of programming ¯\_(ツ)_/¯
 
 🤓 ▸ In what I study for now, I can quote:
 
-• Algorithms & Programming Logic
-• Computer Architecture & Organization
-• Computational Mathematics
-• Engineering Requirements 
+• Algorithms & Programming Logic\
+• Computer Architecture & Organization\
+• Computational Mathematics\
+• Engineering Requirements
+</div>
+
+##
+
+<div align="center">
+
+### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="30px" height="30px" alt="BlurpleGithub-emoji"></a>&#160; GitHub Stats:
+----
 
 <div align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&theme=codeSTACKr" width="450" alt="Juletopi-stats"></a>
