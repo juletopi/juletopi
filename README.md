@@ -9,13 +9,13 @@
 ```
   //I used "const" because I'm CONSTantly evolving
    const Me = {
-            Skills: "",
-        Main_Langs: "",
-      Casual_Langs: "", 
-         Web_Langs: "",
-          Services: "",
-              Tech: "",
-                SO: "",
+            Skills: "IN PROGRESS",
+        Main_Langs: "IN PROGRESS",
+      Casual_Langs: "IN PROGRESS", 
+         Web_Langs: "IN PROGRESS",
+          Services: "IN PROGRESS",
+              Tech: "IN PROGRESS",
+                SO: "IN PROGRESS",
 
 
 
@@ -30,6 +30,8 @@
 <div align="left">
 <details>
   <summary>📕 About Me!</summary>
+
+**IN PROGRESS**
 
 ## Resume:
 
