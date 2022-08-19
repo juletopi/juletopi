@@ -58,9 +58,9 @@ to fit in this world of programming
 <details>
   <summary>🎒 Education</summary>
 
-**IN PROGRESS**
-
 ## Resume:
+
+**IN PROGRESS**
 
 </div>
 
