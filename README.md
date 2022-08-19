@@ -27,6 +27,7 @@
 ```
 </div>
 
+<div align="right"> <sub><i>*click on the "➤" symbol to read more!<i></sub>
 <div align="left">
 <details>
   <summary>📕 About Me!</summary>
