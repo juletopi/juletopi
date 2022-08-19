@@ -54,6 +54,14 @@ to fit in this world of programming
 
 ##
 
+<div align="left">
+<details>
+  <summary>🎒 Education</summary>
+  
+## Resume:
+
+</div>
+
 <div align="center">
 
 ### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="30px" height="30px" alt="BlurpleGithub-emoji"></a>&#160; GitHub Stats:
