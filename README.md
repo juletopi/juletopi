@@ -31,8 +31,6 @@
 <details>
   <summary>📕 About Me!</summary>
 
-**IN PROGRESS**
-
 ## Resume:
 
 #👋 Heya folks i'm julio!
@@ -59,7 +57,9 @@ to fit in this world of programming
 <div align="left">
 <details>
   <summary>🎒 Education</summary>
-  
+
+**IN PROGRESS**
+
 ## Resume:
 
 </div>
