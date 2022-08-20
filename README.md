@@ -27,7 +27,7 @@
 </div>
 
 <div align="left">
-<details>
+  <details>
 <summary>📕 About Me!</summary>
 
 ## Resume:
@@ -54,7 +54,7 @@ to fit in this world of programming
 > ---
 
 <div align="left">
-<details>
+  <details>
 <summary>🎒 Education</summary>
 
 ## Resume:
