@@ -78,7 +78,7 @@ to fit in this world of programming
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M1hzHPgoY18n8YmRk6/giphy.gif" align="right" height="180" alt="Juletopi-gif2">
+  <img src="https://media.giphy.com/media/Y1XEJIJxYomRCGcfYJ/giphy.gif" align="right" height="180" alt="Juletopi-gif2">
 </div>
 
 <div align="center">
@@ -103,7 +103,7 @@ to fit in this world of programming
 ###
 
 </div>
-  <img src="https://media.giphy.com/media/a7YPksWroQGfVsGRRY/giphy.gif" align="left" height=182 alt="Juletopi-gif1">
+  <img src="https://media.giphy.com/media/9mZtYkG8E5aOgXx4MA/giphy.gif" align="left" height=182 alt="Juletopi-gif1">
 </div>
 
 <div align="center">
