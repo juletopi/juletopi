@@ -51,7 +51,7 @@ to fit in this world of programming
 - Engineering Requirements
 </div>
 
-> ---
+##
 
 <div align="left">
   <details>
@@ -63,7 +63,7 @@ to fit in this world of programming
 
 </div>
 
-> ---
+##
 
 <div align="center">
 
