@@ -71,8 +71,8 @@ to fit in this world of programming
 ---
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&theme=codeSTACKr" width="450" alt="Juletopi-stats"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=7&theme=codeSTACKr" width="350" alt="JuletopiTopLangs-stats"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=e73737&bg_color=DEG,0b0b0b,101010,110e0e,1b0e0e,570e0e,830b0b,830b0b,710404" width="450" alt="Juletopi-stats"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=e73737&bg_color=DEG,0b0b0b,101010,110e0e,1b0e0e,570e0e,830b0b,830b0b,710404" width="350" alt="JuletopiTopLangs-stats"></a>
 </div>
 
 ###
