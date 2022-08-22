@@ -32,23 +32,23 @@
 
 ## Resume:
 
-#👋 Heya folks i'm julio!
+**#👋 Heya folks i'm Júlio!**
  
-🌱 ▸ I'm currently studying System Analysis\
+🌱 **▸** I'm currently studying System Analysis\
 & Development on IFRO Campus, and looking where\
 to fit in this world of programming
  
-👾 ▸ About my hobbies, I like:
+👾 **▸ About my hobbies, I like:**
  
 🎮 games • 🎲 RPG • 🖌️ ilustration
 📚 learning • 🎧 music • 🍜 anime
  
-🤓 ▸ In what I study for now, I can quote:
+🤓 **▸ In what I study for now, I can quote:**
  
-- Algorithms & Programming Logic\
-- Computer Architecture & Organization\
-- Computational Mathematics\
-- Engineering Requirements
+- Algorithms & Programming Logic
+- Computer Architectures & Organization
+- Computational Mathematics
+- Requirements Engineering
 </div>
 
 ##
