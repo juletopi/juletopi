@@ -34,14 +34,14 @@
 
 **#👋 Heya folks i'm Júlio!**
  
-🌱 **▸** I'm currently studying System Analysis\
-& Development at <a href="[doc:introduction](https://portal.ifro.edu.br/ji-parana)" target="_blank">IFRO Campus Ji-Paraná</a>, and looking where\
-to fit in this world of programming
+🌱 **▸** I'm currently studying System Analysis and \
+Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), and looking \
+where to fit in this world of programming
  
 👾 **▸ About my hobbies, I like:**
  
-🎮 games • 🎲 RPG • 🖌️ ilustration
-📚 learning • 🎧 music • 🍜 anime
+🎮 `games` • 🎲 `RPG` • 🖌️ `ilustration`
+📚 `learning` • 🎧 `music` • 🍜 `anime`
  
 🤓 **▸ In what I study for now, I can quote:**
  
@@ -59,7 +59,22 @@ to fit in this world of programming
 
 ## Resume:
 
-**IN PROGRESS**
+<img align="left" height="94px" width="94px" alt="IFRO-pic" src="https://www.anoticiamais.com.br/wp-content/uploads/2016/11/Ifro.jpg"/>
+
+**IFRO (Instituto Federal de Rondonia) Campus Ji-Paraná** \
+[**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana/ji-parana) • Student \
+... \
+...
+<br/>
+
+<img align="left" height="94px" width="94px" alt="DanielNeri-pic" src="https://scontent.fpvh5-1.fna.fbcdn.net/v/t39.30808-6/296281125_179170704484469_3136119340022999762_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEKCtgNAOu7Y6Uz-ziQ3KdlSxiVFTJTQTBLGJUVMlNBMOVZldgawmi-_Iip8gNZYhDqvPRlCdKZBCu-5_I9Y8P0&_nc_ohc=X3SbHlRv-fAAX8bA8bs&_nc_ht=scontent.fpvh5-1.fna&oh=00_AT8tosmrLcysYLOS52auhugfYPZUu9HLbuD2m5VDD7j7LA&oe=63089AD2"/>
+
+**E.E.E.F.M (Escola Estadual de Ensino Fundamental e Médio) Professor Daniel Neri da Silva** \
+[**E.E.E.F.M. Daniel Neri**](https://www.melhorescola.com.br/escola/eeefm-professor-daniel-neri-da-silva) • Student \
+... \
+...
+
+<br/>
 
 </div>
 
