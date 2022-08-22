@@ -35,7 +35,7 @@
 **#👋 Heya folks i'm Júlio!**
  
 🌱 **▸** I'm currently studying System Analysis\
-& Development on IFRO Campus, and looking where\
+& Development at <a href="[doc:introduction](https://portal.ifro.edu.br/ji-parana)" target="_blank">IFRO Campus Ji-Paraná</a>, and looking where\
 to fit in this world of programming
  
 👾 **▸ About my hobbies, I like:**
