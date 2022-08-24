@@ -51,7 +51,7 @@ looking where to fit in this world of programming
 - Requirements Engineering
 </div>
 
-##
+###
 
 <div align="left">
   <details>
@@ -94,10 +94,6 @@ School and High School Student \
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Y1XEJIJxYomRCGcfYJ/giphy.gif" align="right" height="180" alt="Juletopi-gif2">
-</div>
-
-<div align="center">
 
 ### <a href="https://emoji.gg/emoji/3468_book_n_quill"><img src="https://cdn3.emoji.gg/emojis/3468_book_n_quill.png" width="30px" height="30px" alt="BooknQuill-emoji"></a>&#160; What am I currently learning?
 ---
@@ -117,10 +113,6 @@ School and High School Student \
 </div>
 
 ###
-
-</div>
-  <img src="https://media.giphy.com/media/9mZtYkG8E5aOgXx4MA/giphy.gif" align="left" height=182 alt="Juletopi-gif1">
-</div>
 
 <div align="center">
 
