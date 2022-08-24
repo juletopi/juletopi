@@ -67,7 +67,7 @@ Graduation in System Analisys and Developmet \
 <i>Jul. 2022</i> - <i>currently now</i>...
 <br/>
 
-##
+###
 
 <img src="https://scontent.fpvh5-1.fna.fbcdn.net/v/t39.30808-6/296281125_179170704484469_3136119340022999762_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEKCtgNAOu7Y6Uz-ziQ3KdlSxiVFTJTQTBLGJUVMlNBMOVZldgawmi-_Iip8gNZYhDqvPRlCdKZBCu-5_I9Y8P0&_nc_ohc=X3SbHlRv-fAAX8bA8bs&_nc_ht=scontent.fpvh5-1.fna&oh=00_AT8tosmrLcysYLOS52auhugfYPZUu9HLbuD2m5VDD7j7LA&oe=63089AD2" align="left" width="94px" height="94px" alt="DanielNeri-pic"/>
 
