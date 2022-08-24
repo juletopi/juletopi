@@ -63,17 +63,16 @@ where to fit in this world of programming
 
 **IFRO (Instituto Federal de Rondônia) - Campus Ji-Paraná** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana/ji-parana) • Federal Institute \
-... \
-...
+Graduation in System Analisys and Developmet \
+<i>2022</i> to <i>currently now</i>...
 <br/>
 
 <img src="https://scontent.fpvh5-1.fna.fbcdn.net/v/t39.30808-6/296281125_179170704484469_3136119340022999762_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEKCtgNAOu7Y6Uz-ziQ3KdlSxiVFTJTQTBLGJUVMlNBMOVZldgawmi-_Iip8gNZYhDqvPRlCdKZBCu-5_I9Y8P0&_nc_ohc=X3SbHlRv-fAAX8bA8bs&_nc_ht=scontent.fpvh5-1.fna&oh=00_AT8tosmrLcysYLOS52auhugfYPZUu9HLbuD2m5VDD7j7LA&oe=63089AD2" align="left" width="94px" height="94px" alt="DanielNeri-pic"/>
 
 **E.E.E.F.M (Escola Estadual de Ensino Fundamental e Médio) Professor Daniel Neri da Silva** \
 [**E.E.E.F.M. Daniel Neri**](https://www.melhorescola.com.br/escola/eeefm-professor-daniel-neri-da-silva) • School & High School \
-... \
-...
-
+School and High School Student \
+<i>2015</i> to <i>2021</i>
 <br/>
 
 </div>
