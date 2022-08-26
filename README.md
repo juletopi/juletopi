@@ -62,9 +62,9 @@ looking where to fit in this world of programming
 <img src="https://www.anoticiamais.com.br/wp-content/uploads/2016/11/Ifro.jpg" align="left" width="94px" height="94px" alt="IFRO-pic"/>
 
 **IFRO (Instituto Federal de Rondônia) - Campus Ji-Paraná** \
-[**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana/ji-parana) • Federal Institute \
+[**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana/ji-parana) • `Federal Institute` \
 Graduation in System Analisys and Developmet \
-<i>Jul. 2022</i> - <i>currently now</i>...
+<i>Jul. 2022</i> - <i>currently now...</i>...
 <br/>
 
 ###
@@ -72,8 +72,8 @@ Graduation in System Analisys and Developmet \
 <img src="https://scontent.fpvh5-1.fna.fbcdn.net/v/t39.30808-6/296281125_179170704484469_3136119340022999762_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEKCtgNAOu7Y6Uz-ziQ3KdlSxiVFTJTQTBLGJUVMlNBMOVZldgawmi-_Iip8gNZYhDqvPRlCdKZBCu-5_I9Y8P0&_nc_ohc=X3SbHlRv-fAAX8bA8bs&_nc_ht=scontent.fpvh5-1.fna&oh=00_AT8tosmrLcysYLOS52auhugfYPZUu9HLbuD2m5VDD7j7LA&oe=63089AD2" align="left" width="94px" height="94px" alt="DanielNeri-pic"/>
 
 **E.E.E.F.M (Escola Estadual de Ensino Fundamental e Médio) Professor Daniel Neri da Silva** \
-[**E.E.E.F.M. Daniel Neri**](https://www.melhorescola.com.br/escola/eeefm-professor-daniel-neri-da-silva) • School & High School \
-School and High School Student \
+[**E.E.E.F.M. Daniel Neri**](https://www.melhorescola.com.br/escola/eeefm-professor-daniel-neri-da-silva) • `School & High School` \
+Student in School and High School \
 <i>Feb. 2015</i> - <i>Dec. 2021</i>
 <br/>
 
@@ -83,19 +83,19 @@ School and High School Student \
 
 <div align="center">
 
-### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="30px" height="30px" alt="BlurpleGithub-emoji"></a>&#160; GitHub Stats:
+### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20px" height="20px" alt="BlurpleGithub-emoji"></a>&#160; GitHub Stats:
 ---
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=e73737&bg_color=DEG,0b0b0b,101010,110e0e,1b0e0e,570e0e,830b0b,830b0b,710404" width="450" alt="Juletopi-stats"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=e73737&bg_color=DEG,0b0b0b,101010,110e0e,1b0e0e,570e0e,830b0b,830b0b,710404" width="350" alt="JuletopiTopLangs-stats"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=e73737&bg_color=DEG,000000,0b0b0b,101010" width="450" alt="Juletopi-stats"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=e73737&bg_color=DEG,000000,0b0b0b,101010" width="350" alt="JuletopiTopLangs-stats"></a>
 </div>
 
 ###
 
 <div align="center">
 
-### <a href="https://emoji.gg/emoji/3468_book_n_quill"><img src="https://cdn3.emoji.gg/emojis/3468_book_n_quill.png" width="30px" height="30px" alt="BooknQuill-emoji"></a>&#160; What am I currently learning?
+### <a href="https://emoji.gg/emoji/3468_book_n_quill"><img src="https://cdn3.emoji.gg/emojis/3468_book_n_quill.png" width="23px" height="23px" alt="BooknQuill-emoji"></a>&#160; What am I currently learning?
 ---
 </div>
 
@@ -108,7 +108,7 @@ School and High School Student \
 
 <div align="center">
   <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" height="35" alt="RStudio-icon"></a>
-  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="50" height="35" alt="CSharp-icon"></a>
+  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="35" alt="CSharp-icon"></a>
   <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="35" alt="Git-icon"></a>
 </div>
 
@@ -116,7 +116,7 @@ School and High School Student \
 
 <div align="center">
 
-### <a href="https://emoji.gg/emoji/8137_SpeechBubble"><img src="https://cdn3.emoji.gg/emojis/8137_SpeechBubble.png" width="30px" height="25px" alt="SpeechBubble-emoji"></a>&#160; Socials & Contacts:
+### <a href="https://emoji.gg/emoji/8137_SpeechBubble"><img src="https://cdn3.emoji.gg/emojis/8137_SpeechBubble.png" width="20px" height="20px" alt="SpeechBubble-emoji"></a>&#160; Socials & Contacts:
 ---
 </div>
 
