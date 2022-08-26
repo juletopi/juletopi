@@ -35,11 +35,11 @@
 
 ## Resume:
 
-**#👋 Heya folks i'm Júlio!**
+**#👋 Heya folks, i'm Júlio!**
  
 🌱 **▸** I'm currently studying System Analysis and \
 Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), and \
-looking where to fit in this world of programming
+looking where to fit in this world of programming.
  
 👾 **▸ About my hobbies, I like:**
  
