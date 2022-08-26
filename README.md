@@ -24,6 +24,9 @@
     | .__/|_|  \___/ \__, |_|  \___|___|___(_(_(_)
     |_|              |___/
 ```
+
+##
+
 </div>
 
 <div align="left">
@@ -49,6 +52,9 @@ looking where to fit in this world of programming
 - Computer Architectures & Organization
 - Computational Mathematics
 - Requirements Engineering
+
+##
+
 </div>
 
 ###
@@ -64,7 +70,7 @@ looking where to fit in this world of programming
 **IFRO (Instituto Federal de Rondônia) - Campus Ji-Paraná** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana/ji-parana) • `Federal Institute` \
 Graduation in System Analisys and Developmet \
-<i>Jul. 2022</i> - <i>currently now...</i>...
+<i>Jul. 2022</i> - <i>currently now...</i>
 <br/>
 
 ###
@@ -77,18 +83,20 @@ Student in School and High School \
 <i>Feb. 2015</i> - <i>Dec. 2021</i>
 <br/>
 
+❗ Please, consider visiting my [**LinkedIn**](https://www.linkedin.com/in/julio-cezar-pereira-camargo/) for a more detailed info. about my education and certifications.
+
 </div>
 
 ##
 
 <div align="center">
 
-### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20px" height="20px" alt="BlurpleGithub-emoji"></a>&#160; GitHub Stats:
+### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20px" height="20px" alt="BlurpleGithub-emoji"></a>&#160; My GitHub Stats:
 ---
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=e73737&bg_color=DEG,000000,0b0b0b,101010" width="450" alt="Juletopi-stats"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=e73737&bg_color=DEG,000000,0b0b0b,101010" width="350" alt="JuletopiTopLangs-stats"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=970b0b&bg_color=DEG,000000,0b0b0b,101010" width="450" alt="Juletopi-stats"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=970b0b&bg_color=DEG,000000,0b0b0b,101010" width="350" alt="JuletopiTopLangs-stats"></a>
 </div>
 
 ###
@@ -107,7 +115,7 @@ Student in School and High School \
 </div>
 
 <div align="center">
-  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" height="35" alt="RStudio-icon"></a>
+  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="53" height="38" alt="RStudio-icon"></a>
   <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="35" alt="CSharp-icon"></a>
   <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="35" alt="Git-icon"></a>
 </div>
@@ -116,7 +124,7 @@ Student in School and High School \
 
 <div align="center">
 
-### <a href="https://emoji.gg/emoji/8137_SpeechBubble"><img src="https://cdn3.emoji.gg/emojis/8137_SpeechBubble.png" width="20px" height="20px" alt="SpeechBubble-emoji"></a>&#160; Socials & Contacts:
+### <a href="https://emoji.gg/emoji/8137_SpeechBubble"><img src="https://cdn3.emoji.gg/emojis/8137_SpeechBubble.png" width="23px" height="20px" alt="SpeechBubble-emoji"></a>&#160; Socials & Contacts:
 ---
 </div>
 
