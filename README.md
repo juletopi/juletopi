@@ -96,8 +96,8 @@ Student in School and High School \
 ---
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=970b0b&bg_color=DEG,000000,0b0b0b,101010" width="450" alt="Juletopi-stats"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=970b0b&bg_color=DEG,000000,0b0b0b,101010" width="350" alt="JuletopiTopLangs-stats"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118" width="480" alt="Juletopi-stats"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118" alt="JuletopiTopLangs-stats"></a>
 </div>
 
 ###
