@@ -42,9 +42,8 @@ Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana
 looking where to fit in this world of programming.
  
 👾 **▸ About my hobbies, I like:**
- 
-• 🎮 `Games` • 🎲 `RPG` • 🖌️ `Ilustration` \
-• 📚 `Learning` • 🎧 `Music` • 🍜 `Anime`
+
+🎮 `Games` • 🎲 `RPG` • 🖌️ `Ilustration` • 📚 `Learning` • 🎧 `Music` • 🍜 `Anime`
  
 🤓 **▸ In what I study for now, I can quote:**
  
