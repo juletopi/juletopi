@@ -83,6 +83,8 @@ Student in School and High School \
 <i>Feb. 2015</i> - <i>Dec. 2021</i>
 <br/>
 
+###
+
 ❗ **▸** Please, consider visiting my [**LinkedIn**](https://www.linkedin.com/in/julio-cezar-pereira-camargo/) for a more detailed info. about my education and certifications.
 
 </div>
