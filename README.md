@@ -1,4 +1,4 @@
-<img align="center" src="https://komarev.com/ghpvc/?username=juletopi&style=flat-square" alt="Juletopi-profileviews">
+<img align="center" src="https://komarev.com/ghpvc/?username=juletopi&color=red" alt="Juletopi-profileviews">
 
 <div align="center">
   <h1>Hello Wor-... actually, I need some energetic <a href="https://emoji.gg/emoji/9202-panda-redbull-yoink"><img src="https://cdn3.emoji.gg/emojis/9202-panda-redbull-yoink.gif" width="60px" height="60px" alt="PandaRedbullYoink-emoji"></a></h1>
