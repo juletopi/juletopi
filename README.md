@@ -1,3 +1,5 @@
+<img align="center" src="https://komarev.com/ghpvc/?username=juletopi&style=flat-square" alt="Juletopi-profileviews">
+
 <div align="center">
   <h1>Hello Wor-... actually, I need some energetic <a href="https://emoji.gg/emoji/9202-panda-redbull-yoink"><img src="https://cdn3.emoji.gg/emojis/9202-panda-redbull-yoink.gif" width="60px" height="60px" alt="PandaRedbullYoink-emoji"></a></h1>
   <img src="https://i0.wp.com/24.media.tumblr.com/1c146218ae8aee595ec45784ae98f076/tumblr_mjk9t4LutC1qkai1do1_500.gif" align="right" width="460" height="325" alt="AnimeCoding-gif">
@@ -98,6 +100,8 @@ Student in School and High School \
 <div align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118" width="480" alt="Juletopi-stats"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118" alt="JuletopiTopLangs-stats"></a>
+<div align="center">
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juletopi&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118"></a>
 </div>
 
 ###
