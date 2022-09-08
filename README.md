@@ -114,10 +114,10 @@ more detailed info. about my education and certifications.
 </div>
 
 <div align="center">
-  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio-badge">&nbsp;&nbsp;
-  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VisualStudio-badge">&nbsp;&nbsp;
-  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-badge">&nbsp;&nbsp;
-  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="GitKraken-badge">&nbsp;&nbsp;
+  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" width="115" alt="RStudio-badge">&nbsp;&nbsp;
+  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" width="115" alt="VisualStudio-badge">&nbsp;&nbsp;
+  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="115" alt="GitHub-badge">&nbsp;&nbsp;
+  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" width="115" alt="GitKraken-badge">&nbsp;&nbsp;
 </div>
 
 <div align="center">
