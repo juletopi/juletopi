@@ -114,16 +114,13 @@ more detailed info. about my education and certifications.
 </div>
 
 <div align="center">
-  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio-badge">&nbsp;&nbsp;
-  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VisualStudio-badge">&nbsp;&nbsp;
-  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-badge">&nbsp;&nbsp;
-  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="GitKraken-badge">&nbsp;&nbsp;
-</div>
-
-<div align="center">
-  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="53" height="38" alt="RStudio-icon"></a>
-  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="35" alt="CSharp-icon"></a>
-  <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="35" alt="Git-icon"></a>
+  
+| IDEs & Frameworks: | Languages: |
+| ------------------ | ---------- |
+| <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" align="center" alt="RStudio-badge"></a> | <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="53" height="38" alt="RStudio-icon"></a>
+| <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VisualStudio-badge"></a> | <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="35" alt="CSharp-icon"></a>
+| <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-badge"></a> | <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="35" alt="Git-icon"></a>
+| <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="GitKraken-badge"></a>
 </div>
 
 ###
