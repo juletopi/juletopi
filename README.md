@@ -35,7 +35,7 @@
   <details>
 <summary>📕 About Me!</summary>
 
-## Resume:
+## Resume: (About Me!)
 
 **#👋 Heya folks, i'm Júlio!**
  
@@ -64,7 +64,7 @@ looking where to fit in this world of programming.
   <details>
 <summary>🎒 Education</summary>
 
-## Resume:
+## Resume: (Education)
 
 <img src="https://www.anoticiamais.com.br/wp-content/uploads/2016/11/Ifro.jpg" align="left" width="94px" height="94px" alt="IFRO-pic"/>
 
