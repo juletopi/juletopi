@@ -131,9 +131,9 @@ more detailed info. about my education and certifications.
 </div>
 
 <div align="center">
-<code><a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40px" height="40px" alt="LinkedIn-logo"></a></code>&nbsp;&nbsp;
-  <code><a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="40px" height="40px" alt="Instagram-logo"></a></code>&nbsp;&nbsp;
-  <code><a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40px" height="40px" alt="Facebook-logo"></a></code>&nbsp;&nbsp;
-  <code><a href="mailto:juliocezarpvh@hotmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="40px" height="40px" alt="Outlook-logo"></a></code>&nbsp;&nbsp;
-  <code><a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="40px" height="40px" alt="WhatsApp-logo"></a></code>&nbsp;&nbsp;
+<code><a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40px" height="40px" alt="LinkedIn-icon"></a></code>&nbsp;&nbsp;
+  <code><a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="40px" height="40px" alt="Instagram-icon"></a></code>&nbsp;&nbsp;
+  <code><a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40px" height="40px" alt="Facebook-icon"></a></code>&nbsp;&nbsp;
+  <code><a href="mailto:juliocezarpvh@hotmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="40px" height="40px" alt="Outlook-icon"></a></code>&nbsp;&nbsp;
+  <code><a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="40px" height="40px" alt="WhatsApp-icon"></a></code>&nbsp;&nbsp;
 </div>
