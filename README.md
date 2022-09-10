@@ -135,9 +135,10 @@ more detailed info. about my education and certifications.
 </div>
 
 <div align="center">
-  <code><a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40px" height="40px" alt="LinkedIn-logo"></a></code>&nbsp;&nbsp;
-  <code><a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="40px" height="40px" alt="Instagram-logo"></a></code>&nbsp;&nbsp;
-  <code><a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40px" height="40px" alt="Facebook-logo"></a></code>&nbsp;&nbsp;
-  <code><a href="mailto:juliocezarpvh@hotmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="40px" height="40px" alt="Outlook-logo"></a></code>&nbsp;&nbsp;
-  <code><a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="40px" height="40px" alt="WhatsApp-logo"></a></code>&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="17" alt="LinkedIn-logo" /> [**LinkedIn**](https://www.linkedin.com/in/julio-cezar-pereira-camargo/)&nbsp;&nbsp; **|**&nbsp;&nbsp;
+<img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" height="17" alt="Instagram-logo" /> [**Instagram**](https://www.instagram.com/juletopi/)&nbsp;&nbsp; **|**&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="17" alt="Facebook-logo" /> [**Facebook**](https://www.facebook.com/profile.php?id=100006955867774)&nbsp;&nbsp; **|**&nbsp;&nbsp;
+<img src="https://pngimg.com/uploads/email/email_PNG100738.png" height="17" alt="Outlook-logo" /> [**E-Mail**](mailto:juliocezarpvh@hotmail.com)&nbsp;&nbsp; **|**&nbsp;&nbsp;
+<img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" height="17" alt="WhatsApp-logo" /> [**WhatsApp**](http://api.whatsapp.com/send?phone=5569993606894)
 </div>
