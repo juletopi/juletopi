@@ -50,7 +50,7 @@ looking where to fit in this world of programming.
 
 ###
 
-<img src="https://www.anoticiamais.com.br/wp-content/uploads/2016/11/Ifro.jpg" align="left" width="94px" height="94px" alt="IFRO-pic"/>
+<img src="https://www.anoticiamais.com.br/wp-content/uploads/2016/11/Ifro.jpg" align="left" width="94" height="94" alt="IFRO-pic"/>
 
 **IFRO (Instituto Federal de Rondônia) - Campus Ji-Paraná** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana/ji-parana) • `Federal Institute` \
@@ -60,7 +60,7 @@ Graduation in System Analisys and Developmet \
 
 ###
 
-<img src="https://scontent.fcgb9-1.fna.fbcdn.net/v/t39.30808-6/296281125_179170704484469_3136119340022999762_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEKCtgNAOu7Y6Uz-ziQ3KdlSxiVFTJTQTBLGJUVMlNBMOVZldgawmi-_Iip8gNZYhDqvPRlCdKZBCu-5_I9Y8P0&_nc_ohc=1v5xH-CSngEAX84wDBs&_nc_zt=23&_nc_ht=scontent.fcgb9-1.fna&oh=00_AT8l4gNtsKoAWMcB-T3oT29CSf-C7mDUp6RcXiYrSPKBXQ&oe=631E5B92" align="left" width="94px" height="94px" alt="DanielNeri-pic"/>
+<img src="https://scontent.fcgb9-1.fna.fbcdn.net/v/t39.30808-6/296281125_179170704484469_3136119340022999762_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEKCtgNAOu7Y6Uz-ziQ3KdlSxiVFTJTQTBLGJUVMlNBMOVZldgawmi-_Iip8gNZYhDqvPRlCdKZBCu-5_I9Y8P0&_nc_ohc=1v5xH-CSngEAX84wDBs&_nc_zt=23&_nc_ht=scontent.fcgb9-1.fna&oh=00_AT8l4gNtsKoAWMcB-T3oT29CSf-C7mDUp6RcXiYrSPKBXQ&oe=631E5B92" align="left" width="94" height="94" alt="DanielNeri-pic"/>
 
 **E.E.E.F.M (Escola Estadual de Ensino Fundamental e Médio) Professor Daniel Neri da Silva** \
 [**E.E.E.F.M. Daniel Neri**](https://www.melhorescola.com.br/escola/eeefm-professor-daniel-neri-da-silva) • `School & High School` \
@@ -78,14 +78,16 @@ more detailed info. about my education and certifications.
 ###
 &#8196;
 
-----
+<div align="center">
+  <img align="center" src="http://mycouponexpert.com/wp-content/uploads/2016/04/but-wait-theres-more.png" align="center" width="250" height="120" alt="ThereIsMore-pic"/>
+</div>
 
 ###
 &#8196;
 
 <div align="center">
 
-### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20px" height="20px" alt="BlurpleGithub-emoji"></a>&#160; My GitHub Stats:
+### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20" height="20" alt="BlurpleGithub-emoji"></a>&#160; My GitHub Stats:
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=2&section=header&%20render">
 
 <div align="center">
@@ -99,7 +101,7 @@ more detailed info. about my education and certifications.
 
 <div align="center">
 
-### <a href="https://emoji.gg/emoji/3468_book_n_quill"><img src="https://cdn3.emoji.gg/emojis/3468_book_n_quill.png" width="23px" height="23px" alt="BooknQuill-emoji"></a>&#160; What am I currently learning?
+### <a href="https://emoji.gg/emoji/3468_book_n_quill"><img src="https://cdn3.emoji.gg/emojis/3468_book_n_quill.png" width="23" height="23" alt="BooknQuill-emoji"></a>&#160; What am I currently learning?
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=2&section=header&%20render">
 
 <div align="center">
@@ -116,15 +118,15 @@ more detailed info. about my education and certifications.
 
 <div align="center">
 
-### <a href="https://emoji.gg/emoji/8137_SpeechBubble"><img src="https://cdn3.emoji.gg/emojis/8137_SpeechBubble.png" width="23px" height="20px" alt="SpeechBubble-emoji"></a>&#160; Socials & Contacts:
+### <a href="https://emoji.gg/emoji/8137_SpeechBubble"><img src="https://cdn3.emoji.gg/emojis/8137_SpeechBubble.png" width="23" height="20" alt="SpeechBubble-emoji"></a>&#160; Socials & Contacts:
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=2&section=header&%20render">
 </div>
 &#8196;
 
 <div align="center">
-<code><a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40px" height="40px" alt="LinkedIn-icon"></a></code>&nbsp;&nbsp;
-  <code><a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="40px" height="40px" alt="Instagram-icon"></a></code>&nbsp;&nbsp;
-  <code><a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40px" height="40px" alt="Facebook-icon"></a></code>&nbsp;&nbsp;
-  <code><a href="mailto:juliocezarpvh@hotmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="40px" height="40px" alt="Outlook-icon"></a></code>&nbsp;&nbsp;
-  <code><a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="40px" height="40px" alt="WhatsApp-icon"></a></code>&nbsp;&nbsp;
+<code><a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" alt="LinkedIn-icon"></a></code>&nbsp;&nbsp;
+  <code><a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="40" height="40" alt="Instagram-icon"></a></code>&nbsp;&nbsp;
+  <code><a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook-icon"></a></code>&nbsp;&nbsp;
+  <code><a href="mailto:juliocezarpvh@hotmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="40" height="40" alt="Outlook-icon"></a></code>&nbsp;&nbsp;
+  <code><a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="40" height="40" alt="WhatsApp-icon"></a></code>&nbsp;&nbsp;
 </div>
