@@ -17,7 +17,7 @@
 &#8196; 
 
 <div>
-<img align="right" src="https://user-images.githubusercontent.com/76459155/189585671-a24e7add-f4b2-48f6-a558-1e1f6220ba68.png" align="left" width="400px" alt="-pic"/><h1>About me</h1>
+<img align="right" src="https://user-images.githubusercontent.com/76459155/189586069-775c6ea7-bd5a-4b53-ad79-8294171c7089.png" align="left" width="400px" alt="JulioAboutMe-pic"/><h1>About me</h1>
 
 ###
 
