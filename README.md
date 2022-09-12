@@ -30,6 +30,7 @@
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=2&section=header&%20render">
 </div>
+&#8196;
 
 <div align="left">
   <details>
@@ -94,6 +95,7 @@ more detailed info. about my education and certifications.
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=2&section=header&%20render">
 </div>
+&#8196;
 
 <div align="center">
 
