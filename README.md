@@ -13,7 +13,6 @@
 -->
 
 <img align="left" src="https://komarev.com/ghpvc/?username=juletopi&color=red" alt="Juletopi-profileviews">
-
 &#8196; 
 
 <div>
@@ -48,6 +47,8 @@ looking where to fit in this world of programming.
 ###
 
 # Education
+
+###
 
 <img src="https://www.anoticiamais.com.br/wp-content/uploads/2016/11/Ifro.jpg" align="left" width="94px" height="94px" alt="IFRO-pic"/>
 
