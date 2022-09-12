@@ -6,6 +6,10 @@
 🔗 • https://github.com/DenverCoder1/github-readme-streak-stats
 🔗 • https://github.com/anuraghazra/github-readme-stats
 🔗 • https://github.com/alexandresanlim/Badges4-README.md-Profile
+🔗 • https://devicon.dev
+🔗 • https://shields.io
+🔗 • https://emoji.gg
+🔗 • https://getemoji.com
 -->
 
 <img align="left" src="https://komarev.com/ghpvc/?username=juletopi&color=red" alt="Juletopi-profileviews">
