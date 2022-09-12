@@ -76,18 +76,11 @@ more detailed info. about my education and certifications.
 
 </div>
 
-###
-&#8196;
-
 <div align="center">
-  <img align="center" src="http://mycouponexpert.com/wp-content/uploads/2016/04/but-wait-theres-more.png" align="center" width="250" height="120" alt="ThereIsMore-pic"/>
+  <img align="center" src="https://user-images.githubusercontent.com/76459155/189600031-ca522bb3-7921-4f2b-a0c3-fe9655f4165e.png" align="center" width="1000" height="200" alt="ThereIsMore-pic"/>
 </div>
 
-###
-&#8196;
-
 <div align="center">
-
 ### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20" height="20" alt="BlurpleGithub-emoji"></a>&#160; My GitHub Stats:
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=2&section=header&%20render">
 
