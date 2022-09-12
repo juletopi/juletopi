@@ -76,7 +76,12 @@ more detailed info. about my education and certifications.
 </div>
 
 ###
-&#8196; 
+&#8196;
+
+----
+
+###
+&#8196;
 
 <div align="center">
 
