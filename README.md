@@ -16,38 +16,13 @@
 
 <div align="center">
   <h1>Hello Wor-... actually, I need some energetic <a href="https://emoji.gg/emoji/9202-panda-redbull-yoink"><img src="https://cdn3.emoji.gg/emojis/9202-panda-redbull-yoink.gif" width="60px" height="60px" alt="PandaRedbullYoink-gif"></a></h1>
-  <img src="https://i0.wp.com/24.media.tumblr.com/1c146218ae8aee595ec45784ae98f076/tumblr_mjk9t4LutC1qkai1do1_500.gif" align="right" width="460" height="325" alt="AnimeCoding-gif">
 </div>
-
-<div align="left">
-
-```
- ____
-|  _ \ _ __ ___   __ _ _ __ __ _ _ __ ___   ___ _ __
-| |_) | '__/ _ \ / _` | '__/ _` | '_ ` _ \ / _ | '__|
-|  __/| | | (_) | (_| | | | (_| | | | | | |  __| |
-|_|   |_|  \___/ \__, |_|  \__,_|_| |_| |_|\___|_|
-                  |___/
-                     _
-                    (_)_ __
-                    | | '_ \
-                    | | | | |
-                    |_|_| |_|
-
-     _ __  _ __ ___   __ _ _ __ ___ ___ ___
-    | '_ \| '__/ _ \ / _` | '__/ _ / __/ __|
-    | |_) | | | (_) | (_| | | |  __\__ \__ \_ _ _
-    | .__/|_|  \___/ \__, |_|  \___|___|___(_(_(_)
-    |_|              |___/
-```
 
 ###
 
 <div align="left">
-  <details>
-<summary>📕 About Me!</summary>
 
-## Resume: (About Me!)
+### 📕 About Me!
 
 **#👋 Heya folks, i'm Júlio!**
  
@@ -72,11 +47,7 @@ looking where to fit in this world of programming.
 
 ###
 
-<div align="left">
-  <details>
-<summary>🎒 Education</summary>
-
-## Resume: (Education)
+### 🎒 Education
 
 <img src="https://www.anoticiamais.com.br/wp-content/uploads/2016/11/Ifro.jpg" align="left" width="94px" height="94px" alt="IFRO-pic"/>
 
