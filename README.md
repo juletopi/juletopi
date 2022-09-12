@@ -17,7 +17,7 @@
 &#8196; 
 
 <div>
-<img align="right" src="https://user-images.githubusercontent.com/76459155/189586069-775c6ea7-bd5a-4b53-ad79-8294171c7089.png" align="left" width="380" alt="JulioAboutMe-pic"/><h1>About me</h1>
+  <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/JulioAboutMe-pic.png"><img align="right" src="https://user-images.githubusercontent.com/76459155/189586069-775c6ea7-bd5a-4b53-ad79-8294171c7089.png" align="left" width="380" alt="JulioAboutMe-pic"/></a><h1>About me</h1>
 
 ###
 
@@ -50,7 +50,7 @@ looking where to fit in this world of programming.
 
 ###
 
-<img src="https://www.anoticiamais.com.br/wp-content/uploads/2016/11/Ifro.jpg" align="left" width="94" height="94" alt="IFRO-pic"/>
+<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/IFRO-pic.jpg"><img src="https://www.anoticiamais.com.br/wp-content/uploads/2016/11/Ifro.jpg" align="left" width="94" height="94" alt="IFRO-pic"/></a>
 
 **IFRO (Instituto Federal de Rondônia) - Campus Ji-Paraná** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana/ji-parana) • `Federal Institute` \
@@ -60,7 +60,7 @@ Graduation in System Analisys and Developmet \
 
 ###
 
-<img src="https://scontent.fcgb9-1.fna.fbcdn.net/v/t39.30808-6/296281125_179170704484469_3136119340022999762_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEKCtgNAOu7Y6Uz-ziQ3KdlSxiVFTJTQTBLGJUVMlNBMOVZldgawmi-_Iip8gNZYhDqvPRlCdKZBCu-5_I9Y8P0&_nc_ohc=1v5xH-CSngEAX84wDBs&_nc_zt=23&_nc_ht=scontent.fcgb9-1.fna&oh=00_AT8l4gNtsKoAWMcB-T3oT29CSf-C7mDUp6RcXiYrSPKBXQ&oe=631E5B92" align="left" width="94" height="94" alt="DanielNeri-pic"/>
+<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/DanielNeri-pic.jpg"><img src="https://scontent.fcgb9-1.fna.fbcdn.net/v/t39.30808-6/296281125_179170704484469_3136119340022999762_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEKCtgNAOu7Y6Uz-ziQ3KdlSxiVFTJTQTBLGJUVMlNBMOVZldgawmi-_Iip8gNZYhDqvPRlCdKZBCu-5_I9Y8P0&_nc_ohc=1v5xH-CSngEAX84wDBs&_nc_zt=23&_nc_ht=scontent.fcgb9-1.fna&oh=00_AT8l4gNtsKoAWMcB-T3oT29CSf-C7mDUp6RcXiYrSPKBXQ&oe=631E5B92" align="left" width="94" height="94" alt="DanielNeri-pic"/></a>
 
 **E.E.E.F.M (Escola Estadual de Ensino Fundamental e Médio) Professor Daniel Neri da Silva** \
 [**E.E.E.F.M. Daniel Neri**](https://www.melhorescola.com.br/escola/eeefm-professor-daniel-neri-da-silva) • `School & High School` \
@@ -75,7 +75,7 @@ more detailed info. about my education and certifications.
 </div>
 
 <div align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/76459155/189623934-c8028206-839d-478d-8e35-8b8ae55fd161.png" align="center" width="800" height="100" alt="ThereIsMore-pic"/>
+  <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/TheresMore-pic.png" ><img align="center" src="https://user-images.githubusercontent.com/76459155/189623934-c8028206-839d-478d-8e35-8b8ae55fd161.png" align="center" width="800" height="100" alt="ThereIsMore-pic"/></a>
 </div>
 
 <div align="center">
@@ -128,5 +128,5 @@ more detailed info. about my education and certifications.
 &#8196; 
 
 <div align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/76459155/189621564-f03a3dc6-3ef8-404e-8bfc-17815b409f2a.png" align="center" width="500" height="80" alt="ThanksForVisiting-pic" /> &#8196; <a href="https://emoji.gg/emoji/1564-momijiwave"><img src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" width="60" height="60" alt="MomijiWave-emoji"></a>
+  <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/ThanksForVisiting-pic.png"><img align="center" src="https://user-images.githubusercontent.com/76459155/189621564-f03a3dc6-3ef8-404e-8bfc-17815b409f2a.png" align="center" width="500" height="80" alt="ThanksForVisiting-pic" /></a> &#8196; <a href="https://emoji.gg/emoji/1564-momijiwave"><img src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" width="60" height="60" alt="MomijiWave-emoji"></a>
 </div>
