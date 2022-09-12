@@ -14,15 +14,16 @@
 
 <img align="left" src="https://komarev.com/ghpvc/?username=juletopi&color=red" alt="Juletopi-profileviews">
 
-<div align="center">
-  <h1>Hello Wor-... actually, I need some energetic <a href="https://emoji.gg/emoji/9202-panda-redbull-yoink"><img src="https://cdn3.emoji.gg/emojis/9202-panda-redbull-yoink.gif" width="60px" height="60px" alt="PandaRedbullYoink-gif"></a></h1>
-</div>
+&#8196; 
+
+<div>
+  <h1>About me</h1>
 
 ###
 
 <div align="left">
 
-### 📕 About Me!
+###
 
 **#👋 Heya folks, i'm Júlio!**
  
@@ -41,13 +42,11 @@ looking where to fit in this world of programming.
 - Computational Mathematics
 - Requirements Engineering
 
-----
-
 </div>
 
 ###
 
-### 🎒 Education
+# Education
 
 <img src="https://www.anoticiamais.com.br/wp-content/uploads/2016/11/Ifro.jpg" align="left" width="94px" height="94px" alt="IFRO-pic"/>
 
