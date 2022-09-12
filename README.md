@@ -96,7 +96,7 @@ more detailed info. about my education and certifications.
 <div align="center">
 
 ### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20px" height="20px" alt="BlurpleGithub-emoji"></a>&#160; My GitHub Stats:
-  <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=a40303&height=2&section=header&%20render&fontSize=90">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=2&section=header&%20render&fontSize=90">
 
 &nbsp;
 
@@ -112,7 +112,7 @@ more detailed info. about my education and certifications.
 <div align="center">
 
 ### <a href="https://emoji.gg/emoji/3468_book_n_quill"><img src="https://cdn3.emoji.gg/emojis/3468_book_n_quill.png" width="23px" height="23px" alt="BooknQuill-emoji"></a>&#160; What am I currently learning?
-  <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=a40303&height=2&section=header&%20render&fontSize=90">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=2&section=header&%20render&fontSize=90">
   
 &nbsp;
 
@@ -132,7 +132,7 @@ more detailed info. about my education and certifications.
 <div align="center">
 
 ### <a href="https://emoji.gg/emoji/8137_SpeechBubble"><img src="https://cdn3.emoji.gg/emojis/8137_SpeechBubble.png" width="23px" height="20px" alt="SpeechBubble-emoji"></a>&#160; Socials & Contacts:
-  <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=a40303&height=2&section=header&%20render&fontSize=90">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=2&section=header&%20render&fontSize=90">
   
 &nbsp;
 
