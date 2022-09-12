@@ -123,3 +123,10 @@ more detailed info. about my education and certifications.
   <code><a href="mailto:juliocezarpvh@hotmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="40" height="40" alt="Outlook-icon"></a></code>&nbsp;&nbsp;
   <code><a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="40" height="40" alt="WhatsApp-icon"></a></code>&nbsp;&nbsp;
 </div>
+
+###
+&#8196; 
+
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/76459155/189621564-f03a3dc6-3ef8-404e-8bfc-17815b409f2a.png" align="center" width="650" height="80" alt="ThanksForVisiting-pic" /> &#8196; <a href="https://emoji.gg/emoji/1564-momijiwave"><img src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" width="60" height="60" alt="MomijiWave-emoji"></a>
+</div>
