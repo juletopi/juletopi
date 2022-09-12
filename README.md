@@ -17,7 +17,7 @@
 &#8196; 
 
 <div>
-<img align="right" src="https://user-images.githubusercontent.com/76459155/189586069-775c6ea7-bd5a-4b53-ad79-8294171c7089.png" align="left" width="300px" alt="JulioAboutMe-pic"/><h1>About me</h1>
+<img align="right" src="https://user-images.githubusercontent.com/76459155/189586069-775c6ea7-bd5a-4b53-ad79-8294171c7089.png" align="left" width="380" alt="JulioAboutMe-pic"/><h1>About me</h1>
 
 ###
 
@@ -33,8 +33,8 @@ looking where to fit in this world of programming.
  
 👾 **▸ About my hobbies, I like:**
 
-🎮 `Games` • 🎲 `RPG` • 🖌️ `Ilustration` • 📚 `Learning` \
-🎧 `Music` • 🍜 `Anime`
+🎮 `Games` • 🎲 `RPG` • 🖌️ `Ilustration`
+📚 `Learning` • 🎧 `Music` • 🍜 `Anime`
  
 🤓 **▸ In what I study for now, I can quote:**
  
