@@ -75,7 +75,7 @@ more detailed info. about my education and certifications.
 </div>
 
 <div align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/76459155/189606672-5693d2bf-8192-4b2f-8eb3-4afc916d6ce3.png" align="center" width="1000" height="100" alt="ThereIsMore-pic"/>
+  <img align="center" src="https://user-images.githubusercontent.com/76459155/189623934-c8028206-839d-478d-8e35-8b8ae55fd161.png" align="center" width="1000" height="100" alt="ThereIsMore-pic"/>
 </div>
 
 <div align="center">
