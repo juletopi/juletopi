@@ -112,12 +112,9 @@ more detailed info. about my education and certifications.
 ### <a href="https://emoji.gg/emoji/3468_book_n_quill"><img src="https://cdn3.emoji.gg/emojis/3468_book_n_quill.png" width="23px" height="23px" alt="BooknQuill-emoji"></a>&#160; What am I currently learning?
   <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=2&section=header&%20render">
 
-&nbsp;
-  
-</div>
-
 <div align="center">
-  
+&#8196; 
+ 
 | IDEs & Frameworks: | Languages: |
 | ------------------ | ---------- |
 | &#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&nbsp; <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio-badge"></a> | &#8199; <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="53" height="38" alt="RStudio-icon"></a>
@@ -131,10 +128,8 @@ more detailed info. about my education and certifications.
 
 ### <a href="https://emoji.gg/emoji/8137_SpeechBubble"><img src="https://cdn3.emoji.gg/emojis/8137_SpeechBubble.png" width="23px" height="20px" alt="SpeechBubble-emoji"></a>&#160; Socials & Contacts:
   <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=2&section=header&%20render">
-  
-&nbsp;
-
 </div>
+&#8196;
 
 <div align="center">
 <code><a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40px" height="40px" alt="LinkedIn-icon"></a></code>&nbsp;&nbsp;
