@@ -42,7 +42,6 @@ looking where to fit in this world of programming.
 - Computer Architectures & Organization
 - Computational Mathematics
 - Requirements Engineering
-
 </div>
 
 ###
@@ -73,14 +72,14 @@ Student in School and High School \
 
 ❗ **▸** Please, consider visiting my [**LinkedIn**](https://www.linkedin.com/in/julio-cezar-pereira-camargo/) for a \
 more detailed info. about my education and certifications.
-
 </div>
 
 <div align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/76459155/189600031-ca522bb3-7921-4f2b-a0c3-fe9655f4165e.png" align="center" width="1000" height="200" alt="ThereIsMore-pic"/>
+  <img align="center" src="https://user-images.githubusercontent.com/76459155/189605464-8a642421-d581-4b31-8241-641a83184abd.png" align="center" width="1000" height="200" alt="ThereIsMore-pic"/>
 </div>
 
 <div align="center">
+ 
 ### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20" height="20" alt="BlurpleGithub-emoji"></a>&#160; My GitHub Stats:
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=2&section=header&%20render">
 
