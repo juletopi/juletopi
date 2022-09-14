@@ -75,7 +75,7 @@ more detailed info. about my education and certifications.
 </div>
 
 <div align="center">
-  <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/TheresMore-pic.png" ><img align="center" src="https://user-images.githubusercontent.com/76459155/189623934-c8028206-839d-478d-8e35-8b8ae55fd161.png" align="center" width="700" height="100" alt="ThereIsMore-pic"/></a>
+  <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/TheresMore-pic.png" ><img align="center" src="https://user-images.githubusercontent.com/76459155/189623934-c8028206-839d-478d-8e35-8b8ae55fd161.png" align="center" width="700" height="80" alt="ThereIsMore-pic"/></a>
 </div>
 
 <div align="center">
