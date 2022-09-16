@@ -14,10 +14,10 @@
 -->
 
 <img align="left" src="https://komarev.com/ghpvc/?username=juletopi&color=red" alt="Juletopi-profileviews">
-&#8196; 
-
+&#8196;
 <div>
-  <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/JulioAboutMe-pic.png"><img align="right" src="https://user-images.githubusercontent.com/76459155/189586069-775c6ea7-bd5a-4b53-ad79-8294171c7089.png" align="left" width="380" alt="JulioAboutMe-pic"/></a><h1>About me</h1>
+
+<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/JulioAboutMe-pic.png"><img align="right" src="https://user-images.githubusercontent.com/76459155/189586069-775c6ea7-bd5a-4b53-ad79-8294171c7089.png" align="left" width="380" alt="JulioAboutMe-pic"/></a><h1>About me</h1>
 
 ###
 
@@ -45,11 +45,11 @@ looking where to fit in this world of programming.
 
 ### 💬 Socials & Contacts:
 
-  <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" alt="LinkedIn-icon"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="40" height="40" alt="Instagram-icon"></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook-icon"></a>&nbsp;&nbsp;
-  <a href="mailto:juliocezarpvh@hotmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="40" height="40" alt="Outlook-icon"></a>&nbsp;&nbsp;
-  <a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="40" height="40" alt="WhatsApp-icon"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" alt="LinkedIn-icon"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="40" height="40" alt="Instagram-icon"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook-icon"></a>&nbsp;&nbsp;
+<a href="mailto:juliocezarpvh@hotmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="40" height="40" alt="Outlook-icon"></a>&nbsp;&nbsp;
+<a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="40" height="40" alt="WhatsApp-icon"></a>&nbsp;&nbsp;
 </div>
 
 ###
@@ -83,7 +83,7 @@ more detailed info. about my education and certifications.
 </div>
 
 <div align="center">
-  <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/TheresMore-pic.png" ><img align="center" src="https://user-images.githubusercontent.com/76459155/189623934-c8028206-839d-478d-8e35-8b8ae55fd161.png" align="center" width="700" height="80" alt="ThereIsMore-pic"/></a>
+<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/TheresMore-pic.png" ><img align="center" src="https://user-images.githubusercontent.com/76459155/189623934-c8028206-839d-478d-8e35-8b8ae55fd161.png" align="center" width="700" height="80" alt="ThereIsMore-pic"/></a>
 </div>
 
 <div align="center">
@@ -92,10 +92,10 @@ more detailed info. about my education and certifications.
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=2&section=header&%20render">
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118" width="480" alt="Juletopi-stats"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=default&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118" alt="JuletopiTopLangs-stats"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118" width="480" alt="Juletopi-stats"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=default&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118" alt="JuletopiTopLangs-stats"></a>
 <div align="center">
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juletopi&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="JuletopiStreak-stats"></a>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juletopi&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="JuletopiStreak-stats"></a>
 </div>
 
 ###
@@ -119,6 +119,5 @@ more detailed info. about my education and certifications.
 &#8196; 
 
 <div align="center">
-
   <a href="https://user-images.githubusercontent.com/76459155/190626822-07db797b-c700-49ba-acc6-9dbcc32ef235.png"><img align="center" src="https://user-images.githubusercontent.com/76459155/189621564-f03a3dc6-3ef8-404e-8bfc-17815b409f2a.png" align="center" width="600" height="80" alt="ThanksForVisiting-pic" /></a> &#8196; <a href="https://emoji.gg/emoji/1564-momijiwave"><img src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" width="55" height="55" alt="MomijiWave-emoji"></a>
 </div>
