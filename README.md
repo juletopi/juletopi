@@ -43,7 +43,7 @@ looking where to fit in this world of programming.
 - Computational Mathematics
 - Requirements Engineering
 
-### <a href="https://emoji.gg/emoji/8137_SpeechBubble"><img src="https://cdn3.emoji.gg/emojis/8137_SpeechBubble.png" width="23" height="20" alt="SpeechBubble-emoji"></a>&#160; Socials & Contacts:
+### 💬 Socials & Contacts:
 
 <code><a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" alt="LinkedIn-icon"></a></code>&nbsp;&nbsp;
   <code><a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="40" height="40" alt="Instagram-icon"></a></code>&nbsp;&nbsp;
@@ -119,5 +119,5 @@ more detailed info. about my education and certifications.
 &#8196; 
 
 <div align="center">
-  <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/ThanksForVisiting-pic.png"><img align="center" src="https://user-images.githubusercontent.com/76459155/189621564-f03a3dc6-3ef8-404e-8bfc-17815b409f2a.png" align="center" width="500" height="70" alt="ThanksForVisiting-pic" /></a> &#8196; <a href="https://emoji.gg/emoji/1564-momijiwave"><img src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" width="55" height="55" alt="MomijiWave-emoji"></a>
+  <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/ThanksForVisiting-pic.png"><img align="center" src="https://user-images.githubusercontent.com/76459155/189621564-f03a3dc6-3ef8-404e-8bfc-17815b409f2a.png" align="center" width="500" height="100" alt="ThanksForVisiting-pic" /></a> &#8196; <a href="https://emoji.gg/emoji/1564-momijiwave"><img src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" width="55" height="55" alt="MomijiWave-emoji"></a>
 </div>
