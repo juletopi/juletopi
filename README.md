@@ -25,7 +25,7 @@
 
 ###
 
-**#👋 Heya folks, i'm Júlio!**
+### 👋 Heya folks, i'm Júlio!
  
 🌱 **▸** I'm currently studying System Analysis and \
 Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), and \
@@ -42,6 +42,14 @@ looking where to fit in this world of programming.
 - Computer Architectures & Organization
 - Computational Mathematics
 - Requirements Engineering
+
+### <a href="https://emoji.gg/emoji/8137_SpeechBubble"><img src="https://cdn3.emoji.gg/emojis/8137_SpeechBubble.png" width="23" height="20" alt="SpeechBubble-emoji"></a>&#160; Socials & Contacts:
+
+<code><a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" alt="LinkedIn-icon"></a></code>&nbsp;&nbsp;
+  <code><a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="40" height="40" alt="Instagram-icon"></a></code>&nbsp;&nbsp;
+  <code><a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook-icon"></a></code>&nbsp;&nbsp;
+  <code><a href="mailto:juliocezarpvh@hotmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="40" height="40" alt="Outlook-icon"></a></code>&nbsp;&nbsp;
+  <code><a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="40" height="40" alt="WhatsApp-icon"></a></code>&nbsp;&nbsp;
 </div>
 
 ###
@@ -105,23 +113,6 @@ more detailed info. about my education and certifications.
 | &#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&nbsp;&nbsp;&nbsp; <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio-badge"></a> | &#8199;&#8199;&#8199;&nbsp;&nbsp; <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="53" height="38" alt="RStudio-icon"></a>
 | &#8199;&#8199;&#8199;&nbsp;&nbsp; <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VisualStudio-badge"></a> | &#8199;&#8199;&#8199;&#8199;&nbsp; <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="35" alt="CSharp-icon"></a>
 | <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="GitKraken-badge"> &#160; </a> <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-badge"></a>| &#8199;&#8199;&#8199;&#8199;&nbsp; <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="35" alt="Git-icon"></a>
-</div>
-
-###
-
-<div align="center">
-
-### <a href="https://emoji.gg/emoji/8137_SpeechBubble"><img src="https://cdn3.emoji.gg/emojis/8137_SpeechBubble.png" width="23" height="20" alt="SpeechBubble-emoji"></a>&#160; Socials & Contacts:
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=2&section=header&%20render">
-</div>
-&#8196;
-
-<div align="center">
-<code><a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" alt="LinkedIn-icon"></a></code>&nbsp;&nbsp;
-  <code><a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="40" height="40" alt="Instagram-icon"></a></code>&nbsp;&nbsp;
-  <code><a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook-icon"></a></code>&nbsp;&nbsp;
-  <code><a href="mailto:juliocezarpvh@hotmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="40" height="40" alt="Outlook-icon"></a></code>&nbsp;&nbsp;
-  <code><a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="40" height="40" alt="WhatsApp-icon"></a></code>&nbsp;&nbsp;
 </div>
 
 ###
