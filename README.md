@@ -89,7 +89,7 @@ more detailed info. about my education and certifications.
 <div align="center">
  
 ### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20" height="20" alt="BlurpleGithub-emoji"></a>&#160; My GitHub Stats:
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=2&section=header&%20render">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=3&section=header&%20render">
 
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118" width="480" alt="Juletopi-stats"></a>
@@ -103,7 +103,7 @@ more detailed info. about my education and certifications.
 <div align="center">
 
 ### <a href="https://emoji.gg/emoji/3468_book_n_quill"><img src="https://cdn3.emoji.gg/emojis/3468_book_n_quill.png" width="23" height="23" alt="BooknQuill-emoji"></a>&#160; What am I currently learning?
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=2&section=header&%20render">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=3&section=header&%20render">
 
 <div align="center">
 &#8196; 
