@@ -33,7 +33,7 @@ looking where to fit in this world of programming.
  
 👾 **▸ About my hobbies, I like:**
 
-🎮 `Games` • 🎲 `RPG` • 🖌️ `Ilustration` • 📚 `Learning` \
+🎮 `Games` • 🎲 `RPG` • 🖌️ `Illustration` • 📚 `Learning` \
 &#8199;&#8199;&#8199;&#8199;&#8199;&#8196; 🚲 `Biking` • 🎧 `Music` • 🍜 `Anime`
  
 🤓 **▸ In what I study for now, I can quote:**
@@ -62,7 +62,7 @@ looking where to fit in this world of programming.
 
 **IFRO (Instituto Federal de Rondônia) - Campus Ji-Paraná** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana/ji-parana) • `Federal Institute` \
-Graduation in System Analisys and Developmet \
+Graduation in System Analysis and Development \
 <i>Jul. 2022</i> - <i>currently now...</i>
 <br/>
 
