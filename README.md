@@ -17,7 +17,8 @@
 &#8196;
 <div>
 
-<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/JulioAboutMe-pic.png"><img align="right" src="https://user-images.githubusercontent.com/76459155/189586069-775c6ea7-bd5a-4b53-ad79-8294171c7089.png" align="left" width="380" alt="JulioAboutMe-pic"/></a><h1>About me</h1>
+<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/JulioAboutMe-pic.png"><img align="right" src="https://user-images.githubusercontent.com/76459155/189586069-775c6ea7-bd5a-4b53-ad79-8294171c7089.png" align="left" width="380" alt="JulioAboutMe-pic"/></a>
+<h1>About me</h1>
 
 ###
 
