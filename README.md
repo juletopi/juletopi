@@ -121,5 +121,5 @@ more detailed info. about my education and certifications.
 &#8196; 
 
 <div align="center">
-<a href="https://user-images.githubusercontent.com/76459155/190626822-07db797b-c700-49ba-acc6-9dbcc32ef235.png"><img align="center" src="https://user-images.githubusercontent.com/76459155/189621564-f03a3dc6-3ef8-404e-8bfc-17815b409f2a.png" align="center" width="530" height="75" alt="ThanksForVisiting-pic" /></a> &#8196; <a href="https://emoji.gg/emoji/1564-momijiwave"><img src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" width="48" height="48" alt="MomijiWave-emoji"></a>
+<a href="https://user-images.githubusercontent.com/76459155/190626822-07db797b-c700-49ba-acc6-9dbcc32ef235.png"><img align="center" src="https://user-images.githubusercontent.com/76459155/189621564-f03a3dc6-3ef8-404e-8bfc-17815b409f2a.png" align="center" width="520" height="75" alt="ThanksForVisiting-pic" /></a> &#8196; <a href="https://emoji.gg/emoji/1564-momijiwave"><img src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" width="48" height="48" alt="MomijiWave-emoji"></a>
 </div>
