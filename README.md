@@ -28,9 +28,9 @@
 
 ### 👋 Heya folks, i'm Júlio!
  
-🌱 **▸** I'm currently studying System Analysis and \
+🌱 **▸ I'm currently studying System Analysis and \
 Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), and \
-looking where to fit in this world of programming.
+looking where to fit in this world of programming.**
  
 ### 👾 About my hobbies, I like:
 
@@ -39,10 +39,10 @@ looking where to fit in this world of programming.
  
 ### 🤓 In what I study for now, I can quote:
  
-- Algorithms & Programming Logic
-- Computer Architectures & Organization
-- Computational Mathematics
-- Requirements Engineering
+- **Algorithms & Programming Logic**
+- **Computer Architectures & Organization**
+- **Computational Mathematics**
+- **Requirements Engineering**
 
 ### 💬 Socials & Contacts:
 
