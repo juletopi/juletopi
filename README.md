@@ -32,12 +32,12 @@
 Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), and \
 looking where to fit in this world of programming.
  
-👾 **▸ About my hobbies, I like:**
+### 👾 About my hobbies, I like:
 
 🎮 `Games` • 🎲 `RPG` • 🖌️ `Illustration` • 📚 `Learning` \
 &#8199;&#8199;&#8199;&#8199;&#8199;&#8196; 🚲 `Biking` • 🎧 `Music` • 🍜 `Anime`
  
-🤓 **▸ In what I study for now, I can quote:**
+### 🤓 In what I study for now, I can quote:
  
 - Algorithms & Programming Logic
 - Computer Architectures & Organization
