@@ -59,7 +59,7 @@ looking where to fit in this world of programming.**
 
 ###
 
-<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/IFRO-pic.jpg"><img src="https://www.anoticiamais.com.br/wp-content/uploads/2016/11/Ifro.jpg" align="left" width="94" height="94" alt="IFRO-pic"/></a>
+<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/IFRO-pic.jpg"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Images/IFRO-pic.jpg?raw=true" align="left" width="94" height="94" alt="IFRO-pic"/></a>
 
 **IFRO (Instituto Federal de Rondônia) - Campus Ji-Paraná** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana/ji-parana) • `Federal Institute` \
@@ -69,7 +69,7 @@ Graduation in System Analysis and Development \
 
 ###
 
-<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/DanielNeri-pic.jpg"><img src="https://encurtador.com.br/lrE58" align="left" width="94" height="94" alt="DanielNeri-pic"/></a>
+<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/DanielNeri-pic.jpg"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Images/DanielNeri-pic.jpg?raw=true" align="left" width="94" height="94" alt="DanielNeri-pic"/></a>
 
 **E.E.E.F.M (Escola Estadual de Ensino Fundamental e Médio) Professor Daniel Neri da Silva** \
 [**E.E.E.F.M. Daniel Neri**](https://www.melhorescola.com.br/escola/eeefm-professor-daniel-neri-da-silva) • `School & High School` \
