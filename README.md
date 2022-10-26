@@ -89,15 +89,18 @@ more detailed info. about my education and certifications.
 
 <div align="center">
  
-### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20" height="20" alt="BlurpleGithub-emoji"></a>&#160; My GitHub Stats:
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
+## <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="27" height="27" alt="BlurpleGithub-emoji"></a>&#160; My GitHub Stats:
 
 <div align="center">
 <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=juletopi&bg_color=0e1118&hide_border=true&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="JuletopiContribution-stats"></a>
 
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
+
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118" width="480" alt="Juletopi-stats"></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=default&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118" alt="JuletopiTopLangs-stats"></a>
+
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
 
 <div align="center">
 <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juletopi&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="JuletopiStreak-stats"></a>
@@ -107,8 +110,7 @@ more detailed info. about my education and certifications.
 
 <div align="center">
 
-### <a href="https://emoji.gg/emoji/3468_book_n_quill"><img src="https://cdn3.emoji.gg/emojis/3468_book_n_quill.png" width="23" height="23" alt="BooknQuill-emoji"></a>&#160; What am I currently learning?
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
+## <a href="https://emoji.gg/emoji/3468_book_n_quill"><img src="https://cdn3.emoji.gg/emojis/3468_book_n_quill.png" width="28" height="28" alt="BooknQuill-emoji"></a>&#160; What am I currently learning?
 
 <div align="center">
 &#8196; 
