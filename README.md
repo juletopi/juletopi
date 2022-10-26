@@ -73,7 +73,6 @@ Graduation in System Analysis and Development \
 📍 **Ji-Paraná, Rondônia, Brazil**
 
 ###
-&#8196;
 
 <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/DanielNeri-pic.jpg"><img src="https://user-images.githubusercontent.com/76459155/198151731-1b0a789e-8435-4702-a7c4-1e2915917c4c.png" align="left" width="120" height="120" alt="DanielNeri-pic"/></a>
 
