@@ -64,7 +64,7 @@ looking where to fit in this world of programming.**
 
 ###
 
-<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/IFRO-pic.jpg"><img src="https://user-images.githubusercontent.com/76459155/198151574-4e290036-3ac2-46e1-a211-2f2eb25e9495.png" align="left" width="120" height="120" alt="IFRO-pic"/></a>
+<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/IFRO-pic.png"><img src="https://user-images.githubusercontent.com/76459155/198151574-4e290036-3ac2-46e1-a211-2f2eb25e9495.png" align="left" width="120" height="120" alt="IFRO-pic"/></a>
 
 **IFRO (Instituto Federal de Rondônia) - Campus Ji-Paraná** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana/ji-parana) • `Federal Institute` \
@@ -74,7 +74,7 @@ Graduation in System Analysis and Development \
 
 ###
 
-<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/DanielNeri-pic.jpg"><img src="https://user-images.githubusercontent.com/76459155/198151731-1b0a789e-8435-4702-a7c4-1e2915917c4c.png" align="left" width="120" height="120" alt="DanielNeri-pic"/></a>
+<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/DanielNeri-pic.png"><img src="https://user-images.githubusercontent.com/76459155/198151731-1b0a789e-8435-4702-a7c4-1e2915917c4c.png" align="left" width="120" height="120" alt="DanielNeri-pic"/></a>
 
 **E.E.E.F.M (Escola Estadual de Ensino Fundamental e Médio) Professor Daniel Neri da Silva** \
 [**E.E.E.F.M. Daniel Neri**](https://www.melhorescola.com.br/escola/eeefm-professor-daniel-neri-da-silva) • `School & High School` \
