@@ -74,7 +74,7 @@ Graduation in System Analysis and Development \
 
 ###
 
-<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/DanielNeri-pic.jpg"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Images/DanielNeri-pic.jpg?raw=true" align="left" width="94" height="94" alt="DanielNeri-pic"/></a>
+<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/DanielNeri-pic.jpg"><img src="https://user-images.githubusercontent.com/76459155/198149697-644925e7-959a-47a0-8224-2bbc347c800c.png" align="left" width="94" height="94" alt="DanielNeri-pic"/></a>
 
 **E.E.E.F.M (Escola Estadual de Ensino Fundamental e Médio) Professor Daniel Neri da Silva** \
 [**E.E.E.F.M. Daniel Neri**](https://www.melhorescola.com.br/escola/eeefm-professor-daniel-neri-da-silva) • `School & High School` \
