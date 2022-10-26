@@ -99,7 +99,7 @@ more detailed info. about my education and certifications.
 ## <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="27" height="27" alt="BlurpleGithub-emoji"></a>&#160; My GitHub Stats:
 
 <div align="center">
-<a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=juletopi&bg_color=0e1118&hide_border=true&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="JuletopiContribution-stats"></a>
+<a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=juletopi&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="JuletopiContribution-stats"></a>
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
 
