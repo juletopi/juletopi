@@ -4,6 +4,7 @@
 🔗 • https://github.com/antonkomarev/github-profile-views-counter
 🔗 • https://github.com/DenverCoder1/custom-icon-badges
 🔗 • https://github.com/DenverCoder1/github-readme-streak-stats
+🔗 • https://github.com/Ashutosh00710/github-readme-activity-graph
 🔗 • https://github.com/anuraghazra/github-readme-stats
 🔗 • https://github.com/alexandresanlim/Badges4-README.md-Profile
 🔗 • https://profilepicturemaker.com
@@ -16,6 +17,8 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=juletopi&color=red" alt="Juletopi-profileviews">
 &#8196;
 <div>
+
+<!-- ABOUT ME -->
 
 <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/JulioAboutMe-pic.png"><img align="right" src="https://user-images.githubusercontent.com/76459155/189586069-775c6ea7-bd5a-4b53-ad79-8294171c7089.png" align="left" width="380" alt="JulioAboutMe-pic"/></a>
 <h1>About me</h1>
@@ -55,6 +58,8 @@ looking where to fit in this world of programming.**
 
 ###
 
+<!-- EDUCATION -->
+
 # Education
 
 ###
@@ -87,6 +92,8 @@ more detailed info. about my education and certifications.
 <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/TheresMore-pic.png" ><img align="center" src="https://user-images.githubusercontent.com/76459155/189623934-c8028206-839d-478d-8e35-8b8ae55fd161.png" align="center" width="700" height="80" alt="ThereIsMore-pic"/></a>
 </div>
 
+<!-- STATS -->
+
 <div align="center">
  
 ## <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="27" height="27" alt="BlurpleGithub-emoji"></a>&#160; My GitHub Stats:
@@ -107,6 +114,8 @@ more detailed info. about my education and certifications.
 </div>
 
 ###
+
+<!-- LANGUAGES -->
 
 <div align="center">
 
