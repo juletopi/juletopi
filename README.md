@@ -69,8 +69,8 @@ looking where to fit in this world of programming.**
 **IFRO (Instituto Federal de Rondônia) - Campus Ji-Paraná** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana/ji-parana) • `Federal Institute` \
 Graduation in System Analysis and Development \
-<i>Jul. 2022</i> - <i>currently now...</i> \
-📍 **Ji-Paraná, Rondônia, Brazil**
+📆 <i>Jul. 2022</i> - <i>currently now...</i> \
+📍 **Ji-Paraná - RO, Brazil**
 
 ###
 
@@ -79,8 +79,8 @@ Graduation in System Analysis and Development \
 **E.E.E.F.M (Escola Estadual de Ensino Fundamental e Médio) Professor Daniel Neri da Silva** \
 [**E.E.E.F.M. Daniel Neri**](https://www.melhorescola.com.br/escola/eeefm-professor-daniel-neri-da-silva) • `School & High School` \
 Student in School and High School \
-<i>Feb. 2015</i> - <i>Dec. 2021</i> \
-📍 **Porto Velho, Rondônia, Brazil**
+📆 <i>Feb. 2015</i> - <i>Dec. 2021</i> \
+📍 **Porto Velho - RO, Brazil**
 
 ###
 
