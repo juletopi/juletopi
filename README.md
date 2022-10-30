@@ -75,6 +75,7 @@ Student in School and High School \
 ❗ **▸** Please, consider visiting my [**LinkedIn**](https://www.linkedin.com/in/julio-cezar-pereira-camargo/) for a \
 more detailed info. about my education and certifications.
 </div>
+<br>
 
 <!-- STATS -->
 
