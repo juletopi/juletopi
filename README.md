@@ -88,7 +88,6 @@ more detailed info. about my education and certifications.
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118" width="480" alt="Juletopi-stats"></a>
-
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=default&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118" alt="JuletopiTopLangs-stats"></a>
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
