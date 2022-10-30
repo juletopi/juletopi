@@ -61,6 +61,7 @@ looking where to fit in this world of programming.**
 Graduation in System Analysis and Development \
 📆 <i>Jul. 2022</i> - <i>currently now...</i> \
 📍 **Ji-Paraná - RO, Brazil**
+
 <br>
 
 <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/DanielNeri-pic.png"><img align="left" src="https://user-images.githubusercontent.com/76459155/198151731-1b0a789e-8435-4702-a7c4-1e2915917c4c.png" width="120" height="120" alt="DanielNeri-pic"/></a>
