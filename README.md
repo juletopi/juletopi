@@ -19,7 +19,7 @@
 
 <!-- ABOUT ME -->
 
-# <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/JulioAboutMe-pic.png"><img align="right" src="https://user-images.githubusercontent.com/76459155/189586069-775c6ea7-bd5a-4b53-ad79-8294171c7089.png" align="left" width="380" alt="JulioAboutMe-pic"/></a> About me
+# <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/JulioAboutMe-pic.png"><img align="right" src="https://user-images.githubusercontent.com/76459155/199047215-0a97e388-6651-441a-81c5-52dc14261d22.png" align="left" width="380" alt="JulioAboutMe-pic"/></a> About me
 
 <div align="left">
 
@@ -95,20 +95,44 @@ more detailed info. about my education and certifications.
 <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juletopi&theme=dark&ring=e73737&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" alt="JuletopiStreak-stats"></a>
 </div>
 
-<!-- LANGUAGES -->
+<!-- LEARNING -->
 
 <div align="center">
 
 ## <a href="https://emoji.gg/emoji/3468_book_n_quill"><img src="https://cdn3.emoji.gg/emojis/3468_book_n_quill.png" width="28" height="28" alt="BooknQuill-emoji"></a>&#160; What am I currently learning?
 <br>
  
-| IDEs & Frameworks: | Languages & Tools: |
-| ------------------ | ------------------ |
-| <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VisualStudio-badge"></a> &#160; <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode-badge"></a> | <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="35" alt="CSharp-icon"></a> <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="35" alt="HTML-icon"></a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="35" alt="CSS-icon"/>
-| &nbsp;&#160;&#160; <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="GitKraken-badge"> &#160; </a> <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-badge"></a> | &#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&nbsp; <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="35" alt="Git-icon"></a>
-| &#8199;&#8199;&#8199;&#8199;&#8199;&#8199;&nbsp;&nbsp;&nbsp;&#160;&#160; <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio-badge"></a> | &#8199;&#8199;&#8199;&#8199;&#8199;&nbsp;&nbsp; <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="53" height="38" alt="RStudio-icon"></a>
+<table><tr><td valign="top" width="33%">
+
+## Languages:
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-icon" height="42" /></a>&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-icon" height="42" /></a>&nbsp;
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript-icon" height="42" /></a>&nbsp;
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="CSharp-icon" height="42" /></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/R_(programming_language)" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="RLanguage-icon" height="42" /></a>
 </div>
-<br>
+
+</td><td valign="top" width="33%">
+
+## IDEs:  
+<div align="center">
+<a href="https://en.wikipedia.org/wiki/Visual_Studio" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio-icon" height="42" /></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode-icon" height="42" /></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/RStudio" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio-icon" height="42" /></a>
+</div>
+
+</td><td valign="top" width="33%">
+
+## Tools:
+<div align="center">
+<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img style="margin: 10px" src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" alt="GitHub-icon" height="42" /></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git-icon" height="42" /></a>
+</div>
+
+</td></tr></table>  
+
+<br/>
 
 <div align="center">
 <a href="https://user-images.githubusercontent.com/76459155/190626822-07db797b-c700-49ba-acc6-9dbcc32ef235.png"><img align="center" src="https://user-images.githubusercontent.com/76459155/189621564-f03a3dc6-3ef8-404e-8bfc-17815b409f2a.png" align="center" width="520" height="75" alt="ThanksForVisiting-pic" /></a> &#8196; <a href="https://emoji.gg/emoji/1564-momijiwave"><img src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" width="48" height="48" alt="MomijiWave-emoji"></a>
