@@ -90,7 +90,7 @@ looking where to fit in this world of programming.**
 
 ## IDEs:  
 <div align="center">
-<a href="https://visualstudio.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio-icon" height="40" /></a>&nbsp;
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio-icon" height="40" /></a>&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode-icon" height="40" /></a>&nbsp;
 <a href="https://www.datacamp.com/tutorial/r-studio-tutorial" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio-icon" height="40" /></a>
 </div>
