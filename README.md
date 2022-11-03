@@ -65,7 +65,7 @@ looking where to fit in this world of programming.**
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
 
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juletopi&theme=dark&ring=e73737&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" width="580" alt="JuletopiStreak-stats"></a>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juletopi&theme=dark&ring=e73737&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" width="540" alt="JuletopiStreak-stats"></a>
 </div>
 
 <!-- LEARNING -->
