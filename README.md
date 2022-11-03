@@ -14,12 +14,12 @@
 🔗 • https://getemoji.com
 -->
 
-<img align="left" src="https://komarev.com/ghpvc/?username=juletopi&color=red" alt="Juletopi-profileviews"><div>
+<img align="left" src="https://komarev.com/ghpvc/?username=juletopi&color=ee3d3d" alt="Juletopi-profileviews"><div>
 <br>
 
 <!-- ABOUT ME -->
 
-# <a href="#"><img align="right" src="https://user-images.githubusercontent.com/76459155/199648412-02e85eb3-ae1c-44bd-b2af-90932b9181f9.png" align="left" width="380" alt="JulioAboutMe-pic"/></a> About me
+# <a href="#"><img align="right" src="https://user-images.githubusercontent.com/76459155/199649477-9855127a-dfd6-4ee0-ad4f-28628af67aa7.png" align="left" width="380" alt="JulioAboutMe-pic"/></a> About me
 
 <div align="left">
 
