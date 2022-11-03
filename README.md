@@ -56,16 +56,16 @@ looking where to fit in this world of programming.**
  
 ## <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="27" height="27" alt="BlurpleGithub-emoji"></a>&#160; My GitHub Stats:
 
-<a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=juletopi&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="JuletopiContribution-graph"></a>
+<img src="https://activity-graph.herokuapp.com/graph?username=juletopi&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="JuletopiContribution-graph">
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118" width="520" alt="Juletopi-stats"></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=default&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118" width="320" alt="JuletopiTopLangs-stats"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118" width="520" alt="Juletopi-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=default&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118" width="320" alt="JuletopiTopLangs-stats">
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
 
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juletopi&theme=dark&ring=e73737&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" width="540" alt="JuletopiStreak-stats"></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juletopi&theme=dark&ring=e73737&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" width="540" alt="JuletopiStreak-stats">
 </div>
 
 <!-- LEARNING -->
@@ -79,20 +79,20 @@ looking where to fit in this world of programming.**
 
 ## Languages:
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-icon" height="40" /></a>&nbsp;
+<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-icon" height="40" /></a>&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-icon" height="40" /></a>&nbsp;
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript-icon" height="40" /></a>&nbsp;
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="CSharp-icon" height="40" /></a>&nbsp;
-<a href="https://en.wikipedia.org/wiki/R_(programming_language)" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="RLanguage-icon" height="40" /></a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript-icon" height="40" /></a>&nbsp;
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="CSharp-icon" height="40" /></a>&nbsp;
+<a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="RLanguage-icon" height="40" /></a>
 </div>
 
 </td><td valign="top" width="33%">
 
 ## IDEs:  
 <div align="center">
-<a href="https://en.wikipedia.org/wiki/Visual_Studio" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio-icon" height="40" /></a>&nbsp;
-<a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode-icon" height="40" /></a>&nbsp;
-<a href="https://en.wikipedia.org/wiki/RStudio" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio-icon" height="40" /></a>
+<a href="https://visualstudio.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio-icon" height="40" /></a>&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode-icon" height="40" /></a>&nbsp;
+<a href="https://www.datacamp.com/tutorial/r-studio-tutorial" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio-icon" height="40" /></a>
 </div>
 
 </td><td valign="top" width="33%">
