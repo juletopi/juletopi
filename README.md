@@ -19,7 +19,7 @@
 
 <!-- ABOUT ME -->
 
-# <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/JulioAboutMe-pic.png"><img align="right" src="https://user-images.githubusercontent.com/76459155/199047215-0a97e388-6651-441a-81c5-52dc14261d22.png" align="left" width="380" alt="JulioAboutMe-pic"/></a> About me
+# <a href="#"><img align="right" src="https://user-images.githubusercontent.com/76459155/199648412-02e85eb3-ae1c-44bd-b2af-90932b9181f9.png" align="left" width="380" alt="JulioAboutMe-pic"/></a> About me
 
 <div align="left">
 
