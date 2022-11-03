@@ -19,7 +19,7 @@
 
 <!-- ABOUT ME -->
 
-# <a href="#"><img align="right" src="https://user-images.githubusercontent.com/76459155/199649477-9855127a-dfd6-4ee0-ad4f-28628af67aa7.png" align="left" width="380" alt="JulioAboutMe-pic"/></a> About me
+# <a href="#"><img align="right" src="https://user-images.githubusercontent.com/76459155/199650640-cacbc881-4680-4313-9223-65b2be8cdd38.png" align="left" width="380" alt="JulioAboutMe-pic"/></a> About me
 
 <div align="left">
 
