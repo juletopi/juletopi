@@ -19,7 +19,7 @@
 
 <!-- ABOUT ME -->
 
-# <a href="#"><img align="right" src="https://user-images.githubusercontent.com/76459155/199650640-cacbc881-4680-4313-9223-65b2be8cdd38.png" align="left" width="380" alt="JulioAboutMe-pic"/></a> About me
+# <a href="#"><img align="right" src="https://user-images.githubusercontent.com/76459155/199651836-02f5d580-6203-410e-be99-6c61765fd45c.png" align="left" width="380" alt="JulioAboutMe-pic"/></a> About me
 
 <div align="left">
 
@@ -105,7 +105,7 @@ more detailed info. about my education and certifications.
 
 ## <a href="https://emoji.gg/emoji/3468_book_n_quill"><img src="https://cdn3.emoji.gg/emojis/3468_book_n_quill.png" width="28" height="28" alt="BooknQuill-emoji"></a>&#160; What am I currently learning?
 <br>
- 
+
 <table><tr><td valign="top" width="33%">
 
 ## Languages:
