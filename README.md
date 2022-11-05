@@ -101,6 +101,7 @@ looking where to fit in this world of programming.**
 <div align="center">
 <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img style="margin: 10px" src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" alt="GitHub-icon" height="40" /></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git-icon" height="40" /></a>
+<a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma-icon" height="40" /></a>
 </div>
 
 </td></tr></table>  
