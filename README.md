@@ -79,10 +79,10 @@ looking where to fit in this world of programming.**
 
 ## Languages:
 <div align="center">  
-<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-icon" height="38" /></a>&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-icon" height="38" /></a>&nbsp;
-<a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript-icon" height="38" /></a>&nbsp;
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="CSharp-icon" height="38" /></a>&nbsp;
+<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="CSharp-icon" height="38" /></a>&nbsp;&nbsp;
 <a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="RLanguage-icon" height="38" /></a>
 </div>
 
@@ -90,8 +90,8 @@ looking where to fit in this world of programming.**
 
 ## IDEs:  
 <div align="center">
-<a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio-icon" height="38" /></a>&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode-icon" height="38" /></a>&nbsp;
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode-icon" height="38" /></a>&nbsp;&nbsp;
 <a href="https://www.datacamp.com/tutorial/r-studio-tutorial" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio-icon" height="38" /></a>
 </div>
 
@@ -99,8 +99,8 @@ looking where to fit in this world of programming.**
 
 ## Tools:
 <div align="center">
-<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img style="margin: 10px" src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" alt="GitHub-icon" height="38" /></a>&nbsp;
-<a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git-icon" height="38" /></a>
+<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img style="margin: 10px" src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" alt="GitHub-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git-icon" height="38" /></a>&nbsp;
 <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma-icon" height="38" /></a>
 </div>
 
