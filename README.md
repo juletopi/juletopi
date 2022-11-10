@@ -63,7 +63,7 @@ looking where to fit in this world of programming.**
 <img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118" width="520" alt="Juletopi-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=default&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118" width="320" alt="JuletopiTopLangs-stats">
 
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=4&section=header&%20render">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=juletopi&theme=dark&ring=e73737&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" width="540" alt="JuletopiStreak-stats">
 </div>
