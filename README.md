@@ -43,11 +43,11 @@ looking where to fit in this world of programming.**
 
 ### 💬 Socials & Contacts:
 
-<a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn-icon"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="38" height="38" alt="Instagram-icon"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="38" height="38" alt="Facebook-icon"></a>&nbsp;&nbsp;
-<a href="mailto:juliocezarpvh@hotmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="38" height="38" alt="Outlook-icon"></a>&nbsp;&nbsp;
-<a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="38" height="38" alt="WhatsApp-icon"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn-icon"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" height="40" alt="Instagram-icon"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook-icon"></a>&nbsp;&nbsp;
+<a href="mailto:juliocezarpvh@hotmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" height="40" alt="Outlook-icon"></a>&nbsp;&nbsp;
+<a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" height="40" alt="WhatsApp-icon"></a>&nbsp;&nbsp;
 </div>
 
 <!-- STATS -->
