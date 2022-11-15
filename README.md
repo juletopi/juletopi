@@ -54,7 +54,7 @@ looking where to fit in this world of programming.**
 
 <div align="center">
  
-## <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="27" height="27" alt="BlurpleGithub-emoji"></a>&#160; My GitHub Stats:
+## <a href="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" height="40" alt="DataChart-gif"></a>&#160; My GitHub Stats:
 
 <a href="https://github.com/juletopi/"><img src="https://activity-graph.herokuapp.com/graph?username=juletopi&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="JuletopiContribution-graph"></a>
 
@@ -72,7 +72,7 @@ looking where to fit in this world of programming.**
 
 <div align="center">
 
-## <a href="https://emoji.gg/emoji/3468_book_n_quill"><img src="https://cdn3.emoji.gg/emojis/3468_book_n_quill.png" width="28" height="28" alt="BooknQuill-emoji"></a>&#160; What am I currently learning?
+## <a href=""><img src="https://user-images.githubusercontent.com/76459155/201819920-51947fdf-2f1f-4a77-81f4-f0684a16f8ea.gif" height="34" alt=""></a>&#160; What am I currently learning?
 <br>
 
 <table><tr><td valign="top" width="33%">
