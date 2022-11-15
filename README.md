@@ -72,7 +72,7 @@ looking where to fit in this world of programming.**
 
 <div align="center">
 
-## <a href=""><img align="center" src="https://user-images.githubusercontent.com/76459155/201819920-51947fdf-2f1f-4a77-81f4-f0684a16f8ea.gif" height="38" alt="ProgrammingLanguage-gif"></a>&#160; What am I currently learning?
+## <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Custom%20Emojis/ProgrammingLanguage-gif.gif"><img align="center" src="https://user-images.githubusercontent.com/76459155/201819920-51947fdf-2f1f-4a77-81f4-f0684a16f8ea.gif" height="38" alt="ProgrammingLanguage-gif"></a>&#160; What am I currently learning?
 <br>
 
 <table><tr><td valign="top" width="33%">
