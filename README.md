@@ -72,7 +72,7 @@ looking where to fit in this world of programming.**
 
 <div align="center">
 
-## <a href=""><img src="https://user-images.githubusercontent.com/76459155/201819920-51947fdf-2f1f-4a77-81f4-f0684a16f8ea.gif" height="34" alt=""></a>&#160; What am I currently learning?
+## <a href=""><img align="center" src="https://user-images.githubusercontent.com/76459155/201819920-51947fdf-2f1f-4a77-81f4-f0684a16f8ea.gif" height="34" alt="Language-gif"></a>&#160; What am I currently learning?
 <br>
 
 <table><tr><td valign="top" width="33%">
@@ -99,7 +99,7 @@ looking where to fit in this world of programming.**
 
 ## Tools:
 <div align="center">
-<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img style="margin: 10px" src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" alt="GitHub-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub-icon" height="45" /></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git-icon" height="38" /></a>&nbsp;
 <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma-icon" height="38" /></a>
 </div>
@@ -109,5 +109,5 @@ looking where to fit in this world of programming.**
 <br/>
 
 <div align="center">
-<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/ThanksForVisiting-pic.png"><img align="center" src="https://user-images.githubusercontent.com/76459155/189621564-f03a3dc6-3ef8-404e-8bfc-17815b409f2a.png" width="520" height="75" alt="ThanksForVisiting-pic" /></a> &#8196; <a href="https://emoji.gg/emoji/1564-momijiwave"><img src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" width="48" height="48" alt="MomijiWave-emoji"></a>
+<a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/ThanksForVisiting-pic.png"><img align="center" src="https://user-images.githubusercontent.com/76459155/189621564-f03a3dc6-3ef8-404e-8bfc-17815b409f2a.png" width="520" height="75" alt="ThanksForVisiting-pic" /></a> &#8196; <a href="https://emoji.gg/emoji/1564-momijiwave"><img align="center" src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" width="48" height="48" alt="MomijiWave-emoji"></a>
 </div>
