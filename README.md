@@ -10,6 +10,7 @@
 🔗 • https://profilepicturemaker.com
 🔗 • https://devicon.dev
 🔗 • https://shields.io
+🔗 • https://giphy.com
 🔗 • https://emoji.gg
 🔗 • https://getemoji.com
 -->
@@ -25,23 +26,23 @@
 
 ### <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif"/></a> Heya folks, i'm Júlio!
  
-🌱 **▸ I'm currently studying System Analysis and \
+**▸ I'm currently studying System Analysis and \
 Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), and \
 looking where to fit in this world of programming.**
  
-### 👾 About my hobbies, I like:
+### <a href="https://media.giphy.com/media/aWpgO3GawCn3rZ1w3i/giphy.gif"><img align="center" src="https://media.giphy.com/media/aWpgO3GawCn3rZ1w3i/giphy.gif" width="35" alt="MagicCube-gif"/></a> About my hobbies, I like:
 
 🎮 `Games` • 🎲 `RPG` • 🖌️ `Illustration` • 📚 `Learning` \
 &#8199;&#8199;&#8199;&#8199;&#8199;&#8196; 🚲 `Biking` • 🎧 `Music` • 🍜 `Anime`
  
-### 🤓 In what I study for now, I can quote:
+### <a href="https://media.giphy.com/media/r6g6PL4fMY7NgruRTh/giphy.gif"><img align="center" src="https://media.giphy.com/media/r6g6PL4fMY7NgruRTh/giphy.gif" width="28" alt="Studing-gif"/></a> In what I study for now, I can quote:
  
 - **Algorithms & Programming Logic**
 - **Computer Architectures & Organization**
 - **Computational Mathematics**
 - **Requirements Engineering**
 
-### 💬 Socials & Contacts:
+### <a href="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif"><img align="center" src="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif" width="32" alt="SpeechBubble-gif"/></a> Socials & Contacts:
 
 <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn-icon"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" height="40" alt="Instagram-icon"></a>&nbsp;&nbsp;
