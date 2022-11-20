@@ -30,7 +30,7 @@
 Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), and \
 looking where to fit in this world of programming.**
  
-### <a href="https://media.giphy.com/media/aWpgO3GawCn3rZ1w3i/giphy.gif"><img align="center" src="https://media.giphy.com/media/aWpgO3GawCn3rZ1w3i/giphy.gif" width="35" alt="MagicCube-gif"/></a> About my hobbies, I like:
+### <a href="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif"><img align="center" src="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif" width="37" alt="MagicCube-gif"/></a> About my hobbies, I like:
 
 🎮 `Games` • 🎲 `RPG` • 🖌️ `Illustration` • 📚 `Learning` \
 &#8199;&#8199;&#8199;&#8199;&#8199;&#8196; 🚲 `Biking` • 🎧 `Music` • 🍜 `Anime`
