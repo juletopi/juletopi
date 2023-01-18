@@ -38,9 +38,10 @@ looking where to fit in this world of programming.**
 ### <a href="https://media.giphy.com/media/r6g6PL4fMY7NgruRTh/giphy.gif"><img align="center" src="https://media.giphy.com/media/r6g6PL4fMY7NgruRTh/giphy.gif" width="28" alt="Studing-gif"/></a> In what I study for now, I can quote:
  
 - **Algorithms & Programming Logic**
-- **Computer Architectures & Organization**
-- **Computational Mathematics**
-- **Requirements Engineering**
+- **Visual Programming Language**
+- **Software Engineering**
+- **Operational Systems**
+- **Database**
 
 ### <a href="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif"><img align="center" src="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif" width="32" alt="SpeechBubble-gif"/></a> Socials & Contacts:
 
