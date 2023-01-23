@@ -17,8 +17,6 @@
 
 <img align="left" src="https://komarev.com/ghpvc/?username=juletopi&color=ee3d3d" alt="Juletopi-profileviews"><div>
 <br>
- 
-<img align="center" src="https://user-images.githubusercontent.com/76459155/214005830-b80a2ccb-ab5c-4ec9-a1fe-2f96f57f19e2.gif"><div>
 
 <!-- ABOUT ME -->
 
