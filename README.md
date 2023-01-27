@@ -27,8 +27,8 @@
 ### <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif"/></a> Heya folks, i'm Júlio!
  
 **▸ I'm currently studying System Analysis and \
-Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), and \
-I plan to start as a Front-End developer!**
+Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), \
+and I plan to start as a Front-End developer!**
  
 ### <a href="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif"><img align="center" src="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif" width="37" alt="MagicCube-gif"/></a> About my hobbies, I like:
 
