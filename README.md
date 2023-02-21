@@ -107,7 +107,7 @@ and I plan to start as a Front-End developer!**
 <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma-icon" height="38" /></a>
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
 <br/>
 
