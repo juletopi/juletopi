@@ -17,7 +17,7 @@
 
 <div align="center">
  
-![waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=fa3e3e&text=Heya%20folks!%20👋&desc=I'm%20Júlio!&fontColor=e4e4e4&fontSize=40&fontAlign=55&fontAlignY=25&descAlign=65&descAlignY=52)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=190&color=fa3e3e&text="Heya%20folks,%20i'm%20Júlio!"&desc=And%20i'm%20aiming%20to%20be%20a%20Front-End%20Developer!&fontColor=e4e4e4&fontSize=40&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=52)
 </div>
 
 <!-- ABOUT ME -->
@@ -30,7 +30,7 @@
  
 **▸ I'm currently studying System Analysis and \
 Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), \
-and I plan to start as a Front-End developer!**
+and i'm aiming to start as a Front-End Developer!**
  
 ### <a href="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif"><img align="center" src="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif" width="37" alt="MagicCube-gif"/></a> About my hobbies, I like:
 
