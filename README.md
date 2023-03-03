@@ -15,12 +15,14 @@
 🔗 • https://getemoji.com
 -->
 
-<img align="left" src="https://komarev.com/ghpvc/?username=juletopi&color=ee3d3d" alt="Juletopi-profileviews"><div>
-<br>
+<div align="center">
+ 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=140&color=fa3e3e&text=Heya%20folks!%20👋&desc=I'm%20Júlio!&fontColor=e4e4e4&fontSize=40&fontAlign=80&fontAlignY=25&descAlign=85&descAlignY=52)
+</div>
 
 <!-- ABOUT ME -->
 
-# <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/JulioMe-pic.png"><img align="right" src="https://user-images.githubusercontent.com/76459155/199651836-02f5d580-6203-410e-be99-6c61765fd45c.png" align="left" width="380" alt="JulioAboutMe-pic"/></a> About me
+# About me <img align="right" src="https://komarev.com/ghpvc/?username=juletopi&color=ee3d3d" alt="Juletopi-profileviews"><div>
 
 <div align="left">
 
@@ -114,3 +116,5 @@ and I plan to start as a Front-End developer!**
 <div align="center">
 <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Images/ThanksForVisiting-pic.png"><img align="center" src="https://user-images.githubusercontent.com/76459155/189621564-f03a3dc6-3ef8-404e-8bfc-17815b409f2a.png" width="520" height="75" alt="ThanksForVisiting-pic" /></a> &#8196; <a href="https://emoji.gg/emoji/1564-momijiwave"><img align="center" src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" width="48" height="48" alt="MomijiWave-emoji"></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=fa3e3e" />
