@@ -113,4 +113,4 @@ and i'm aiming to start as a Front-End Developer!**
 
 <br/>
 
-<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=fa3e3e" /></a>
+<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=fa3e3e" /></a>
