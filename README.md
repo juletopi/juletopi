@@ -22,7 +22,7 @@
 
 <!-- ABOUT ME -->
 
-# About me <img align="right" src="https://komarev.com/ghpvc/?username=juletopi&color=ee3d3d" alt="Juletopi-profileviews"><div>
+# About me <img align="right" src="https://komarev.com/ghpvc/?username=juletopi&color=ee3d3d" alt="Juletopi-profileviews"><img align="right" src="https://img.shields.io/github/followers/juletopi?label=Follow%20me%21&style=social" alt="Juletopi-followme"></div>
 
 <div align="left">
 
@@ -36,7 +36,7 @@ and i'm aiming to start as a Front-End Developer!**
 
 🎮 `Games` • 🎲 `RPG` • 🖌️ `Illustration` • 📚 `Learning` \
 &#8199;&#8199;&#8199;&#8199;&#8199;&#8196; 🚲 `Biking` • 🎧 `Music` • 🍜 `Anime`
- 
+
 ### <a href="https://media.giphy.com/media/r6g6PL4fMY7NgruRTh/giphy.gif"><img align="center" src="https://media.giphy.com/media/r6g6PL4fMY7NgruRTh/giphy.gif" width="28" alt="Studing-gif"/></a> In what I study for now, I can quote:
  
 - **Algorithms & Programming Logic**
