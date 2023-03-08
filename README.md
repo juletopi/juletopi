@@ -52,7 +52,8 @@ and i'm aiming to start as a Front-End Developer!**
 <a href="https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo"><img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" height="40" alt="Spotify-icon"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook-icon"></a>&nbsp;&nbsp;
 <a href="mailto:juliocezarpvh@hotmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" height="40" alt="Email-icon"></a>&nbsp;&nbsp;
-<a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" height="40" alt="WhatsApp-icon"></a>&nbsp;&nbsp;
+<a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" height="40" alt="WhatsApp-icon"></a>&nbsp;&nbsp; \
+<sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
 </div>
 
 <!-- STATS -->
