@@ -48,11 +48,12 @@ and i'm aiming to start as a Front-End Developer!**
 ### <a href="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif"><img align="center" src="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif" width="32" alt="SpeechBubble-gif"/></a> Socials & Contacts:
 
 <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn-icon"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" height="40" alt="Instagram-icon"></a>&nbsp;&nbsp;
+<a href="http://lattes.cnpq.br/7789116592509780"><img src="https://user-images.githubusercontent.com/76459155/224547293-81038d80-ab3d-4efb-8213-97a3163f1b45.png" height="40" alt="Lattes-icon"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo"><img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" height="40" alt="Spotify-icon"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" height="40" alt="Instagram-icon"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook-icon"></a>&nbsp;&nbsp;
 <a href="mailto:juliocezarpvh@hotmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" height="40" alt="Email-icon"></a>&nbsp;&nbsp;
-<a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" height="40" alt="WhatsApp-icon"></a>&nbsp;&nbsp; \
+<a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" height="40" alt="WhatsApp-icon"></a> \
 <sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
 </div>
 
