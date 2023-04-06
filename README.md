@@ -18,12 +18,11 @@
 -->
 
 <div align="center">
- 
+
 <a href="#">![waving](https://capsule-render.vercel.app/api?type=waving&height=130&color=fa3e3e)</a>
 </div>
 
 <div align="center">
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FA3E3E&center=true&vCenter=true&width=700&height=100&lines=Heya+folks%2C+i'm+J%C3%BAlio!;I'm+19+years+old.;I'm+from+Rond%C3%B4nia%2C+Brazil.;Aiming+to+start+as+a+Front-End+Dev!" alt="Typing SVG" /></a>
 </div>
  
