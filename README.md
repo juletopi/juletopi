@@ -1,11 +1,12 @@
 <!--
-❗ ➤ References used in this Repository:
+❗ ➤ REFERENCES USED IN THIS REPOSITORY:
 🔗 • https://github.com/kyechan99/capsule-render
 🔗 • https://github.com/antonkomarev/github-profile-views-counter
 🔗 • https://github.com/DenverCoder1/custom-icon-badges
 🔗 • https://github.com/DenverCoder1/github-readme-streak-stats
 🔗 • https://github.com/Ashutosh00710/github-readme-activity-graph
 🔗 • https://github.com/anuraghazra/github-readme-stats
+🔗 • https://readme-typing-svg.demolab.com/demo/
 🔗 • https://github.com/alexandresanlim/Badges4-README.md-Profile
 🔗 • https://github.com/novatorem/novatorem
 🔗 • https://profilepicturemaker.com
@@ -23,7 +24,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=FA3E3E&center=true&vCenter=true&width=735&height=100&lines=Heya+folks%2C+i'm+J%C3%BAlio!;I'm+19+years+old.;I'm+from+Rond%C3%B4nia%2C+Brazil.;Aiming+to+start+as+a+Front-End+Dev!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FA3E3E&center=true&vCenter=true&width=700&height=100&lines=Heya+folks%2C+i'm+J%C3%BAlio!;I'm+19+years+old.;I'm+from+Rond%C3%B4nia%2C+Brazil.;Aiming+to+start+as+a+Front-End+Dev!" alt="Typing SVG" /></a>
 </div>
  
 <!-- ABOUT ME -->
@@ -126,5 +127,7 @@ and i'm aiming to start as a Front-End Developer!**
 </td></tr></table>
 
 <br/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=FA3E3E&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Thanks+for+visiting%2C+see+ya!" alt="Typing SVG" /></a>
 
 <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=fa3e3e" /></a>
