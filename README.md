@@ -7,6 +7,7 @@
 🔗 • https://github.com/Ashutosh00710/github-readme-activity-graph
 🔗 • https://github.com/anuraghazra/github-readme-stats
 🔗 • https://github.com/alexandresanlim/Badges4-README.md-Profile
+🔗 • https://github.com/novatorem/novatorem
 🔗 • https://profilepicturemaker.com
 🔗 • https://devicon.dev
 🔗 • https://shields.io
@@ -17,9 +18,14 @@
 
 <div align="center">
  
-<a href="#">![waving](https://capsule-render.vercel.app/api?type=waving&height=175&color=fa3e3e&text="Heya%20folks,%20i'm%20Júlio!"&desc=And%20i'm%20aiming%20to%20be%20a%20Front-End%20Developer!&fontColor=e4e4e4&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43)</a>
+<a href="#">![waving](https://capsule-render.vercel.app/api?type=waving&height=130&color=fa3e3e)</a>
 </div>
 
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=FA3E3E&width=935&height=80center=true&vCenter=true&&lines=Heya+folks%2C+i'm+J%C3%BAlio!;I'm+19+years+old...;I'm+from+Rond%C3%B4nia%2C+Brazil...;and+i'm+aiming+to+start+as+a+Front-End+Developer!" alt="Typing-SVG" /></a>
+</div>
+ 
 <!-- ABOUT ME -->
 
 # About me: <a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=juletopi&color=ee3d3d" alt="Juletopi-profileviews"></a> <a href="#"><img align="right" src="https://img.shields.io/github/followers/juletopi?label=Follow%20me%21&style=social" alt="Juletopi-followme"></a> </div>
@@ -57,11 +63,17 @@ and i'm aiming to start as a Front-End Developer!**
 <sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
 </div>
 
+### <a href="https://cdn3.emoji.gg/emojis/7670-musicbeat.gif"><img align="center" src="https://cdn3.emoji.gg/emojis/7670-musicbeat.gif" width="30" alt="PlayingMusic-gif"/></a> Spotify Playing:
+
+[![Classic Mix](https://img.shields.io/badge/Classic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1JocxDuSZX6Vvg4swYcoI5) [![Eletronic Mix](https://img.shields.io/badge/Eletronic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/70XYgMkWbVWFRFIn3jjpEk) [![Chill Mix](https://img.shields.io/badge/Chill%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4fFlAjUsZelQlTtDFmn3Q3)
+
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
+
 <!-- STATS -->
 
 <div align="center">
  
-## <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a>&#160; My GitHub Stats:
+## <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a>&#160; My GitHub Stats:
 
 <a href="https://github.com/juletopi/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=juletopi&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="JuletopiContribution-graph"></a>
 
