@@ -70,7 +70,7 @@ and i'm aiming to start as a Front-End Developer!**
 
 [![Classic Mix](https://img.shields.io/badge/Classic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1JocxDuSZX6Vvg4swYcoI5) [![Eletronic Mix](https://img.shields.io/badge/Eletronic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/70XYgMkWbVWFRFIn3jjpEk) [![Chill Mix](https://img.shields.io/badge/Chill%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4fFlAjUsZelQlTtDFmn3Q3)
 
-[![Spotify](https://spotify-api-readme-fork.vercel.app/api/spotify)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
+[![Spotify](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
 
 <!-- STATS -->
 
