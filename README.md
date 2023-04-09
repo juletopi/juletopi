@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<a href="#">![waving](https://capsule-render.vercel.app/api?type=waving&height=130&color=fa3e3e)</a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=header"/>
 </div>
 
 <div align="center">
@@ -133,4 +133,4 @@ and i'm aiming to start as a Front-End Developer!**
 <a href="https://emoji.gg/emoji/1564-momijiwave"><img align="center" src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" height="74" alt="MomijiWave-img"></a>
 </div>
 
-<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=fa3e3e" /></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=footer"/>
