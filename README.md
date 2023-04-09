@@ -28,7 +28,7 @@
  
 <!-- ABOUT ME -->
 
-# About me: <a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=juletopi&color=ee3d3d" alt="Juletopi-profileviews"></a> <a href="#"><img align="right" src="https://img.shields.io/github/followers/juletopi?label=Follow%20me%21&style=social" alt="Juletopi-followme"></a> </div>
+# About me: <a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=juletopi&color=ee3d3d&label=Github%20Visits" alt="Juletopi-profileviews"></a> <a href="#"><img align="right" src="https://img.shields.io/github/followers/juletopi?label=Follow%20Me%21&style=social" alt="Juletopi-followme"></a> </div>
 
 <div align="left">
 
