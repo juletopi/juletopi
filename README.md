@@ -73,24 +73,21 @@ and i'm aiming to start as a Front-End Developer!**
 
 <!-- SKILLS -->
 
-### <a href="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"><img align="center" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" alt="CodeSkills-gif"/></a> Main skills
-<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-icon" height="38" /></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-icon" height="38" /></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/206292753-bfe169cf-e67c-4025-a2c6-6b4be980a871.png" alt="JavaScript-icon" height="40" /></a>&nbsp;&nbsp;
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="CSharp-icon" height="38" /></a>&nbsp;&nbsp;
-<a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="RLanguage-icon" height="38" /></a>&nbsp;&nbsp;
-<a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/206295363-eccfe2ef-9e37-4121-8d0b-73118731b014.png" alt="VisualStudio-icon" height="38" /></a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode-icon" height="38" /></a>&nbsp;&nbsp;
-<a href="https://www.datacamp.com/tutorial/r-studio-tutorial" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio-icon" height="38" /></a>
+### <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" width="34" alt="CodeSkills-gif"/></a> &nbsp; Main skills:
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="CSharp-icon" height="40" /></a>&nbsp;&nbsp;
+<a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="RLanguage-icon" height="40" /></a>&nbsp;&nbsp;
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/206295363-eccfe2ef-9e37-4121-8d0b-73118731b014.png" alt="VisualStudio-icon" height="40" /></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode-icon" height="40" /></a>&nbsp;&nbsp;
+<a href="https://www.datacamp.com/tutorial/r-studio-tutorial" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio-icon" height="40" /></a>
 
-### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI3ZTM0Yjg2YjYzNGUxY2IwMjU1NmM2ZTRhZmUwMmE5YmE4ZjcyNyZjdD1z/JsTWJNKRhTXLNp0YMY/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI3ZTM0Yjg2YjYzNGUxY2IwMjU1NmM2ZTRhZmUwMmE5YmE4ZjcyNyZjdD1z/JsTWJNKRhTXLNp0YMY/giphy.gif" width="30" alt="CodeLearning-gif"/></a> Studying in this moment:
-<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-icon" height="38" /></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-icon" height="38" /></a>&nbsp;&nbsp;
+### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZmYWNkYTJjNjRiMjJhMWNhNGMyMzMxNmEyMTM1ZGMwMzAxNTQ2MiZjdD1z/sxJ1nCeUoNSfe/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZmYWNkYTJjNjRiMjJhMWNhNGMyMzMxNmEyMTM1ZGMwMzAxNTQ2MiZjdD1z/sxJ1nCeUoNSfe/giphy.gif" width="34" alt="CodeLearning-gif"/></a> &nbsp; Studying in this moment:
+<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-icon" height="40" /></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-icon" height="40" /></a>&nbsp;&nbsp;
 <a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/206292753-bfe169cf-e67c-4025-a2c6-6b4be980a871.png" alt="JavaScript-icon" height="40" /></a>&nbsp;&nbsp;
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="CSharp-icon" height="38" /></a>&nbsp;&nbsp;
-<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub-icon" height="45" /></a>&nbsp;
-<a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git-icon" height="38" /></a>&nbsp;
-<a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma-icon" height="38" /></a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="CSharp-icon" height="40" /></a>&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub-icon" height="47" /></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git-icon" height="40" /></a>&nbsp;
+<a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma-icon" height="40" /></a>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
