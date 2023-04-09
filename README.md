@@ -67,7 +67,9 @@ and i'm aiming to start as a Front-End Developer!**
 
 [![Spotify](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
 
-<br>
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
+</div>
 
 <!-- SKILLS -->
 
@@ -90,6 +92,10 @@ and i'm aiming to start as a Front-End Developer!**
 <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git-icon" height="38" /></a>&nbsp;
 <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma-icon" height="38" /></a>
 
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
+</div>
+
 <br>
 
 <!-- STATS -->
@@ -109,6 +115,10 @@ and i'm aiming to start as a Front-End Developer!**
 </div>
 
 <!-- THANKS FOR VISITING -->
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
