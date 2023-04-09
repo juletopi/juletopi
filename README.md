@@ -60,6 +60,8 @@
 
 </div>
 
+<!-- SOCIAL NETWORKS -->
+
 ### <a href="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif"><img align="center" src="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif" width="32" alt="SpeechBubble-gif"/></a> Socials & Contacts:
 
 <div align="left">
@@ -109,7 +111,7 @@
   </a>
 </div>
 
-### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZmYWNkYTJjNjRiMjJhMWNhNGMyMzMxNmEyMTM1ZGMwMzAxNTQ2MiZjdD1z/sxJ1nCeUoNSfe/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZmYWNkYTJjNjRiMjJhMWNhNGMyMzMxNmEyMTM1ZGMwMzAxNTQ2MiZjdD1z/sxJ1nCeUoNSfe/giphy.gif" width="34" alt="CodeLearning-gif"/></a> &nbsp; Studying in this moment:
+### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZmYWNkYTJjNjRiMjJhMWNhNGMyMzMxNmEyMTM1ZGMwMzAxNTQ2MiZjdD1z/sxJ1nCeUoNSfe/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZmYWNkYTJjNjRiMjJhMWNhNGMyMzMxNmEyMTM1ZGMwMzAxNTQ2MiZjdD1z/sxJ1nCeUoNSfe/giphy.gif" width="30" alt="CodeLearning-gif"/></a> &nbsp; Studying in this moment:
 
 <div align="left">
   <a href="https://www.w3schools.com/html/" target="_blank">
