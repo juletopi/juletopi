@@ -28,8 +28,6 @@
  
 <!-- ABOUT ME -->
 
-# About me: <a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=juletopi&color=ee3d3d&label=Github%20Visits" alt="Juletopi-profileviews"></a> <a href="#"><img align="right" src="https://img.shields.io/github/followers/juletopi?label=Follow%20Me%21&style=social" alt="Juletopi-followme"></a> </div>
-
 <div align="left">
 
 ### <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif"/></a> Heya folks, i'm Júlio!
@@ -69,11 +67,34 @@ and i'm aiming to start as a Front-End Developer!**
 
 [![Spotify](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
 
+<br>
+
+<!-- SKILLS -->
+
+### <a href="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"><img align="center" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" alt="CodeSkills-gif"/></a> Main skills
+<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/206292753-bfe169cf-e67c-4025-a2c6-6b4be980a871.png" alt="JavaScript-icon" height="40" /></a>&nbsp;&nbsp;
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="CSharp-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="RLanguage-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/206295363-eccfe2ef-9e37-4121-8d0b-73118731b014.png" alt="VisualStudio-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://www.datacamp.com/tutorial/r-studio-tutorial" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio-icon" height="38" /></a>
+
+### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI3ZTM0Yjg2YjYzNGUxY2IwMjU1NmM2ZTRhZmUwMmE5YmE4ZjcyNyZjdD1z/JsTWJNKRhTXLNp0YMY/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI3ZTM0Yjg2YjYzNGUxY2IwMjU1NmM2ZTRhZmUwMmE5YmE4ZjcyNyZjdD1z/JsTWJNKRhTXLNp0YMY/giphy.gif" width="30" alt="CodeLearning-gif"/></a> Studying in this moment:
+<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/206292753-bfe169cf-e67c-4025-a2c6-6b4be980a871.png" alt="JavaScript-icon" height="40" /></a>&nbsp;&nbsp;
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="CSharp-icon" height="38" /></a>&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub-icon" height="45" /></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git-icon" height="38" /></a>&nbsp;
+<a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma-icon" height="38" /></a>
+
+<br>
+
 <!-- STATS -->
 
 <div align="center">
- 
-## <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a>&#160; My GitHub Stats:
 
 <a href="https://github.com/juletopi/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=juletopi&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="JuletopiContribution-graph"></a>
 
@@ -87,50 +108,15 @@ and i'm aiming to start as a Front-End Developer!**
 <a href="https://github.com/juletopi/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juletopi&theme=dark&ring=e73737&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" width="540" alt="JuletopiStreak-stats"></a>
 </div>
 
-<!-- LEARNING -->
+<!-- THANKS FOR VISITING -->
 
 <div align="center">
-
-## <a href="https://github.com/juletopi/juletopi/blob/main/Assets/Custom%20Emojis/ProgrammingLanguage-gif.gif"><img align="center" src="https://user-images.githubusercontent.com/76459155/201819920-51947fdf-2f1f-4a77-81f4-f0684a16f8ea.gif" height="38" alt="ProgrammingLanguage-gif"></a>&#160; What am I currently learning?
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{juletopi}/count.svg" /></p> 
 <br>
-
-<table><tr><td valign="top" width="33%">
-
-## Languages:
-<div align="center">  
-<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-icon" height="38" /></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-icon" height="38" /></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/206292753-bfe169cf-e67c-4025-a2c6-6b4be980a871.png" alt="JavaScript-icon" height="40" /></a>&nbsp;&nbsp;
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="CSharp-icon" height="38" /></a>&nbsp;&nbsp;
-<a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="RLanguage-icon" height="38" /></a>
 </div>
 
-</td><td valign="top" width="33%">
-
-## IDEs:  
 <div align="center">
-<a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/206295363-eccfe2ef-9e37-4121-8d0b-73118731b014.png" alt="VisualStudio-icon" height="38" /></a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode-icon" height="38" /></a>&nbsp;&nbsp;
-<a href="https://www.datacamp.com/tutorial/r-studio-tutorial" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio-icon" height="38" /></a>
-</div>
-
-</td><td valign="top" width="33%">
-
-## Tools:
-<div align="center">
-<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub-icon" height="45" /></a>&nbsp;
-<a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git-icon" height="38" /></a>&nbsp;
-<a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma-icon" height="38" /></a>
-</div>
-
-</td></tr></table>
-
-<br/>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=FA3E3E&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Thanks+for+visiting%2C+see+ya!" alt="Typing-SVG" /></a>
-
-<div align="center">
-<a href="https://emoji.gg/emoji/1564-momijiwave"><img align="center" src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" height="74" alt="MomijiWave-img"></a>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=footer"/>
