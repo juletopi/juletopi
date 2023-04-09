@@ -63,7 +63,7 @@ and i'm aiming to start as a Front-End Developer!**
 <sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
 </div>
 
-### <a href="https://cdn3.emoji.gg/emojis/7670-musicbeat.gif"><img align="center" src="https://cdn3.emoji.gg/emojis/7670-musicbeat.gif" width="27" alt="PlayingMusic-gif"/></a> Spotify Playing:
+### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify:
 
 [![Classic Mix](https://img.shields.io/badge/Classic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1JocxDuSZX6Vvg4swYcoI5) [![Eletronic Mix](https://img.shields.io/badge/Eletronic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/70XYgMkWbVWFRFIn3jjpEk) [![Chill Mix](https://img.shields.io/badge/Chill%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4fFlAjUsZelQlTtDFmn3Q3) [![Anime Mix](https://img.shields.io/badge/Anime%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7AONukCIYAMZcXERyh2ZUP)
 
