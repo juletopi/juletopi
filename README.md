@@ -18,7 +18,9 @@
 -->
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=header"/>
+  <a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=header"/>
+  </a>
 </div>
 
 <div align="center">
@@ -86,7 +88,9 @@
 [![Juletopi's Spotify Playing](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
 
 <div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
+  <a href="#">
 </div>
 
 <!-- SKILLS -->
@@ -140,7 +144,9 @@
 <br>
 
 <div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
+  <a href="#">
 </div>
 
 <br>
@@ -154,7 +160,9 @@
 </div>
 
 <div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
+  </a>
 </div>
 
 <div align="center">
@@ -167,7 +175,9 @@
 </div>
 
 <div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
+  </a>
 </div>
 
 <div align="center">
@@ -182,9 +192,15 @@
   <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
 </div>
 
+<br>
+
 <div align="center">
-  <br><p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{juletopi}/count.svg" alt="VisitorsCount-SVG" title="Juletopi's Profile Visitors Counter"/></p> 
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center">
+    <a href="#">
+      <img align="center" src="https://profile-counter.glitch.me/{juletopi}/count.svg" alt="VisitorsCount-SVG" title="Juletopi's Profile Visitors Counter"/>
+    </a>
+  </p> 
 </div>
 
 <br>
@@ -196,5 +212,7 @@
 </div>
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=footer"/>
+  <a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=footer"/>
+  </a>
 </div>
