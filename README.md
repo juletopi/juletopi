@@ -78,12 +78,12 @@
 
 ### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify:
 
-[![Classic Mix](https://img.shields.io/badge/Classic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1JocxDuSZX6Vvg4swYcoI5) 
-[![Eletronic Mix](https://img.shields.io/badge/Eletronic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/70XYgMkWbVWFRFIn3jjpEk) 
-[![Chill Mix](https://img.shields.io/badge/Chill%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4fFlAjUsZelQlTtDFmn3Q3) 
-[![Anime Mix](https://img.shields.io/badge/Anime%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7AONukCIYAMZcXERyh2ZUP) 
+[![My Classic Mix Playlist](https://img.shields.io/badge/Classic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1JocxDuSZX6Vvg4swYcoI5) 
+[![My Eletronic Mix Playlist](https://img.shields.io/badge/Eletronic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/70XYgMkWbVWFRFIn3jjpEk) 
+[![My Chill Mix Playlist](https://img.shields.io/badge/Chill%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4fFlAjUsZelQlTtDFmn3Q3) 
+[![My Anime Mix Playlist](https://img.shields.io/badge/Anime%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7AONukCIYAMZcXERyh2ZUP) 
 
-[![Spotify](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
+[![Juletopi's Spotify Playing](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
 
 <div align="center">
   <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
