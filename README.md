@@ -67,23 +67,22 @@
 ### <a href="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif"><img align="center" src="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif" width="32" alt="SpeechBubble-gif"/></a> Socials & Contacts:
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn-icon" title="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="http://lattes.cnpq.br/7789116592509780"><img src="https://user-images.githubusercontent.com/76459155/224547293-81038d80-ab3d-4efb-8213-97a3163f1b45.png" height="40" alt="Lattes-icon" title="Lattes Curriculum"></a>&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo"><img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" height="40" alt="Spotify-icon" title="Spotify"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/juletopi/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" height="40" alt="Instagram-icon" title="Instagram"></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook-icon" title="Facebook"></a>&nbsp;&nbsp;
-  <a href="mailto:juliocezarpvh@hotmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" height="40" alt="Email-icon" title="Email"></a>&nbsp;&nbsp;
-  <a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" height="40" alt="WhatsApp-icon" title="Whatsapp"></a>
+  <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://user-images.githubusercontent.com/76459155/232136628-6e83cf3c-b62c-4864-831f-c67fd061bcef.png" height="40" alt="LinkedIn-icon" title="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo"><img src="https://user-images.githubusercontent.com/76459155/232135843-851237c5-1469-48dd-aadd-b189fc6efd1c.png" height="40" alt="Spotify-icon" title="Spotify"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/juletopi/"><img src="https://user-images.githubusercontent.com/76459155/232136758-f60e654c-a281-4eb0-8bab-469d99c2a636.png" height="40" alt="Instagram-icon" title="Instagram"></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://user-images.githubusercontent.com/76459155/232136811-112c882a-c403-4fa0-a568-fe2b0ac191fc.png" height="40" alt="Facebook-icon" title="Facebook"></a>&nbsp;&nbsp;
+  <a href="mailto:juliocezarpvh@hotmail.com"><img src="https://user-images.githubusercontent.com/76459155/232136027-b055e45c-d8c7-40cf-8f8f-addf867cc269.png" height="40" alt="Email-icon" title="Email"></a>&nbsp;&nbsp;
+  <a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://user-images.githubusercontent.com/76459155/232136891-e412026d-886a-429d-8560-ecc5e45a4699.png" height="40" alt="WhatsApp-icon" title="Whatsapp"></a>
  
   <sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
 </div>
 
 ### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify:
 
-[![My Classic Mix Playlist](https://img.shields.io/badge/Classic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1JocxDuSZX6Vvg4swYcoI5) 
-[![My Eletronic Mix Playlist](https://img.shields.io/badge/Eletronic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/70XYgMkWbVWFRFIn3jjpEk) 
-[![My Chill Mix Playlist](https://img.shields.io/badge/Chill%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4fFlAjUsZelQlTtDFmn3Q3) 
-[![My Anime Mix Playlist](https://img.shields.io/badge/Anime%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7AONukCIYAMZcXERyh2ZUP) 
+[![My Classic Mix Playlist](https://img.shields.io/badge/Classic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/1JocxDuSZX6Vvg4swYcoI5) 
+[![My Eletronic Mix Playlist](https://img.shields.io/badge/Eletronic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/70XYgMkWbVWFRFIn3jjpEk) 
+[![My Chill Mix Playlist](https://img.shields.io/badge/Chill%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/4fFlAjUsZelQlTtDFmn3Q3) 
+[![My Anime Mix Playlist](https://img.shields.io/badge/Anime%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/7AONukCIYAMZcXERyh2ZUP) 
 
 [![Juletopi's Spotify Playing](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
 
@@ -99,19 +98,19 @@
 
 <div align="left">
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="CSharp-icon" height="40" title="CSharp"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133098-27a85af0-e0bd-439c-b2d0-fec1efd95243.png" alt="CSharp-icon" height="45" title="CSharp"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/" target="_blank">
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="RLanguage-icon" height="40" title="R Language"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232138223-49685f6f-12d0-47c4-bd9f-fa5646230d06.png" alt="RLanguage-icon" height="48" title="R Language"/>
   </a>&nbsp;&nbsp;
   <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/206295363-eccfe2ef-9e37-4121-8d0b-73118731b014.png" alt="VisualStudio-icon" height="40" title="Visual Studio"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133401-cfbd804b-0c35-43a7-bfdc-e63572233f19.png" alt="VisualStudio-icon" height="44" title="Visual Studio"/>
   </a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode-icon" height="40" title="VSCode"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133465-885d1bb8-fdde-4829-ab75-82efdeac75cc.png" alt="VSCode-icon" height="45" title="VSCode"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.datacamp.com/tutorial/r-studio-tutorial" target="_blank">
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio-icon" height="40" title="RStudio"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133558-61e6d51d-d115-422b-8b15-e9db9d3cf430.png" alt="RStudio-icon" height="45" title="RStudio"/>
   </a>
 </div>
 
@@ -119,25 +118,25 @@
 
 <div align="left">
   <a href="https://www.w3schools.com/html/" target="_blank">
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-icon" height="40" title="HTML5"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232134120-baafbe27-fa58-4ca4-bcb9-2f29990df4d3.png" alt="HTML5-icon" height="45" title="HTML5"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-icon" height="40" title="CSS3"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232134164-23f7a3aa-d340-4644-b387-21216f98a3bb.png" alt="CSS3-icon" height="45" title="CSS3"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/js/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/206292753-bfe169cf-e67c-4025-a2c6-6b4be980a871.png" alt="JavaScript-icon" height="40" title="JavaScript"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232139278-4a9d724a-58d5-49d6-97f4-4395d39b003a.png" alt="JavaScript-icon" height="45" title="JavaScript"/>
   </a>&nbsp;&nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="CSharp-icon" height="40" title="CSharp"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133098-27a85af0-e0bd-439c-b2d0-fec1efd95243.png" alt="CSharp-icon" height="45" title="CSharp"/>
   </a>&nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">
-    <img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub-icon" height="47" title="GitHub"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232139767-ff314ec0-ef23-44d5-9c51-386cbaa9f4ce.png" alt="GitHub-icon" height="45" title="GitHub"/>
   </a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/Git" target="_blank">
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git-icon" height="40" title="Git"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232134370-d99bed46-4b38-4470-acff-9390a22f83b2.png" alt="Git-icon" height="45" title="Git"/>
   </a>&nbsp;
   <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank">
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma-icon" height="40" title="Figma"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232134411-5c510fd9-a20e-47fb-a153-3360e6cba332.png" alt="Figma-icon" height="45" title="Figma"/>
   </a>
 </div>
 
