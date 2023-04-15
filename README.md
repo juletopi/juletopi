@@ -67,12 +67,12 @@
 ### <a href="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif"><img align="center" src="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif" width="32" alt="SpeechBubble-gif"/></a> Socials & Contacts:
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://user-images.githubusercontent.com/76459155/232136628-6e83cf3c-b62c-4864-831f-c67fd061bcef.png" height="40" alt="LinkedIn-icon" title="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo"><img src="https://user-images.githubusercontent.com/76459155/232135843-851237c5-1469-48dd-aadd-b189fc6efd1c.png" height="40" alt="Spotify-icon" title="Spotify"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/juletopi/"><img src="https://user-images.githubusercontent.com/76459155/232136758-f60e654c-a281-4eb0-8bab-469d99c2a636.png" height="40" alt="Instagram-icon" title="Instagram"></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://user-images.githubusercontent.com/76459155/232136811-112c882a-c403-4fa0-a568-fe2b0ac191fc.png" height="40" alt="Facebook-icon" title="Facebook"></a>&nbsp;&nbsp;
-  <a href="mailto:juliocezarpvh@hotmail.com"><img src="https://user-images.githubusercontent.com/76459155/232136027-b055e45c-d8c7-40cf-8f8f-addf867cc269.png" height="40" alt="Email-icon" title="Email"></a>&nbsp;&nbsp;
-  <a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://user-images.githubusercontent.com/76459155/232136891-e412026d-886a-429d-8560-ecc5e45a4699.png" height="40" alt="WhatsApp-icon" title="Whatsapp"></a>
+  <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://user-images.githubusercontent.com/76459155/232136628-6e83cf3c-b62c-4864-831f-c67fd061bcef.png" height="35" alt="LinkedIn-icon" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo"><img src="https://user-images.githubusercontent.com/76459155/232135843-851237c5-1469-48dd-aadd-b189fc6efd1c.png" height="35" alt="Spotify-icon" title="Spotify"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/juletopi/"><img src="https://user-images.githubusercontent.com/76459155/232136758-f60e654c-a281-4eb0-8bab-469d99c2a636.png" height="35" alt="Instagram-icon" title="Instagram"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://user-images.githubusercontent.com/76459155/232136811-112c882a-c403-4fa0-a568-fe2b0ac191fc.png" height="35" alt="Facebook-icon" title="Facebook"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:juliocezarpvh@hotmail.com"><img src="https://user-images.githubusercontent.com/76459155/232136027-b055e45c-d8c7-40cf-8f8f-addf867cc269.png" height="35" alt="Email-icon" title="Email"></a>&nbsp;&nbsp;&nbsp;
+  <a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://user-images.githubusercontent.com/76459155/232136891-e412026d-886a-429d-8560-ecc5e45a4699.png" height="35" alt="WhatsApp-icon" title="Whatsapp"></a>
  
   <sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
 </div>
