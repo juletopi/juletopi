@@ -101,19 +101,19 @@
 
 <div align="left">
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133098-27a85af0-e0bd-439c-b2d0-fec1efd95243.png" alt="CSharp-icon" height="40" title="CSharp"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133098-27a85af0-e0bd-439c-b2d0-fec1efd95243.png" alt="CSharp-icon" height="38" title="CSharp"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232143914-e283c629-2fbd-4d19-8106-d0a2462963e8.png" alt="RLanguage-icon" height="43" title="R Language"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232143914-e283c629-2fbd-4d19-8106-d0a2462963e8.png" alt="RLanguage-icon" height="41" title="R Language"/>
   </a>&nbsp;&nbsp;
   <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133401-cfbd804b-0c35-43a7-bfdc-e63572233f19.png" alt="VisualStudio-icon" height="39" title="Visual Studio"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133401-cfbd804b-0c35-43a7-bfdc-e63572233f19.png" alt="VisualStudio-icon" height="37" title="Visual Studio"/>
   </a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133465-885d1bb8-fdde-4829-ab75-82efdeac75cc.png" alt="VSCode-icon" height="40" title="VSCode"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133465-885d1bb8-fdde-4829-ab75-82efdeac75cc.png" alt="VSCode-icon" height="38" title="VSCode"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.datacamp.com/tutorial/r-studio-tutorial" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232143968-a7c2c925-7662-45a9-99ad-4b956bc3640b.png" alt="RStudio-icon" height="40" title="RStudio"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232143968-a7c2c925-7662-45a9-99ad-4b956bc3640b.png" alt="RStudio-icon" height="38" title="RStudio"/>
   </a>
 </div>
 
@@ -121,25 +121,25 @@
 
 <div align="left">
   <a href="https://www.w3schools.com/html/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232134120-baafbe27-fa58-4ca4-bcb9-2f29990df4d3.png" alt="HTML5-icon" height="40" title="HTML5"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232134120-baafbe27-fa58-4ca4-bcb9-2f29990df4d3.png" alt="HTML5-icon" height="38" title="HTML5"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232134164-23f7a3aa-d340-4644-b387-21216f98a3bb.png" alt="CSS3-icon" height="40" title="CSS3"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232134164-23f7a3aa-d340-4644-b387-21216f98a3bb.png" alt="CSS3-icon" height="38" title="CSS3"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/js/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232139278-4a9d724a-58d5-49d6-97f4-4395d39b003a.png" alt="JavaScript-icon" height="40" title="JavaScript"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232139278-4a9d724a-58d5-49d6-97f4-4395d39b003a.png" alt="JavaScript-icon" height="38" title="JavaScript"/>
   </a>&nbsp;&nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133098-27a85af0-e0bd-439c-b2d0-fec1efd95243.png" alt="CSharp-icon" height="40" title="CSharp"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133098-27a85af0-e0bd-439c-b2d0-fec1efd95243.png" alt="CSharp-icon" height="38" title="CSharp"/>
   </a>&nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232139767-ff314ec0-ef23-44d5-9c51-386cbaa9f4ce.png" alt="GitHub-icon" height="40" title="GitHub"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232139767-ff314ec0-ef23-44d5-9c51-386cbaa9f4ce.png" alt="GitHub-icon" height="38" title="GitHub"/>
   </a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/Git" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232134370-d99bed46-4b38-4470-acff-9390a22f83b2.png" alt="Git-icon" height="40" title="Git"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232134370-d99bed46-4b38-4470-acff-9390a22f83b2.png" alt="Git-icon" height="38" title="Git"/>
   </a>&nbsp;
   <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232134411-5c510fd9-a20e-47fb-a153-3360e6cba332.png" alt="Figma-icon" height="40" title="Figma"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232134411-5c510fd9-a20e-47fb-a153-3360e6cba332.png" alt="Figma-icon" height="38" title="Figma"/>
   </a>
 </div>
 
