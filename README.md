@@ -73,7 +73,7 @@
   <a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://user-images.githubusercontent.com/76459155/232136811-112c882a-c403-4fa0-a568-fe2b0ac191fc.png" height="32" alt="Facebook-icon" title="Facebook"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:juliocezarpvh@hotmail.com"><img src="https://user-images.githubusercontent.com/76459155/232136027-b055e45c-d8c7-40cf-8f8f-addf867cc269.png" height="32" alt="Email-icon" title="Email"></a>&nbsp;&nbsp;&nbsp;
   <a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://user-images.githubusercontent.com/76459155/232136891-e412026d-886a-429d-8560-ecc5e45a4699.png" height="32" alt="WhatsApp-icon" title="Whatsapp"></a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/20614844/juletopi"><img src="https://user-images.githubusercontent.com/76459155/232336504-b02a76b5-c5e6-4cc1-8da1-e743d2e7df41.png" height="35" alt="StackOverflow-icon" title="Stack Overflow"></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/20614844/juletopi?tab=profile"><img src="https://user-images.githubusercontent.com/76459155/232336504-b02a76b5-c5e6-4cc1-8da1-e743d2e7df41.png" height="35" alt="StackOverflow-icon" title="Stack Overflow"></a>&nbsp;&nbsp;
   <a href="https://dev.to/juletopi"><img src="https://user-images.githubusercontent.com/76459155/232342372-ca3f59cd-fa0a-44e2-96e9-28c351e626a6.png" height="35" alt="DEVCommunity-icon" title="DEV Community"></a>
  
   <sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
