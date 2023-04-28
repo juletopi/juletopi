@@ -132,6 +132,12 @@
   </a>&nbsp;&nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
     <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133098-27a85af0-e0bd-439c-b2d0-fec1efd95243.png" alt="CSharp-icon" height="32" title="CSharp"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/235029977-81a1e949-434b-496a-aa17-8726ed93a4b5.png" alt="SQL-icon" height="33" title="SQL"/>
+  </a>&nbsp;&nbsp;
+    <a href="https://www.mysql.com/" target="_blank">
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/235028823-f234e64e-a2fb-41e1-a247-a10f62d85975.png" alt="MySQL-icon" height="32" title="MySQL"/>
   </a>&nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">
     <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232139767-ff314ec0-ef23-44d5-9c51-386cbaa9f4ce.png" alt="GitHub-icon" height="32" title="GitHub"/>
