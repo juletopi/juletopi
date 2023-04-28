@@ -114,7 +114,9 @@
     <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133465-885d1bb8-fdde-4829-ab75-82efdeac75cc.png" alt="VSCode-icon" height="32" title="VSCode"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.datacamp.com/tutorial/r-studio-tutorial" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232143968-a7c2c925-7662-45a9-99ad-4b956bc3640b.png" alt="RStudio-icon" height="32" title="RStudio"/>
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232143968-a7c2c925-7662-45a9-99ad-4b956bc3640b.png" alt="RStudio-icon" height="32" title="RStudio"/>&nbsp;&nbsp;
+    <a href="https://pencil.evolus.vn/" target="_blank">
+    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/235033432-5244c05e-740a-4f41-b9c6-633a2c4a78d3.png" alt="PencilProject-icon" height="32" title="Pencil Project"/>
   </a>
 </div>
 
