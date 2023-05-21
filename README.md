@@ -85,6 +85,7 @@
 
 [![My Classic Mix Playlist](https://img.shields.io/badge/Classic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/1JocxDuSZX6Vvg4swYcoI5) 
 [![My Eletronic Mix Playlist](https://img.shields.io/badge/Eletronic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/70XYgMkWbVWFRFIn3jjpEk) 
+[![My Rock Mix Playlist](https://img.shields.io/badge/Rock%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/20jJTDVrGcYYl65H5ymuVx)
 [![My Chill Mix Playlist](https://img.shields.io/badge/Chill%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/4fFlAjUsZelQlTtDFmn3Q3) 
 [![My Anime Mix Playlist](https://img.shields.io/badge/Anime%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/7AONukCIYAMZcXERyh2ZUP) 
 
