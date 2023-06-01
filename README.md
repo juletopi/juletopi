@@ -94,7 +94,7 @@
 <div align="center">
   <a href="#">
     <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
-  <a href="#">
+  </a>
 </div>
 
 <!-- SKILLS -->
@@ -158,7 +158,7 @@
 <div align="center">
   <a href="#">
     <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
-  <a href="#">
+  </a>
 </div>
 
 <br>
@@ -201,7 +201,9 @@
 <!-- THANKS FOR VISITING -->
 
 <div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
+  </a>
 </div>
 
 <br>
