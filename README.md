@@ -194,7 +194,7 @@
 
 <div align="center">
   <a href="https://github.com/juletopi/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juletopi&theme=dark&ring=e73737&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" width="540" alt="JuletopiStreak-stats" title="Juletopi's Streak Stats">
+    <img src="https://streak-stats.demolab.com?user=juletopi&theme=dark&hide_border=true&background=0E1118&ring=E73737&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF" width="540" alt="JuletopiStreak-stats" title="Juletopi's Streak Stats">
   </a>
 </div>
 
