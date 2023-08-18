@@ -66,6 +66,7 @@
 ### <a href="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif"><img align="center" src="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif" width="32" alt="SpeechBubble-gif"/></a> Socials & Contacts:
 
 <div align="left">
+  <a href="https://linktr.ee/juletopi"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MyLinktree-icon.png" height="32" alt="MyLinktree-icon" title="My Linktree"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://user-images.githubusercontent.com/76459155/232136628-6e83cf3c-b62c-4864-831f-c67fd061bcef.png" height="32" alt="LinkedIn-icon" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo"><img src="https://user-images.githubusercontent.com/76459155/232135843-851237c5-1469-48dd-aadd-b189fc6efd1c.png" height="32" alt="Spotify-icon" title="Spotify"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/juletopi/"><img src="https://user-images.githubusercontent.com/76459155/232136758-f60e654c-a281-4eb0-8bab-469d99c2a636.png" height="32" alt="Instagram-icon" title="Instagram"></a>&nbsp;&nbsp;&nbsp;
