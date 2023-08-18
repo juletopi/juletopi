@@ -102,24 +102,24 @@
 
 <div align="left">
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133098-27a85af0-e0bd-439c-b2d0-fec1efd95243.png" alt="CSharp-icon" height="32" title="CSharp"/>
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/CSharp-icon.png" alt="CSharp-icon" height="32" title="CSharp"/>
   </a>&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/assets/76459155/a2662bd4-1f16-4abb-b036-d754bb6a9aa1" alt=".NETCore-icon" height="32" title=".NET Core"/>
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/NETCore-icon.png" alt=".NETCore-icon" height="32" title=".NET Core"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232143914-e283c629-2fbd-4d19-8106-d0a2462963e8.png" alt="RLanguage-icon" height="35" title="R Language"/>
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RLanguage-icon.png" alt="RLanguage-icon" height="35" title="R Language"/>
   </a>&nbsp;&nbsp;
   <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133401-cfbd804b-0c35-43a7-bfdc-e63572233f19.png" alt="VisualStudio-icon" height="31" title="Visual Studio"/>
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/VisualStudio-icon.png" alt="VisualStudio-icon" height="31" title="Visual Studio"/>
   </a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133465-885d1bb8-fdde-4829-ab75-82efdeac75cc.png" alt="VSCode-icon" height="32" title="VSCode"/>
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/VSCode-icon.png" alt="VSCode-icon" height="32" title="VSCode"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.datacamp.com/tutorial/r-studio-tutorial" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232143968-a7c2c925-7662-45a9-99ad-4b956bc3640b.png" alt="RStudio-icon" height="32" title="RStudio"/>&nbsp;&nbsp;
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RStudio-icon.png" alt="RStudio-icon" height="32" title="RStudio"/>&nbsp;&nbsp;
     <a href="https://pencil.evolus.vn/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/235033432-5244c05e-740a-4f41-b9c6-633a2c4a78d3.png" alt="PencilProject-icon" height="32" title="Pencil Project"/>
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/PencilProject-icon.png" alt="PencilProject-icon" height="32" title="Pencil Project"/>
   </a>
 </div>
 
@@ -127,34 +127,34 @@
 
 <div align="left">
   <a href="https://www.w3schools.com/html/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232134120-baafbe27-fa58-4ca4-bcb9-2f29990df4d3.png" alt="HTML5-icon" height="32" title="HTML5"/>
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/HTML5-icon.png" alt="HTML5-icon" height="32" title="HTML5"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232134164-23f7a3aa-d340-4644-b387-21216f98a3bb.png" alt="CSS3-icon" height="32" title="CSS3"/>
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/CSS3-icon.png" alt="CSS3-icon" height="32" title="CSS3"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/js/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232139278-4a9d724a-58d5-49d6-97f4-4395d39b003a.png" alt="JavaScript-icon" height="32" title="JavaScript"/>
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/JavaScript-icon.png" alt="JavaScript-icon" height="32" title="JavaScript"/>
   </a>&nbsp;&nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133098-27a85af0-e0bd-439c-b2d0-fec1efd95243.png" alt="CSharp-icon" height="32" title="CSharp"/>
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/CSharp-icon.png" alt="CSharp-icon" height="32" title="CSharp"/>
     </a>&nbsp;&nbsp;
    <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/assets/76459155/a2662bd4-1f16-4abb-b036-d754bb6a9aa1" alt=".NETCore-icon" height="32" title=".NET Core"/>
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/NETCore-icon.png" alt=".NETCore-icon" height="32" title=".NET Core"/>
   </a>&nbsp;&nbsp;
     <a href="https://www.w3schools.com/sql/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/235029977-81a1e949-434b-496a-aa17-8726ed93a4b5.png" alt="SQL-icon" height="33" title="SQL"/>
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/SQL-icon.png" alt="SQL-icon" height="33" title="SQL"/>
   </a>&nbsp;&nbsp;
     <a href="https://www.mysql.com/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/235028823-f234e64e-a2fb-41e1-a247-a10f62d85975.png" alt="MySQL-icon" height="32" title="MySQL"/>
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MySQL-icon.png" alt="MySQL-icon" height="32" title="MySQL"/>
   </a>&nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232139767-ff314ec0-ef23-44d5-9c51-386cbaa9f4ce.png" alt="GitHub-icon" height="32" title="GitHub"/>
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GitHub-icon.png" alt="GitHub-icon" height="32" title="GitHub"/>
   </a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/Git" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232134370-d99bed46-4b38-4470-acff-9390a22f83b2.png" alt="Git-icon" height="32" title="Git"/>
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Git-icon.png" alt="Git-icon" height="32" title="Git"/>
   </a>&nbsp;
   <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232134411-5c510fd9-a20e-47fb-a153-3360e6cba332.png" alt="Figma-icon" height="32" title="Figma"/>
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Figma-icon.png" alt="Figma-icon" height="32" title="Figma"/>
   </a>
 </div>
 
