@@ -55,8 +55,7 @@
 
   - **Algorithms & Programming Logic**
   - **Visual Programming Language**
-  - **Software Engineering**
-  - **Operational Systems**
+  - **Human-Computer Interaction**
   - **Databases**
 
 </div>
