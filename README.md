@@ -44,7 +44,7 @@
 
 <div align="left">
  
-  🎮 `Games` • 🎲 `RPG` • 🖌️ `Illustration` • 📚 `Learning` \
+  🎮 `Games` • 🎲 `RPG` • 🎨 `Design` • 📚 `Learning` \
   &#8199;&#8199;&#8199;&#8199;&#8199;&#8196; 🚲 `Biking` • 🎧 `Music` • 🍜 `Anime`
 
 </div>
