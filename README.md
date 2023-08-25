@@ -187,7 +187,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Juletopi's%20GitHub%20Stats&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="460" alt="Juletopi-stats" title="Juletopi's GitHub Stats">
   </a>
   <a href="https://github.com/juletopi/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Juletopi's%20Top%20Langs%20(By%20File%20Size)&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="380" alt="JuletopiTopLangs-stats" title="Juletopi's Coding Language Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Juletopi's%20Top%20Langs%20(By%20File%20Size)&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="370" alt="JuletopiTopLangs-stats" title="Juletopi's Coding Language Stats">
   </a>
 </div>
 
