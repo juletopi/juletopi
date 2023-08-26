@@ -36,7 +36,7 @@
  
   **▸ I'm currently studying System Analysis and \
   Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), \
-  and i'm aiming to start as a Front-End Developer!**
+  and aiming to start as a Front-End Developer!**
  
 </div>
 
