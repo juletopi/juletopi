@@ -199,7 +199,7 @@
 
 <div align="center">
   <a href="https://github.com/juletopi/">
-    <img src="https://streak-stats.demolab.com?user=juletopi&theme=dark&hide_border=true&background=0E1118&ring=E73737&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF&disable_animations=true" width="540" alt="JuletopiStreak-stats" title="Juletopi's Streak Stats">
+    <img src="https://streak-stats.demolab.com?user=juletopi&theme=dark&hide_border=true&background=0E1118&ring=E73737&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="JuletopiStreak-stats" title="Juletopi's Streak Stats">
   </a>
 </div>
 
