@@ -80,6 +80,12 @@
 
 <!-- SPOTIFY PLAYING -->
 
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
+  </a>
+</div>
+
 ### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify:
 
 [![My Classic Mix Playlist](https://img.shields.io/badge/Classic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/1JocxDuSZX6Vvg4swYcoI5) 
@@ -101,24 +107,24 @@
 ### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif"/></a>&nbsp; Main skills:
 
 <div align="left">
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/VSCode-icon.png" alt="VSCode-icon" height="32" title="VSCode"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/VisualStudio-icon.png" alt="VisualStudio-icon" height="31" title="Visual Studio"/>
+  </a>&nbsp;&nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/CSharp-icon.png" alt="CSharp-icon" height="32" title="CSharp"/>
   </a>&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/NETCore-icon.png" alt=".NETCore-icon" height="32" title=".NET Core"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RLanguage-icon.png" alt="RLanguage-icon" height="35" title="R Language"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/VisualStudio-icon.png" alt="VisualStudio-icon" height="31" title="Visual Studio"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/VSCode-icon.png" alt="VSCode-icon" height="32" title="VSCode"/>
-  </a>&nbsp;&nbsp;
   <a href="https://www.datacamp.com/tutorial/r-studio-tutorial" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RStudio-icon.png" alt="RStudio-icon" height="32" title="RStudio"/>&nbsp;&nbsp;
     <a href="https://pencil.evolus.vn/" target="_blank">
+  <a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/" target="_blank">
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RLanguage-icon.png" alt="RLanguage-icon" height="35" title="R Language"/>
+  </a>&nbsp;&nbsp;
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/PencilProject-icon.png" alt="PencilProject-icon" height="32" title="Pencil Project"/>
   </a>
 </div>
