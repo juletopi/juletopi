@@ -126,6 +126,8 @@
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RLanguage-icon.png" alt="RLanguage-icon" height="35" title="R Language"/>
   </a>&nbsp;&nbsp;
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/PencilProject-icon.png" alt="PencilProject-icon" height="32" title="Pencil Project"/>
+  </a>&nbsp;&nbsp;
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GitHub-icon.png" alt="GitHub-icon" height="32" title="GitHub"/>
   </a>
 </div>
 
