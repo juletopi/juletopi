@@ -125,8 +125,10 @@
   <a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RLanguage-icon.png" alt="RLanguage-icon" height="35" title="R Language"/>
   </a>&nbsp;&nbsp;
+    <a href="https://pencil.evolus.vn/" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/PencilProject-icon.png" alt="PencilProject-icon" height="32" title="Pencil Project"/>
   </a>&nbsp;&nbsp;
+    <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GitHub-icon.png" alt="GitHub-icon" height="32" title="GitHub"/>
   </a>
 </div>
