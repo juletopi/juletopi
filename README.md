@@ -124,12 +124,6 @@
 
 <!-- SPOTIFY PLAYING -->
 
-<div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
-  </a>
-</div>
-
 ### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify:
 
 [![My Classic Mix Playlist](https://img.shields.io/badge/Classic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/1JocxDuSZX6Vvg4swYcoI5) 
