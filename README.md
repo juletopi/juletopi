@@ -60,6 +60,17 @@
 
 </div>
 
+<!-- EDUCATION -->
+
+### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif" width="34" alt="GraduationCap-gif"/></a>&thinsp; Education:
+
+  <a href="https://portal.ifro.edu.br/ji-parana"><img src="https://github.com/juletopi/juletopi/assets/76459155/ee988d14-9012-4274-a350-8f26922d2c47" align="left" width="94" height="94" alt="IFRO-pic" title="Click here to go to the institution's website!"/></a>
+  **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná** \
+  Graduation in System Analysis and Development \
+  <i>Jul. 2022</i> - <i>currently now...</i>
+
+<br>
+
 <!-- SOCIAL NETWORKS -->
 
 ### <a href="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif"><img align="center" src="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif" width="32" alt="SpeechBubble-gif"/></a> Socials & Contacts:
