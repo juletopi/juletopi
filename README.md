@@ -34,11 +34,11 @@
 
 <div align="left">
  
-  **▸ I'm a 20 year old guy and, at the moment, i'm attending the second period of \
+  **• I'm a 20 year old guy and, at the moment, i'm attending the second period of \
   Systems Analysis and Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), and I also take some other \
   complementary courses under the hood. I'm currently aiming to start as a Front-End Developer!**
   
-  **▸ I chose to pursue the career of Computing and Design, involving I.T. and Programming. \
+  **• I chose to pursue the career of Computing and Design, involving I.T. and Programming. \
   I did my research on these areas and saw how it grows and is necessary in the labor market, \
   especially in times during and after the pandemic, where companies are now progressing online, \
   going beyond the face-to-face scope of work and opening the doors to places more beyond.**
@@ -47,7 +47,15 @@
 
   **📧 Email: [juliocezarpvh@hotmail.com](mailto:juliocezarpvh@hotmail.com)** \
   **📞 My number/WhatsApp: [+55 (69) 99360-6894](http://api.whatsapp.com/send?phone=5569993606894)**
- 
+  
+  <details>
+    <summary>
+      <sub>
+        ❗ Some observations before contacting me...
+      </sub>
+    </summary>
+    <sub>• blá blá blá</sub>
+  </details>
 </div>
 
 <div align="center">
