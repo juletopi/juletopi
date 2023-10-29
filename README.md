@@ -34,9 +34,19 @@
 
 <div align="left">
  
-  **▸ I'm currently studying System Analysis and \
-  Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), \
-  and aiming to start as a Front-End Developer!**
+  **▸ I'm a 20 year old guy and, at the moment, i'm attending the second period of \
+  Systems Analysis and Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), and I also take some other \
+  complementary courses under the hood. I'm currently aiming to start as a Front-End Developer!**
+  
+  **▸ I chose to pursue the career of Computing and Design, involving I.T. and Programming. \
+  I did my research on these areas and saw how it grows and is necessary in the labor market, \
+  especially in times during and after the pandemic, where companies are now progressing online, \
+  going beyond the face-to-face scope of work and opening the doors to places more beyond.**
+
+  **• If you want to contact me:**
+
+  **📧 Email: [juliocezarpvh@hotmail.com](mailto:juliocezarpvh@hotmail.com)** \
+  **📞 My number/WhatsApp: [+55 (69) 99360-6894](http://api.whatsapp.com/send?phone=5569993606894)**
  
 </div>
 
@@ -60,16 +70,29 @@
 
 </div>
 
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
+  </a>
+</div>
+
 <!-- EDUCATION -->
 
 ### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif" width="34" alt="GraduationCap-gif"/></a>&thinsp; Education:
 
-  <a href="https://portal.ifro.edu.br/ji-parana"><img src="https://github.com/juletopi/juletopi/assets/76459155/ee988d14-9012-4274-a350-8f26922d2c47" align="left" width="94" height="94" alt="IFRO-pic" title="Click here to go to the institution's website!"/></a>
-  **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná** \
-  Graduation in System Analysis and Development \
-  <i>Jul. 2022</i> - <i>currently now...</i>
-
+  <a href="https://portal.ifro.edu.br/ji-parana"><img src="https://media.licdn.com/dms/image/C4E0BAQGKpqSswndoqw/company-logo_200_200/0/1588683290512/ifro_instituto_federal_de_educa_o_ci_ncia_e_tecnologia_de_rond_nia_logo?e=1706745600&v=beta&t=EcnBBTXl61sUMe1r66YwOWEw9030hq21ZLk8u1ejexk" align="left" width="94" height="100" alt="IFRO-pic" title="Click here to go to the institution's website!"/></a>
+  <img align="center" src="https://github.com/juletopi/juletopi/assets/76459155/6eb4dc16-b2d9-42b2-b395-1107f1725a8e" height="19" alt="IFROIcon-pic"/>&thinsp; **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná** \
+  <img align="center" src="https://github.com/juletopi/juletopi/assets/76459155/c5e4d283-e1a9-46c4-9f2c-6f6ec35f7cc0" height="22" alt="GraduationCap-pic"/>&thinsp; **Graduation in System Analysis and Development** \
+  <img align="center" src="https://github.com/juletopi/juletopi/assets/76459155/f5728117-ad13-468a-aff2-5f5e36cf8fdd" height="20" alt="MapPin-pic"/>&thinsp; **Ji-Paraná, Rondônia, Brazil** \
+  <img align="center" src="https://github.com/juletopi/juletopi/assets/76459155/56ead6a5-8cf8-44f2-8768-2ffa576e45d4" height="19" alt="Calendar-pic"/>&thinsp; <i>**Jul. 2022</i> - <i>currently now...**</i>
+  
 <br>
+
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
+  </a>
+</div>
 
 <!-- SOCIAL NETWORKS -->
 
