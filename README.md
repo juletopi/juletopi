@@ -49,13 +49,17 @@
   **📞 My number/WhatsApp: [+55 (69) 99360-6894](http://api.whatsapp.com/send?phone=5569993606894)**
   
   <details>
-    <summary>
-      <sub>
-        ❗ Some observations before contacting me...
-      </sub>
-    </summary>
-    <sub>• blá blá blá</sub>
-  </details>
+  <center><summary>
+    <sub>
+      ❗️ Observations:
+    </sub>
+  </summary></center>
+  <sub>
+    "Please refrain from starting our conversation with a simple 'Hello.' Clearly state your purpose for contacting me using full messages."
+    <br>
+    "Initial contact should be through text or email; phone calls are not accepted until after our initial communication. Thank you."
+  </sub>
+</details>
 </div>
 
 <div align="center">
