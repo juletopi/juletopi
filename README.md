@@ -100,13 +100,13 @@
 
 <!-- EDUCATION -->
 
-### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif" width="34" alt="GraduationCap-gif"/></a>&thinsp; Education:
+### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif" width="34" alt="GoldenGraduationCap-gif"/></a>&thinsp; Education:
 
   <a href="https://portal.ifro.edu.br/ji-parana"><img src="https://media.licdn.com/dms/image/C4E0BAQGKpqSswndoqw/company-logo_200_200/0/1588683290512/ifro_instituto_federal_de_educa_o_ci_ncia_e_tecnologia_de_rond_nia_logo?e=1706745600&v=beta&t=EcnBBTXl61sUMe1r66YwOWEw9030hq21ZLk8u1ejexk" align="left" width="94" height="100" alt="IFRO-pic" title="Click here to go to the institution's website!"/></a>
-  <img align="center" src="https://github.com/juletopi/juletopi/assets/76459155/6eb4dc16-b2d9-42b2-b395-1107f1725a8e" height="19" alt="IFROIcon-pic"/>&thinsp; **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná** \
-  <img align="center" src="https://github.com/juletopi/juletopi/assets/76459155/c5e4d283-e1a9-46c4-9f2c-6f6ec35f7cc0" height="22" alt="GraduationCap-pic"/>&thinsp; **Graduation in System Analysis and Development** \
-  <img align="center" src="https://github.com/juletopi/juletopi/assets/76459155/f5728117-ad13-468a-aff2-5f5e36cf8fdd" height="20" alt="MapPin-pic"/>&thinsp; **Ji-Paraná, Rondônia, Brazil** \
-  <img align="center" src="https://github.com/juletopi/juletopi/assets/76459155/56ead6a5-8cf8-44f2-8768-2ffa576e45d4" height="19" alt="Calendar-pic"/>&thinsp; <i>**Jul. 2022</i> - <i>currently now...**</i>
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Book-icon.png" height="19" alt="Book-icon"/>&thinsp; **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná** \
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GraduationCap-icon.png" height="22" alt="GraduationCap-icon"/>&thinsp; **Graduation in System Analysis and Development** \
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brazil** \
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**Jul. 2022</i> - <i>currently now...**</i>
   
 <br>
 
