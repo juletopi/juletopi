@@ -85,10 +85,9 @@
 
 <div align="left">
 
-  - **Algorithms & Programming Logic**
   - **Visual Programming Language**
-  - **Human-Computer Interaction**
-  - **Databases**
+  - **Object-Oriented Programming (OOP)**
+  - **Special Topics in Technology**
 
 </div>
 
