@@ -34,15 +34,9 @@
 
 <div align="left">
  
-  **• I'm a 20 year old guy and, at the moment, i'm attending the second period of \
-  Systems Analysis and Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), and I also take some other \
-  complementary courses under the hood. I'm currently aiming to start as a Front-End Developer!**
-  
-  **• I chose to pursue the career of Computing and Design, involving I.T. and Programming. \
-  I did my research on these areas and saw how it grows and is necessary in the labor market, \
-  especially in times during and after the pandemic, where companies are now progressing online, \
-  going beyond the face-to-face scope of work and opening the doors to places more beyond.**
+**• I'm a 20-year-old student currently studying Systems Analysis and Development at IFRO Campus Ji-Paraná. In addition to my formal education, I'm also taking supplementary courses and teaching myself new skills. My aim is to start my career as a Front-End Developer.**
 
+**• I chose to pursue a career in Computing and Design, with a strong emphasis on IT and programming, as I've observed the rapid growth and significance of these fields in the job market. As companies shift their operations online, the demand for IT professionals has surged, creating opportunities in diverse settings beyond the traditional office environment.**
   **• If you want to contact me:**
 
   **📧 Email: [juliocezarpvh@hotmail.com](mailto:juliocezarpvh@hotmail.com)** \
