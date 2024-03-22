@@ -170,6 +170,12 @@
 ### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif"/></a>&nbsp; Main skills:
 
 <div align="left">
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/HTML5-icon.png" alt="HTML5-icon" height="32" title="HTML5"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/CSS3-icon.png" alt="CSS3-icon" height="32" title="CSS3"/>
+  </a>&nbsp;&nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/CSharp-icon.png" alt="CSharp-icon" height="32" title="CSharp"/>
   </a>&nbsp;&nbsp;
@@ -205,9 +211,6 @@
     <a href="https://www.mysql.com/" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MySQL-icon.png" alt="MySQL-icon" height="32" title="MySQL"/>
   </a>&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GitHub-icon.png" alt="GitHub-icon" height="32" title="GitHub"/>
-  </a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/Git" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Git-icon.png" alt="Git-icon" height="32" title="Git"/>
   </a>&nbsp;
