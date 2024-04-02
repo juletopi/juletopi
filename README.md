@@ -37,12 +37,13 @@
 **• I'm a 20-year-old student currently studying Systems Analysis and Development at IFRO Campus Ji-Paraná. In addition to my formal education, I'm also taking supplementary courses and teaching myself new skills. My aim is to start my career as a Front-End Developer.**
 
 **• I chose to pursue a career in Computing and Design, with a strong emphasis on IT and programming, as I've observed the rapid growth and significance of these fields in the job market. As companies shift their operations online, the demand for IT professionals has surged, creating opportunities in diverse settings beyond the traditional office environment.**
-  **• If you want to contact me:**
 
-  **📧 Email: [juliocezarpvh@hotmail.com](mailto:juliocezarpvh@hotmail.com)** \
-  **📞 My number/WhatsApp: [+55 (69) 99360-6894](http://api.whatsapp.com/send?phone=5569993606894)**
+**• If you want to contact me:**
+
+**📧 Email: [juliocezarpvh@hotmail.com](mailto:juliocezarpvh@hotmail.com)** \
+**📞 My number/WhatsApp: [+55 (69) 99360-6894](http://api.whatsapp.com/send?phone=5569993606894)**
   
-  <details>
+<details>
   <center><summary>
     <sub>
       ❗️ Observations:
