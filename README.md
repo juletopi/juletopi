@@ -63,35 +63,6 @@
   </a>
 </div>
 
-<!-- MY HOBBIES -->
-
-### <a href="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif"><img align="center" src="https://media.giphy.com/media/L1JVwZwVzoyK9dvrfr/giphy.gif" width="37" alt="MagicCube-gif"/></a> About my hobbies, I like:
-
-<div align="left">
- 
-  🎮 `Games` • 🎲 `RPG` • 🎨 `Design` • 📚 `Learning` \
-  &#8199;&#8199;&#8199;&#8199;&#8199;&#8196; 🚲 `Biking` • 🎧 `Music` • 🍜 `Anime`
-
-</div>
-
-<!-- STUDYING NOW -->
-
-### <a href="https://media.giphy.com/media/r6g6PL4fMY7NgruRTh/giphy.gif"><img align="center" src="https://media.giphy.com/media/r6g6PL4fMY7NgruRTh/giphy.gif" width="28" alt="Studing-gif"/></a> In what I study for now, I can quote:
-
-<div align="left">
-
-  - **Visual Programming Language**
-  - **Object-Oriented Programming (OOP)**
-  - **Special Topics in Technology**
-
-</div>
-
-<div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
-  </a>
-</div>
-
 <!-- EDUCATION -->
 
 ### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif" width="34" alt="GoldenGraduationCap-gif"/></a>&thinsp; Education:
@@ -131,12 +102,6 @@
 <!-- SPOTIFY PLAYING -->
 
 ### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify:
-
-[![My Classic Mix Playlist](https://img.shields.io/badge/Classic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/1JocxDuSZX6Vvg4swYcoI5) 
-[![My Eletronic Mix Playlist](https://img.shields.io/badge/Eletronic%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/70XYgMkWbVWFRFIn3jjpEk) 
-[![My Rock Mix Playlist](https://img.shields.io/badge/Rock%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/20jJTDVrGcYYl65H5ymuVx)
-[![My Chill Mix Playlist](https://img.shields.io/badge/Chill%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/4fFlAjUsZelQlTtDFmn3Q3) 
-[![My Anime Mix Playlist](https://img.shields.io/badge/Anime%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/7AONukCIYAMZcXERyh2ZUP) 
 
 [![Juletopi's Spotify Playing](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
 
