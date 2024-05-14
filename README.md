@@ -30,15 +30,15 @@
 
 <!-- ABOUT ME -->
 
-### <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Heya folks, i'm Júlio!
+## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Heya folks, nice to meet you all!
 
 <div align="left">
  
-**• I'm a 20-year-old student currently studying Systems Analysis and Development at IFRO Campus Ji-Paraná. In addition to my formal education, I'm also taking supplementary courses and teaching myself new skills. My aim is to start my career as a Front-End Developer.**
+**My name is Júlio Cézar, I am 20 years old and I am currently studying Systems Analysis and Development. I am focused on developing my career in the programming field, starting with the Front-end and aiming for Full Stack!**
 
-**• I chose to pursue a career in Computing and Design, with a strong emphasis on IT and programming, as I've observed the rapid growth and significance of these fields in the job market. As companies shift their operations online, the demand for IT professionals has surged, creating opportunities in diverse settings beyond the traditional office environment.**
+**I dedicate my studies to various areas to improve my knowledge and skills, aiming to meet the demands of the job market from the primary requirements of system construction to the ready application of the system.**
 
-**• If you want to contact me:**
+**If you need to contact me, I am available via email or whatsapp.**
 
 **📧 Email: [juliocezarpvh@hotmail.com](mailto:juliocezarpvh@hotmail.com)** \
 **📞 My number/WhatsApp: [+55 (69) 99360-6894](http://api.whatsapp.com/send?phone=5569993606894)**
