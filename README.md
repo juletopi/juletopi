@@ -36,8 +36,6 @@
  
 **My name is Júlio Cézar, I am 20 years old and I am currently studying Systems Analysis and Development. I am focused on developing my career in the programming field, starting with the Front-end and aiming for Full Stack!**
 
-**I dedicate my studies to various areas to improve my knowledge and skills, aiming to meet the demands of the job market from the primary requirements of system construction to the ready application of the system.**
-
 **If you need to contact me, I am available via email or whatsapp.**
 
 **📧 Email: [juliocezarpvh@hotmail.com](mailto:juliocezarpvh@hotmail.com)** \
@@ -71,7 +69,7 @@
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Book-icon.png" height="19" alt="Book-icon"/>&thinsp; **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GraduationCap-icon.png" height="22" alt="GraduationCap-icon"/>&thinsp; **Graduation in System Analysis and Development** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brazil** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**Jul. 2022</i> - <i>currently now...**</i>
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**July 2022</i> - <i>currently now...**</i>
   
 <br>
 
