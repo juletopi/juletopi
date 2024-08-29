@@ -123,9 +123,6 @@
   <a href="https://www.datacamp.com/tutorial/r-studio-tutorial" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RStudio-icon.png" alt="RStudio-icon" height="32" title="RStudio"/>
   </a>&nbsp;&nbsp;
-  <a href="https://pencil.evolus.vn/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/PencilProject-icon.png" alt="PencilProject-icon" height="32" title="Pencil Project"/>
-  </a>&nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GitHub-icon.png" alt="GitHub-icon" height="32" title="GitHub"/>
   </a>
