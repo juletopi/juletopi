@@ -16,6 +16,8 @@
 🔗 • https://getemoji.com
 -->
 
+<!-- HEADER -->
+
 <div align="center">
   <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=header"/>
@@ -24,7 +26,19 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FA3E3E&center=true&vCenter=true&width=900&height=100&lines=Heya+folks%2C+i'm+J%C3%BAlio!;I'm+20+years+old.;I'm+from+Rond%C3%B4nia%2C+Brazil.;And+a+Front-End+Dev+on+my+way+for+Full+Stack!" alt="Typing_SVG" title="Welcome, welcome! :)"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=99999&color=FA3E3E&center=true&vCenter=true&repeat=false&width=600&height=30&lines=Heya+folks%2C+i'm+J%C3%BAlio+C%C3%A9zar!" alt="TypingMain-SVG" title="Hello fellow visitor!"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img width=50% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=4&section=header&%20render">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=FA3E3E&center=true&vCenter=true&width=1000&height=70&lines=I'm+a+21+year+old+brazilian+guy.;I'm+from+Rond%C3%B4nia%2C+Brazil.;And+a+Front-End+Dev+%2B+%0ABack-End+Dev...;...building+my+way+towards+Full+Stack!" alt="TypingSub_SVG" title="Welcome, welcome! :)"/>
   </a>
 </div>
 
