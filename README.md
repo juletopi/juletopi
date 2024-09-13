@@ -26,13 +26,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=99999&color=FA3E3E&center=true&vCenter=true&repeat=false&width=600&height=30&lines=Heya+folks%2C+i'm+J%C3%BAlio+C%C3%A9zar!" alt="TypingMain-SVG" title="Hello fellow visitor!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=1&pause=99999&color=FA3E3E&center=true&vCenter=true&repeat=false&width=600&height=30&lines=Heya+folks%2C+i'm+J%C3%BAlio+C%C3%A9zar!" alt="TypingMain-SVG" title="Hello fellow visitor!"/>
   </a>
 </div>
 
 <div align="center">
   <a href="#">
-    <img width=50% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=4&section=header&%20render">
+    <img width=60% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=4&section=header&%20render">
   </a>
 </div>
 
