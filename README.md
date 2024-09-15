@@ -50,7 +50,7 @@
  
 **Hi, I'm Júlio Cézar, a 21-year-old guy from Brazil, currently pursuing a degree in Systems Analysis and Development.**
 
-**I'm passionate about software development, with a strong interest in accessibility, artificial intelligence, and innovative full-stack solutions. I have experience in both Front-End and Back-End development, and while I am currently focusing on Front-End, my goal is to continue expanding my skills to become a versatile Full-Stack developer.**
+**I'm passionate about software development, with a strong interest in accessibility, artificial intelligence, and innovative full-stack solutions. I have experience in both Front-End and Back-End development, and as a Full-Stack developer I am continuously refining my skills, now focusing more in Front-end, to stay versatile and up-to-date with the latest technologies.**
 
 **I'm always eager to learn and take on new challenges, exploring how technology can solve real-world problems and create more inclusive digital experiences.**
 
