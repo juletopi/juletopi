@@ -153,7 +153,7 @@
 
 ### Front-end:
 
-<div align="left">
+<p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/HTML5-icon.png" alt="HTML5-icon" height="32" title="HTML5"/>
   </a>&nbsp;&nbsp;
@@ -163,11 +163,11 @@
   <a href="https://www.w3schools.com/js/" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/JavaScript-icon.png" alt="JavaScript-icon" height="32" title="JavaScript"/>
   </a>
-</div>
+</p>
 
 ### Back-end:
 
-<div align="left">
+<p align="left">
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/CSharp-icon.png" alt="CSharp-icon" height="32" title="CSharp"/>
   </a>&nbsp;&nbsp;
@@ -177,7 +177,7 @@
   <a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RLanguage-icon.png" alt="RLanguage-icon" height="35" title="R Language"/>
   </a>
-</div>
+</p>
 
 ### <a href="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/></a>&nbsp; Studying in this moment:
 
@@ -195,6 +195,37 @@
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Figma-icon.png" alt="Figma-icon" height="32" title="Figma"/>
   </a>
 </div>
+
+<br>
+
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
+  </a>
+</div>
+
+<!-- RECENT PROJECTS -->
+
+### <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0OG14aGFmbDZ6Z2J3eGpjdzNmMGxneGpuajdkbDF1ZHVsd3N1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ugvn4HEbU2FqZyJQ2o/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0OG14aGFmbDZ6Z2J3eGpjdzNmMGxneGpuajdkbDF1ZHVsd3N1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ugvn4HEbU2FqZyJQ2o/giphy.gif" width="36" alt="ProjectBuilding-gif"/></a>&nbsp; My most recent projects:
+
+<p align="left">
+    <a href="https://github.com/juletopi/Pagina_Cyberpunk-Edgerunners">
+      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=juletopi&repo=Pagina_Cyberpunk-Edgerunners&theme=react&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="CyberpunkEdgerunners-Repo">
+    </a>
+    <a href=https://github.com/juletopi/Desafio_Pagina_Musical">
+      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=juletopi&theme=react&repo=Desafio_Pagina_Musical&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="PaginaMusical-Repo">
+    </a>
+    <a href="https://github.com/juletopi/Pagina_de_Curriculo_Simples">
+      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=juletopi&theme=react&repo=Pagina_de_Curriculo_Simples&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="CurriculoSimples-Repo">
+    </a>
+    <a href="https://github.com/juletopi/The_Content-Cove_Project">
+      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=juletopi&repo=The_Content-Cove_Project&theme=react&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="TheContentCove-Repo">
+    </a>
+</p>
+
+<a href="https://github.com/juletopi?tab=repositories&sort=stargazers">
+  <img alt="AllRepositories" title="All of Juletopi´s Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+</a>
 
 <br>
 
