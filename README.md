@@ -188,6 +188,9 @@
   <a href="https://www.w3schools.com/sql/" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/SQL-icon.png" alt="SQL-icon" height="33" title="SQL"/>
   </a>&nbsp;&nbsp;
+  <a href="" target="_blank">
+    <img style="margin: 10px" src="https://github.com/user-attachments/assets/da8ac724-85a1-48af-a4cd-a2bf04beb209" alt="Python-icon" height="32" title="Python"/>
+  </a>&nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/Git" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Git-icon.png" alt="Git-icon" height="32" title="Git"/>
   </a>&nbsp;
