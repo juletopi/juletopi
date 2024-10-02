@@ -212,6 +212,9 @@
 ### <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0OG14aGFmbDZ6Z2J3eGpjdzNmMGxneGpuajdkbDF1ZHVsd3N1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ugvn4HEbU2FqZyJQ2o/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0OG14aGFmbDZ6Z2J3eGpjdzNmMGxneGpuajdkbDF1ZHVsd3N1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ugvn4HEbU2FqZyJQ2o/giphy.gif" width="36" alt="ProjectBuilding-gif"/></a>&nbsp; My most recent projects:
 
 <p align="left">
+    <a href="https://github.com/juletopi/Pagina_Calculadora_de_Soma_Simples">
+      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=juletopi&repo=Pagina_Calculadora_de_Soma_Simples&theme=react&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="CalculadoraSomaSimples-Repo">
+    </a>
     <a href="https://github.com/juletopi/Pagina_Cyberpunk-Edgerunners">
       <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=juletopi&repo=Pagina_Cyberpunk-Edgerunners&theme=react&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="CyberpunkEdgerunners-Repo">
     </a>
@@ -220,9 +223,6 @@
     </a>
     <a href="https://github.com/juletopi/Desafio_Pagina_Musical">
       <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=juletopi&theme=react&repo=Desafio_Pagina_Musical&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="PaginaMusical-Repo">
-    </a>
-    <a href="https://github.com/juletopi/The_Content-Cove_Project">
-      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=juletopi&repo=The_Content-Cove_Project&theme=react&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="TheContentCove-Repo">
     </a>
 </p>
 
