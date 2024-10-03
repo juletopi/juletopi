@@ -185,6 +185,9 @@
   <a href="https://www.w3schools.com/js/" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/JavaScript-icon.png" alt="JavaScript-icon" height="32" title="JavaScript"/>
   </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/jquery/" target="_blank">
+    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/jQuery-icon.png" alt="jQuery-icon" height="36" title="jQuery"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/sql/" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/SQL-icon.png" alt="SQL-icon" height="33" title="SQL"/>
   </a>&nbsp;&nbsp;
