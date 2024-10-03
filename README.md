@@ -138,13 +138,13 @@
   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/VisualStudio-icon.png" alt="VisualStudio-icon" height="31" title="Visual Studio"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.datacamp.com/tutorial/r-studio-tutorial" target="_blank">
+  <a href="https://www.w3schools.com/r/" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RStudio-icon.png" alt="RStudio-icon" height="32" title="RStudio"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.w3schools.com/mysql/" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MySQL-icon.png" alt="MySQLWorkbench-icon" height="32" title="MySQL Workbench"/>
   </a>&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">
+  <a href="https://docs.github.com/en/get-started" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GitHub-icon.png" alt="GitHub-icon" height="32" title="GitHub"/>
   </a>
 </div>
@@ -168,13 +168,13 @@
 ### Back-end:
 
 <p align="left">
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+  <a href="https://www.w3schools.com/cs/" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/CSharp-icon.png" alt="CSharp-icon" height="32" title="CSharp"/>
   </a>&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/NETCore-icon.png" alt=".NETCore-icon" height="32" title=".NET Core"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.codecademy.com/resources/blog/what-is-r-used-for/" target="_blank">
+  <a href="https://www.w3schools.com/r/" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RLanguage-icon.png" alt="RLanguage-icon" height="35" title="R Language"/>
   </a>
 </p>
@@ -194,10 +194,10 @@
   <a href="https://www.w3schools.com/sql/" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/SQL-icon.png" alt="SQL-icon" height="33" title="SQL"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.w3schools.com/python/" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Python-icon.png" alt="Python-icon" height="34" title="Python"/>
   </a>&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Git" target="_blank">
+  <a href="https://www.w3schools.com/git/" target="_blank">
     <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Git-icon.png" alt="Git-icon" height="32" title="Git"/>
   </a>&nbsp;
   <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank">
