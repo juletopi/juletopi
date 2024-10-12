@@ -133,19 +133,19 @@
 
 <div align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/VSCode-icon.png" alt="VSCode-icon" height="32" title="VSCode"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/VSCode-icon.png" alt="VSCode-icon" height="32" title="VSCode"/>
   </a>&nbsp;&nbsp;
   <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/VisualStudio-icon.png" alt="VisualStudio-icon" height="31" title="Visual Studio"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/VisualStudio-icon.png" alt="VisualStudio-icon" height="31" title="Visual Studio"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/r/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RStudio-icon.png" alt="RStudio-icon" height="32" title="RStudio"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RStudio-icon.png" alt="RStudio-icon" height="32" title="RStudio"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/mysql/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MySQL-icon.png" alt="MySQLWorkbench-icon" height="32" title="MySQL Workbench"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MySQL-icon.png" alt="MySQLWorkbench-icon" height="32" title="MySQL Workbench"/>
   </a>&nbsp;&nbsp;
   <a href="https://docs.github.com/en/get-started" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GitHub-icon.png" alt="GitHub-icon" height="32" title="GitHub"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GitHub-icon.png" alt="GitHub-icon" height="32" title="GitHub"/>
   </a>
 </div>
 
@@ -155,13 +155,13 @@
 
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/HTML5-icon.png" alt="HTML5-icon" height="32" title="HTML5"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/HTML5-icon.png" alt="HTML5-icon" height="32" title="HTML5"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/CSS3-icon.png" alt="CSS3-icon" height="32" title="CSS3"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/CSS3-icon.png" alt="CSS3-icon" height="32" title="CSS3"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/js/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/JavaScript-icon.png" alt="JavaScript-icon" height="32" title="JavaScript"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/JavaScript-icon.png" alt="JavaScript-icon" height="32" title="JavaScript"/>
   </a>
 </p>
 
@@ -169,13 +169,13 @@
 
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/CSharp-icon.png" alt="CSharp-icon" height="32" title="CSharp"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/CSharp-icon.png" alt="CSharp-icon" height="32" title="CSharp"/>
   </a>&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/NETCore-icon.png" alt=".NETCore-icon" height="32" title=".NET Core"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/NETCore-icon.png" alt=".NETCore-icon" height="32" title=".NET Core"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/r/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RLanguage-icon.png" alt="RLanguage-icon" height="35" title="R Language"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RLanguage-icon.png" alt="RLanguage-icon" height="35" title="R Language"/>
   </a>
 </p>
 
@@ -183,25 +183,28 @@
 
 <div align="left">
   <a href="https://www.w3schools.com/js/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/JavaScript-icon.png" alt="JavaScript-icon" height="32" title="JavaScript"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/JavaScript-icon.png" alt="JavaScript-icon" height="32" title="JavaScript"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/jquery/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/jQuery-icon.png" alt="jQuery-icon" height="36" title="jQuery"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/jQuery-icon.png" alt="jQuery-icon" height="36" title="jQuery"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/bootstrap/bootstrap_get_started.asp" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Bootstrap-icon.png" alt="Bootstrap-icon" height="37" title="Bootstrap"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/react/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/React-icon.png" alt="React-icon" height="33" title="React"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/React-icon.png" alt="React-icon" height="33" title="React"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/sql/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/SQL-icon.png" alt="SQL-icon" height="33" title="SQL"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/SQL-icon.png" alt="SQL-icon" height="33" title="SQL"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/python/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Python-icon.png" alt="Python-icon" height="34" title="Python"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Python-icon.png" alt="Python-icon" height="34" title="Python"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/git/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Git-icon.png" alt="Git-icon" height="32" title="Git"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Git-icon.png" alt="Git-icon" height="32" title="Git"/>
   </a>&nbsp;
   <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Figma-icon.png" alt="Figma-icon" height="32" title="Figma"/>
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Figma-icon.png" alt="Figma-icon" height="32" title="Figma"/>
   </a>
 </div>
 
