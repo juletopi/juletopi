@@ -176,6 +176,9 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/r/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RLanguage-icon.png" alt="RLanguage-icon" height="35" title="R Language"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/python/" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Python-icon.png" alt="Python-icon" height="34" title="Python"/>
   </a>
 </p>
 
