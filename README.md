@@ -85,7 +85,7 @@
 
   <a href="https://eficienciafiscal.com.br/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQFejpw3_KtY8g/company-logo_200_200/company-logo_200_200/0/1702995310803/eficincia_fiscal_logo?e=1739404800&v=beta&t=mTZlVMx41yB4y8oBnpBpZZnr82dcw6Xvt4pOOxSB9lA" align="left" width="94" height="100" alt="EficienciaFiscal-pic" title="Click here to go to the enterprise's website!"/></a>
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Enterprise-icon.png" height="22" alt="Enterprise-icon"/>&thinsp; **Eficiência Fiscal LTDA** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Occupation-icon.png" height="22" alt="Occupation-icon"/>&thinsp; **Auxiliary Developer** \
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Occupation-icon.png" height="22" alt="Occupation-icon"/>&thinsp; **Auxiliary Developer &thinsp;•&thinsp; (On-Site)** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brazil** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**October 2024</i> - <i>currently now...**</i>
 
@@ -95,7 +95,7 @@
 
   <a href="https://portal.ifro.edu.br/ji-parana"><img src="https://github.com/juletopi/juletopi/assets/76459155/6e52c29a-8c6c-438d-93a8-c465311d2efe" align="left" width="94" height="100" alt="IFRO-pic" title="Click here to go to the institution's website!"/></a>
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Book-icon.png" height="19" alt="Book-icon"/>&thinsp; **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GraduationCap-icon.png" height="22" alt="GraduationCap-icon"/>&thinsp; **Graduation in System Analysis and Development** \
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GraduationCap-icon.png" height="22" alt="GraduationCap-icon"/>&thinsp; **Graduation in System Analysis and Development &thinsp;•&thinsp; (On-Campus)**\
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brazil** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**July 2022</i> - <i>currently now...**</i>
 
