@@ -44,15 +44,15 @@
 
 <!-- ABOUT ME -->
 
-## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Heya folks, nice to meet you all!
+## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Nice to meet ya!
 
 <div align="left">
  
-**Hi, I'm Júlio Cézar, a 21-year-old guy from Brazil, currently pursuing a degree in Systems Analysis and Development.**
+**I'm Júlio Cézar (a.k.a. *Juletopi*), a 21-year-old Full-Stack Developer from Brazil currently pursuing a degree in Systems Analysis and Development and working professionaly as an Auxiliary Developer at Eficiência Fiscal LTDA.**
 
-**I'm passionate about software development, with a strong interest in accessibility, artificial intelligence, and innovative full-stack solutions. I have experience in both Front-End and Back-End development, and as a Full-Stack developer I am continuously refining my skills, now focusing more in Front-end, to stay versatile and up-to-date with the latest technologies.**
+**Interested about software development, with a strong focus on accessibility, artificial intelligence, and innovative full-stack solutions. Experienced in both Front-End and Back-End development, I'm continually refining my skills, with a current focus on Front-End to stay versatile and up-to-date with the latest technologies.**
 
-**I'm always eager to learn and take on new challenges, exploring how technology can solve real-world problems and create more inclusive digital experiences.**
+**Eager to learn and embrace new challenges, I am driven by how technology can solve real-world problems and create more inclusive digital experiences.**
 
 **If you need to contact me, I am available via email or whatsapp.**
 
