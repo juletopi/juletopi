@@ -210,9 +210,6 @@
   <a href="https://www.w3schools.com/sql/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/SQL-icon.png" alt="SQL-icon" height="33" title="SQL"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/python/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Python-icon.png" alt="Python-icon" height="34" title="Python"/>
-  </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/git/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Git-icon.png" alt="Git-icon" height="32" title="Git"/>
   </a>&nbsp;
