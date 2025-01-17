@@ -59,7 +59,7 @@
 
 <!-- SOCIAL NETWORKS -->
 
-### <a href="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif"><img align="center" src="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif" width="32" alt="SpeechBubble-gif"/></a> Socials & Contacts:
+### <a href="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif"><img align="center" src="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif" width="32" alt="SpeechBubble-gif"/></a> Socials & Contacts
 
 <div align="left">
   <a href="https://linktr.ee/juletopi"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Linktree-icon.png" height="32" alt="MyLinktree-icon" title="My Linktree"></a>&nbsp;&nbsp;&nbsp;
@@ -83,7 +83,7 @@
 
 <!-- SKILLS -->
 
-### <a href="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif"><img align="center" src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif"/></a>&nbsp; Tools I use:
+### <a href="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif"><img align="center" src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif"/></a>&nbsp; Tools I use
 
 <div align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -103,7 +103,7 @@
   </a>
 </div>
 
-### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif"/></a>&nbsp; Main skills:
+### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif"/></a>&nbsp; Main skills
 
 ### Front-end:
 
@@ -136,7 +136,7 @@
   </a>
 </p>
 
-### <a href="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/></a>&nbsp; Studying in this moment:
+### <a href="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/></a>&nbsp; Studying for mow
 
 <div align="left">
   <a href="https://www.w3schools.com/js/" target="_blank">
@@ -172,7 +172,7 @@
 
 <!-- EXPERIENCE -->
 
-### <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif" width="38" alt="SkeletonInAChair-gif"/></a> Work Experience:
+### <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif" width="38" alt="SkeletonInAChair-gif"/></a> Work Experience
 
   <a href="https://eficienciafiscal.com.br/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQFejpw3_KtY8g/company-logo_200_200/company-logo_200_200/0/1702995310803/eficincia_fiscal_logo?e=1739404800&v=beta&t=mTZlVMx41yB4y8oBnpBpZZnr82dcw6Xvt4pOOxSB9lA" align="left" width="94" height="100" alt="EficienciaFiscal-pic" title="Click here to go to the company's website!"/></a>
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Enterprise-icon.png" height="22" alt="Enterprise-icon"/>&thinsp; **Eficiência Fiscal LTDA** \
@@ -182,7 +182,7 @@
 
 <!-- EDUCATION -->
 
-### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif" width="34" alt="GoldenGraduationCap-gif"/></a>&thinsp; Education:
+### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif" width="34" alt="GoldenGraduationCap-gif"/></a>&thinsp; Education
 
   <a href="https://portal.ifro.edu.br/ji-parana"><img src="https://github.com/juletopi/juletopi/assets/76459155/6e52c29a-8c6c-438d-93a8-c465311d2efe" align="left" width="94" height="100" alt="IFRO-pic" title="Click here to go to the institution's website!"/></a>
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Book-icon.png" height="19" alt="Book-icon"/>&thinsp; **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná** \
@@ -200,7 +200,7 @@
 
 <!-- SPOTIFY PLAYING -->
 
-### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify:
+### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify
 
 [![Juletopi's Spotify Playing](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
 
@@ -212,7 +212,7 @@
 
 <!-- RECENT PROJECTS -->
 
-### <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0OG14aGFmbDZ6Z2J3eGpjdzNmMGxneGpuajdkbDF1ZHVsd3N1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ugvn4HEbU2FqZyJQ2o/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0OG14aGFmbDZ6Z2J3eGpjdzNmMGxneGpuajdkbDF1ZHVsd3N1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ugvn4HEbU2FqZyJQ2o/giphy.gif" width="36" alt="ProjectBuilding-gif"/></a>&nbsp; My most recent projects:
+### <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0OG14aGFmbDZ6Z2J3eGpjdzNmMGxneGpuajdkbDF1ZHVsd3N1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ugvn4HEbU2FqZyJQ2o/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0OG14aGFmbDZ6Z2J3eGpjdzNmMGxneGpuajdkbDF1ZHVsd3N1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ugvn4HEbU2FqZyJQ2o/giphy.gif" width="36" alt="ProjectBuilding-gif"/></a>&nbsp; My most recent projects
 
 <p align="left">
     <a href="https://github.com/juletopi/Pagina_Calculadora_de_Soma_Simples">
