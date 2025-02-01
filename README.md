@@ -53,7 +53,7 @@
 **I'm Júlio Cézar (a.k.a. *Juletopi*), a 21-year-old Full-Stack Developer from Brazil currently pursuing a degree in Systems Analysis and Development and working professionaly as an Auxiliary Developer at Eficiência Fiscal LTDA.**
 
 
-**Interested about software development, with a strong focus on accessibility, artificial intelligence, and innovative full-stack solutions. Experienced in both Front-End and Back-End development, I'm continually refining my skills, with a current focus on Front-End to stay versatile and up-to-date with the latest technologies.**
+**Interested about software development, with a strong focus on accessibility, artificial intelligence, and innovative full-stack solutions. Experienced in both Front-End and Back-End development, I'm continually refining my skills to stay versatile and up-to-date with the latest technologies.**
 
 **Eager to learn and embrace new challenges, I am driven by how technology can solve real-world problems and create more inclusive digital experiences.**
 
