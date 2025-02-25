@@ -70,7 +70,6 @@
   <a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Facebook-icon.png" height="32" alt="Facebook-icon" title="Facebook"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:juliocezarpvh@hotmail.com"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Email-icon.png" height="32" alt="Email-icon" title="Email"></a>&nbsp;&nbsp;&nbsp;
   <a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Whatsapp-icon.png" height="32" alt="WhatsApp-icon" title="Whatsapp"></a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/20614844/juletopi?tab=profile"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/StackOverflow-icon.png" height="35" alt="StackOverflow-icon" title="Stack Overflow"></a>&nbsp;&nbsp;
   <a href="https://dev.to/juletopi"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/DEVCommunity-icon.png" height="35" alt="DEVCommunity-icon" title="DEV Community"></a>
  
   <sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
