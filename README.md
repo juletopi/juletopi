@@ -62,15 +62,33 @@
 ### <a href="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif"><img align="center" src="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif" width="32" alt="SpeechBubble-gif"/></a> Socials & Contacts
 
 <div align="left">
-  <a href="https://juletopi.github.io/JCPC_Portfolio/"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/redInitialsLogo-icon.png" height="32" alt="MyPortfolio-icon" title="My Portfolio"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linktr.ee/juletopi"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Linktree-icon.png" height="32" alt="MyLinktree-icon" title="My Linktree"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/LinkedIn-icon.png" height="32" alt="LinkedIn-icon" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Spotify-icon.png" height="32" alt="Spotify-icon" title="Spotify"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/juletopi/"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Instagram-icon.png" height="32" alt="Instagram-icon" title="Instagram"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Facebook-icon.png" height="32" alt="Facebook-icon" title="Facebook"></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:juliocezarpvh@hotmail.com"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Email-icon.png" height="32" alt="Email-icon" title="Email"></a>&nbsp;&nbsp;&nbsp;
-  <a href="http://api.whatsapp.com/send?phone=5569993606894"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Whatsapp-icon.png" height="32" alt="WhatsApp-icon" title="Whatsapp"></a>&nbsp;&nbsp;
-  <a href="https://dev.to/juletopi"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/DEVCommunity-icon.png" height="35" alt="DEVCommunity-icon" title="DEV Community"></a>
+  <a href="https://juletopi.github.io/JCPC_Portfolio/">
+    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/redInitialsLogo-icon.png" height="32" alt="MyPortfolio-icon" title="My Portfolio">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linktr.ee/juletopi">
+    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Linktree-icon.png" height="32" alt="MyLinktree-icon" title="My Linktree">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/">
+    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/LinkedIn-icon.png" height="32" alt="LinkedIn-icon" title="LinkedIn">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo">
+    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Spotify-icon.png" height="32" alt="Spotify-icon" title="Spotify">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/juletopi/">
+    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Instagram-icon.png" height="32" alt="Instagram-icon" title="Instagram">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100006955867774">
+    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Facebook-icon.png" height="32" alt="Facebook-icon" title="Facebook">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:juliocezarpvh@hotmail.com">
+    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Email-icon.png" height="32" alt="Email-icon" title="Email">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="http://api.whatsapp.com/send?phone=5569993606894">
+    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Whatsapp-icon.png" height="32" alt="WhatsApp-icon" title="Whatsapp">
+  </a>&nbsp;&nbsp;
+  <a href="https://dev.to/juletopi">
+    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/DEVCommunity-icon.png" height="35" alt="DEVCommunity-icon" title="DEV Community">
+  </a>
  
   <sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
 </div>
@@ -136,7 +154,7 @@
   </a>
 </p>
 
-### <a href="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/></a>&nbsp; Studying for mow
+### <a href="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/></a>&nbsp; Studying for now
 
 <div align="left">
   <a href="https://www.w3schools.com/js/" target="_blank">
@@ -153,6 +171,9 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/sql/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/SQL-icon.png" alt="SQL-icon" height="33" title="SQL"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/react/" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/PHP-icon.png" alt="PHP-icon" height="40" title="PHP"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/git/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Git-icon.png" alt="Git-icon" height="32" title="Git"/>
