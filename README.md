@@ -56,7 +56,7 @@
 
 <!-- SOCIAL NETWORKS -->
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <div align="right">
   <a href="https://juletopi.github.io/JCPC_Portfolio/">
@@ -98,7 +98,7 @@
 
 <!-- SKILLS -->
 
-<h3 align="center"><img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tools I used</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tools I use</h3>
 
 <div align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
