@@ -42,7 +42,7 @@
 
 ## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Nice to meet ya!
 
-<img align="right" src="https://github.com/user-attachments/assets/51b2c10a-66fc-4ddc-8f63-19621e253682" align="left" width="350" alt="JulioAboutMe-pic" title="Hey, that's me: Júlio Cézar!"/>
+<img align="right" src="https://github.com/user-attachments/assets/51b2c10a-66fc-4ddc-8f63-19621e253682" align="left" width="310" alt="JulioAboutMe-pic" title="Hey, that's me: Júlio Cézar!"/>
 
 <div align="left">
  
@@ -120,8 +120,6 @@
 
 <h3 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif">&nbsp; Main skills</h3>
 
-<h3 align="center">Front-end &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Back-end</h3>
-
 <p align="center">
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5-icon" height="50" title="HTML5"/>
@@ -131,7 +129,7 @@
   </a>&nbsp;
   <a href="https://www.w3schools.com/js/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript-icon" height="50" title="JavaScript"/>
-  </a>&emsp;&emsp;
+  </a>&emsp;&emsp;&emsp;
   <a href="https://www.w3schools.com/cs/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="CSharp-icon" height="50" title="CSharp"/>
   </a>&nbsp;
