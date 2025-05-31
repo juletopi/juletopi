@@ -56,7 +56,7 @@
 
 <!-- SOCIAL NETWORKS -->
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <div align="right">
   <a href="https://juletopi.github.io/JCPC_Portfolio/">
@@ -98,85 +98,80 @@
 
 <!-- SKILLS -->
 
-### <a href="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif"><img align="center" src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif"/></a>&nbsp; Tools I use
+<h3 align="center"><img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tools I used</h3>
 
-<div align="left">
+<div align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/VSCode-icon.png" alt="VSCode-icon" height="32" title="VSCode"/>
-  </a>&nbsp;&nbsp;
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode-icon" height="50" title="VSCode"/>
+  </a>&nbsp;
   <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/VisualStudio-icon.png" alt="VisualStudio-icon" height="31" title="Visual Studio"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/r/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RStudio-icon.png" alt="RStudio-icon" height="32" title="RStudio"/>
-  </a>&nbsp;&nbsp;
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VisualStudio-icon" height="50" title="Visual Studio"/>
+  </a>&nbsp;
   <a href="https://www.w3schools.com/mysql/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MySQL-icon.png" alt="MySQLWorkbench-icon" height="32" title="MySQL Workbench"/>
-  </a>&nbsp;&nbsp;
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQLWorkbench-icon" height="50" title="MySQL Workbench"/>
+  </a>&nbsp;
   <a href="https://docs.github.com/en/get-started" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GitHub-icon.png" alt="GitHub-icon" height="32" title="GitHub"/>
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub-icon" height="50" title="GitHub"/>
+  </a>&nbsp;
+  <a href="https://docs.github.com/en/get-started" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="GitHub-icon" height="50" title="GitLab"/>
   </a>
 </div>
 
-### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif"/></a>&nbsp; Main skills
+<h3 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif">&nbsp; Main skills</h3>
 
-### Front-end:
+<h3 align="center">Front-end &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Back-end</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/html/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/HTML5-icon.png" alt="HTML5-icon" height="32" title="HTML5"/>
-  </a>&nbsp;&nbsp;
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5-icon" height="50" title="HTML5"/>
+  </a>&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/CSS3-icon.png" alt="CSS3-icon" height="32" title="CSS3"/>
-  </a>&nbsp;&nbsp;
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3-icon" height="50" title="CSS3"/>
+  </a>&nbsp;
   <a href="https://www.w3schools.com/js/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/JavaScript-icon.png" alt="JavaScript-icon" height="32" title="JavaScript"/>
-  </a>
-</p>
-
-### Back-end:
-
-<p align="left">
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript-icon" height="50" title="JavaScript"/>
+  </a>&emsp;&emsp;
   <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/CSharp-icon.png" alt="CSharp-icon" height="32" title="CSharp"/>
-  </a>&nbsp;&nbsp;
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="CSharp-icon" height="50" title="CSharp"/>
+  </a>&nbsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/NETCore-icon.png" alt=".NETCore-icon" height="32" title=".NET Core"/>
-  </a>&nbsp;&nbsp;
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt=".NETCore-icon" height="50" title=".NET Core"/>
+  </a>&nbsp;
   <a href="https://www.w3schools.com/r/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/RLanguage-icon.png" alt="RLanguage-icon" height="35" title="R Language"/>
-  </a>&nbsp;&nbsp;
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" alt="RLanguage-icon" height="50" title="R Language"/>
+  </a>&nbsp;
   <a href="https://www.w3schools.com/python/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Python-icon.png" alt="Python-icon" height="34" title="Python"/>
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python-icon" height="50" title="Python"/>
+  </a>
+  <a href="https://www.w3schools.com/php/" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP-icon" height="50" title="PHP"/>
   </a>
 </p>
 
-### <a href="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/></a>&nbsp; Studying for now
+<h3 align="center"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/>&nbsp; Studying for now</h3>
 
-<div align="left">
-  <a href="https://www.w3schools.com/js/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/JavaScript-icon.png" alt="JavaScript-icon" height="32" title="JavaScript"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/jquery/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/jQuery-icon.png" alt="jQuery-icon" height="36" title="jQuery"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/bootstrap/bootstrap_get_started.asp" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Bootstrap-icon.png" alt="Bootstrap-icon" height="37" title="Bootstrap"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/react/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/React-icon.png" alt="React-icon" height="33" title="React"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/react/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/PHP-icon.png" alt="PHP-icon" height="40" title="PHP"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/sql/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/SQL-icon.png" alt="SQL-icon" height="33" title="SQL"/>
-  </a>&nbsp;&nbsp;
+<div align="center">
   <a href="https://www.w3schools.com/git/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Git-icon.png" alt="Git-icon" height="32" title="Git"/>
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git-icon" height="50" title="Git"/>
+  </a>&nbsp;
+  <a href="https://www.w3schools.com/jquery/" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" alt="jQuery-icon" height="50" title="jQuery"/>
+  </a>&nbsp;
+  <a href="https://www.w3schools.com/bootstrap/bootstrap_get_started.asp" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap-icon" height="50" title="Bootstrap"/>
+  </a>&nbsp;
+  <a href="https://www.w3schools.com/react/" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React-icon" height="50" title="React"/>
+  </a>&nbsp;
+  <a href="https://www.w3schools.com/php/" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP-icon" height="50" title="PHP"/>
+  </a>&nbsp;
+  <a href="https://www.w3schools.com/mysql/" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQLWorkbench-icon" height="50" title="MySQL Workbench"/>
   </a>&nbsp;
   <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Figma-icon.png" alt="Figma-icon" height="32" title="Figma"/>
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma-icon" height="50" title="Figma"/>
   </a>
 </div>
 
