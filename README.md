@@ -61,15 +61,15 @@
 <div align="right">
   <a href="https://juletopi.github.io/JCPC_Portfolio/">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/redInitialsLogo-icon.png" height="32" alt="MyPortfolio-icon" title="My Portfolio">
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
+  <a href="https://dev.to/juletopi">
+    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/DEVCommunity-icon.png" height="35" alt="DEVCommunity-icon" title="DEV Community">
+  </a>&nbsp;&nbsp;
   <a href="https://linktr.ee/juletopi">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Linktree-icon.png" height="32" alt="MyLinktree-icon" title="My Linktree">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/LinkedIn-icon.png" height="32" alt="LinkedIn-icon" title="LinkedIn">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Spotify-icon.png" height="32" alt="Spotify-icon" title="Spotify">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/juletopi/">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Instagram-icon.png" height="32" alt="Instagram-icon" title="Instagram">
@@ -82,9 +82,6 @@
   </a>&nbsp;&nbsp;&nbsp;
   <a href="http://api.whatsapp.com/send?phone=5569993606894">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Whatsapp-icon.png" height="32" alt="WhatsApp-icon" title="Whatsapp">
-  </a>&nbsp;&nbsp;
-  <a href="https://dev.to/juletopi">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/DEVCommunity-icon.png" height="35" alt="DEVCommunity-icon" title="DEV Community">
   </a>
  
   <sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
