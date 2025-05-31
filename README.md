@@ -18,11 +18,7 @@
 
 <!-- HEADER -->
 
-<div align="center">
-  <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=header"/>
-  </a>
-</div>
+<br><br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -50,18 +46,19 @@
 
 <div align="left">
  
-**I'm Júlio Cézar (a.k.a. *Juletopi*), a 21-year-old Full-Stack Developer from Brazil currently pursuing a degree in Systems Analysis and Development and working professionaly as an Auxiliary Developer at Eficiência Fiscal LTDA.**
+**👌 I'm Júlio Cézar (a.k.a. *Juletopi*), a 21-year-old Full-Stack Developer from Brazil.**
 
+**📚 Currently pursuing a degree in Systems Analysis and Development.**
 
-**Interested about software development, with a strong focus on accessibility, artificial intelligence, and innovative full-stack solutions. Experienced in both Front-End and Back-End development, I'm continually refining my skills to stay versatile and up-to-date with the latest technologies.**
+**👨‍💻 Working professionaly as an Auxiliary Developer at Eficiência Fiscal LTDA.**
 
-**Eager to learn and embrace new challenges, I am driven by how technology can solve real-world problems and create more inclusive digital experiences.**
+**💭 Interested in accessibility, artificial intelligence, and innovative full-stack solutions.**
 
 <!-- SOCIAL NETWORKS -->
 
-### <a href="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif"><img align="center" src="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif" width="32" alt="SpeechBubble-gif"/></a> Socials & Contacts
+<br><br><br><br><br><br><br><br>
 
-<div align="left">
+<div align="right">
   <a href="https://juletopi.github.io/JCPC_Portfolio/">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/redInitialsLogo-icon.png" height="32" alt="MyPortfolio-icon" title="My Portfolio">
   </a>&nbsp;&nbsp;&nbsp;
@@ -310,24 +307,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center">
-    <a href="#">
-      <img align="center" src="https://profile-counter.glitch.me/{juletopi}/count.svg" alt="VisitorsCount-SVG" title="Juletopi's Profile Visitors Counter"/>
-    </a>
-  </p> 
-</div>
-
-<br>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=FA3E3E&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Thanks+for+visiting%2C+see+ya!" alt="TypingGoodbye-SVG" title="Goodbye and come again! ;)"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=footer"/>
   </a>
 </div>
