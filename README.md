@@ -52,7 +52,16 @@
 
 **👨‍💻 Working professionaly as an Auxiliary Developer at Eficiência Fiscal LTDA.**
 
+**💬 Ask me about webscraping, Python, PHP, C#.**
+
 **💭 Interested in accessibility, artificial intelligence, and innovative full-stack solutions.**
+
+```js
+while (!success) {
+  tryAgain();
+  if (dead) break;
+}
+```
 
 <!-- SOCIAL NETWORKS -->
 
