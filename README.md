@@ -65,7 +65,7 @@ while (!success) {
 
 <!-- SOCIAL NETWORKS -->
 
-<br><br><br><br><br><br><br>
+<br>
 
 <div align="right">
   <a href="https://juletopi.github.io/JCPC_Portfolio/">
