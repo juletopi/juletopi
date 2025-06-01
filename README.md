@@ -135,7 +135,7 @@ while (!success) {
   </a>&nbsp;
   <a href="https://www.w3schools.com/js/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript-icon" height="50" title="JavaScript"/>
-  </a>&emsp;&emsp;&emsp;
+  </a>&nbsp;
   <a href="https://www.w3schools.com/cs/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="CSharp-icon" height="50" title="CSharp"/>
   </a>&nbsp;
