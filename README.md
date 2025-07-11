@@ -7,6 +7,7 @@ REFERENCES USED IN THIS REPOSITORY:
 • https://github.com/Ashutosh00710/github-readme-activity-graph
 • https://github.com/alexandresanlim/Badges4-README.md-Profile
 • https://github.com/tandpfun/skill-icons
+• https://github.com/LelouchFR/skill-icons
 • https://readme-typing-svg.demolab.com/demo
 • https://profilepicturemaker.com
 • https://devicon.dev
@@ -122,6 +123,9 @@ while (!success) {
   <a href="https://docs.github.com/en/get-started" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="GitHub-icon" height="45" title="GitLab"/>
   </a>&nbsp;
+  <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/azuredevops-auto.svg" alt="AzureDevOps-icon" height="45" title="Azure DevOps"/>
+  </a>&nbsp;
   <a href="https://www.notion.com/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="Notion-icon" height="45" title="Notion"/>
   </a>&nbsp;
@@ -182,9 +186,6 @@ while (!success) {
   </a>&nbsp;
   <a href="https://www.w3schools.com/php/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP-icon" height="45" title="PHP"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/mysql/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQLWorkbench-icon" height="45" title="MySQL Workbench"/>
   </a>&nbsp;
   <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma-icon" height="45" title="Figma"/>
