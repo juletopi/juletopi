@@ -1,19 +1,19 @@
 <!--
-❗ ➤ REFERENCES USED IN THIS REPOSITORY:
-🔗 • https://github.com/kyechan99/capsule-render
-🔗 • https://github.com/DenverCoder1/custom-icon-badges
-🔗 • https://github.com/DenverCoder1/github-readme-streak-stats
-🔗 • https://github.com/Ashutosh00710/github-readme-activity-graph
-🔗 • https://github.com/anuraghazra/github-readme-stats
-🔗 • https://readme-typing-svg.demolab.com/demo/
-🔗 • https://github.com/alexandresanlim/Badges4-README.md-Profile
-🔗 • https://github.com/novatorem/novatorem
-🔗 • https://profilepicturemaker.com
-🔗 • https://devicon.dev
-🔗 • https://shields.io
-🔗 • https://giphy.com
-🔗 • https://emoji.gg
-🔗 • https://getemoji.com
+REFERENCES USED IN THIS REPOSITORY:
+• https://github.com/kyechan99/capsule-render
+• https://github.com/DenverCoder1/custom-icon-badges
+• https://github.com/anuraghazra/github-readme-stats
+• https://github.com/DenverCoder1/github-readme-streak-stats
+• https://github.com/Ashutosh00710/github-readme-activity-graph
+• https://github.com/alexandresanlim/Badges4-README.md-Profile
+• https://github.com/tandpfun/skill-icons
+• https://readme-typing-svg.demolab.com/demo
+• https://profilepicturemaker.com
+• https://devicon.dev
+• https://shields.io
+• https://giphy.com
+• https://emoji.gg
+• https://getemoji.com
 -->
 
 <!-- HEADER -->
@@ -117,10 +117,19 @@ while (!success) {
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQLWorkbench-icon" height="45" title="MySQL Workbench"/>
   </a>&nbsp;
   <a href="https://docs.github.com/en/get-started" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub-icon" height="40" title="GitHub"/>
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub-icon" height="45" title="GitHub"/>
   </a>&nbsp;
   <a href="https://docs.github.com/en/get-started" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="GitHub-icon" height="40" title="GitLab"/>
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="GitHub-icon" height="45" title="GitLab"/>
+  </a>&nbsp;
+  <a href="https://www.notion.com/" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="Notion-icon" height="45" title="Notion"/>
+  </a>&nbsp;
+  <a href="https://jupyter.org/" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-auto.svg" alt="Jupyter-icon" height="45" title="Jupyter"/>
+  </a>&nbsp;
+  <a href="https://www.postman.com/" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postman.svg" alt="Postman-icon" height="45" title="Postman"/>
   </a>
 </div>
 
@@ -147,7 +156,10 @@ while (!success) {
   </a>&nbsp;
   <a href="https://www.w3schools.com/python/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python-icon" height="45" title="Python"/>
-  </a>
+  </a>&nbsp;
+  <a href="https://playwright.dev/docs/intro" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/playwright-auto.svg" alt="Playwright-icon" height="45" title="Playwright"/>
+  </a>&nbsp;
   <a href="https://www.w3schools.com/php/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP-icon" height="45" title="PHP"/>
   </a>
