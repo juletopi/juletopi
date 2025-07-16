@@ -107,6 +107,8 @@ while (!success) {
 
 <h3 align="center"><img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tools I use</h3>
 
+<h4 align="center">IDEs</h4>
+
 <div align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode-icon" height="45" title="VSCode"/>
@@ -116,7 +118,12 @@ while (!success) {
   </a>&nbsp;
   <a href="https://www.w3schools.com/mysql/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQLWorkbench-icon" height="45" title="MySQL Workbench"/>
-  </a>&nbsp;
+  </a>
+</div>
+
+<h4 align="center">DevOps & Productivity</h4>
+
+<div align="center">
   <a href="https://docs.github.com/en/get-started" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub-icon" height="45" title="GitHub"/>
   </a>&nbsp;
@@ -139,7 +146,9 @@ while (!success) {
 
 <h3 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif">&nbsp; Main skills</h3>
 
-<p align="center">
+<h4 align="center">Front-end</h4>
+
+<div align="center">
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5-icon" height="45" title="HTML5"/>
   </a>&nbsp;
@@ -149,6 +158,14 @@ while (!success) {
   <a href="https://www.w3schools.com/js/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript-icon" height="45" title="JavaScript"/>
   </a>&nbsp;
+  <a href="https://www.w3schools.com/react/" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React-icon" height="45" title="React"/>
+  </a>
+</div>
+
+<h4 align="center">Back-end</h4>
+
+<div align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="CSharp-icon" height="45" title="CSharp"/>
   </a>&nbsp;
@@ -167,7 +184,7 @@ while (!success) {
   <a href="https://www.w3schools.com/php/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP-icon" height="45" title="PHP"/>
   </a>
-</p>
+</div>
 
 <h3 align="center"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/>&nbsp; Studying for now</h3>
 
