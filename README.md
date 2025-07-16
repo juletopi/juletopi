@@ -325,6 +325,14 @@ while (!success) {
   </a>
 </div>
 
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
+  </a>
+</div>
+
+<br>
+
 <!-- PACMAN COMMITS -->
 
 <picture>
@@ -334,14 +342,6 @@ while (!success) {
 </picture>
 
 <!-- THANKS FOR VISITING -->
-
-<div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
-  </a>
-</div>
-
-<br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
