@@ -17,6 +17,11 @@ REFERENCES USED IN THIS REPOSITORY:
 • https://getemoji.com
 -->
 
+<div>
+  <a href="README.md"><img src="https://img.shields.io/badge/🇺🇸-English-AF4747?style=flat-square&logoColor=white" alt="English" /></a>
+  <a href="README.pt.md"><img src="https://img.shields.io/badge/🇧🇷-Português-AF4747?style=flat-square&logoColor=white" alt="Português" /></a>
+</div>
+
 <!-- HEADER -->
 
 <br><br>
