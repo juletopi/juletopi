@@ -1,6 +1,6 @@
 <div>
-  <a href="README.md"><img src="https://img.shields.io/badge/🇺🇸-English-CC3E3E?style=flat-square&logoColor=white" alt="English" title="See README in english"/></a>
-  <a href="README.pt.md"><img src="https://img.shields.io/badge/🇧🇷-Português-CC3E3E?style=flat-square&logoColor=white" alt="Português" title="Ver README em português"/></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/🇺🇸-English-D54040?style=flat-square&logoColor=white" alt="English" title="See README in english"/></a>
+  <a href="README.pt.md"><img src="https://img.shields.io/badge/🇧🇷-Português-D54040?style=flat-square&logoColor=white" alt="Português" title="Ver README em português"/></a>
 </div>
 
 <!-- HEADER -->
@@ -75,7 +75,7 @@ while (!success) {
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:juliocezarpvh@hotmail.com">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Email-icon.png" height="32" alt="Email-icon" title="Email">
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
  
   <sub>**"Use `ctrl + click` para abrir em uma nova janela!"**</sub>
 </div>
@@ -204,7 +204,7 @@ while (!success) {
 
 ### <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif" width="38" alt="SkeletonInAChair-gif"/></a> Experiência
 
-  <a href="https://eficienciafiscal.com.br/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQFejpw3_KtY8g/company-logo_200_200/company-logo_200_200/0/1702995310803/eficincia_fiscal_logo?e=1753315200&v=beta&t=Siz_jpJH4iJxA9UIMMxwJTZHro7tzkZPAk7BvAiHxZU" align="left" width="94" height="100" alt="EficienciaFiscal-pic" title="Ir ao site da empresa →"/></a>
+  <a href="https://eficienciafiscal.com.br/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQFejpw3_KtY8g/company-logo_200_200/company-logo_200_200/0/1702995310803/eficincia_fiscal_logo?e=1756339200&v=beta&t=WS4M8JkuDEaEobpPiu3u2E4ItSvH2Zi4xbJKya96yqk" align="left" width="94" height="100" alt="EficienciaFiscal-pic" title="Ir ao site da empresa →"/></a>
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Enterprise-icon.png" height="22" alt="Enterprise-icon"/>&thinsp; **Eficiência Fiscal LTDA** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Occupation-icon.png" height="22" alt="Occupation-icon"/>&thinsp; **Desenvolvedor Auxiliar** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brasil &thinsp;•&thinsp; (Presencial)** \
