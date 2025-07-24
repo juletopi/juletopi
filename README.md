@@ -40,7 +40,7 @@ REFERENCES USED IN THIS REPOSITORY:
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=FA3E3E&center=true&vCenter=true&width=1000&height=70&lines=A+21+year+old+brazilian+guy;From+Rond%C3%B4nia%2C+Brazil;And+a+Full+Stack+Developer" alt="TypingSub-SVG" title="Welcome, welcome! :)"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=FA3E3E&center=true&vCenter=true&width=1000&height=70&lines=A+21+year+old+brazilian+guy;From+Rond%C3%B4nia%2C+Brazil;And+a+Full+Stack+Developer" alt="TypingSub-SVG" title="Welcome, welcome!"/>
   </a>
 </div>
 
@@ -75,13 +75,13 @@ while (!success) {
 
 <div align="right">
   <a href="https://juletopi.github.io/JCPC_Portfolio/">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/redInitialsLogo-icon.png" height="32" alt="MyPortfolio-icon" title="My Portfolio">
+    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/redInitialsLogo-icon.png" height="32" alt="Portfolio-icon" title="Portfolio">
   </a>&nbsp;&nbsp;
   <a href="https://dev.to/juletopi">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/DEVCommunity-icon.png" height="35" alt="DEVCommunity-icon" title="DEV Community">
   </a>&nbsp;&nbsp;
   <a href="https://linktr.ee/juletopi">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Linktree-icon.png" height="32" alt="MyLinktree-icon" title="My Linktree">
+    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Linktree-icon.png" height="32" alt="Linktree-icon" title="Linktree">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/LinkedIn-icon.png" height="32" alt="LinkedIn-icon" title="LinkedIn">
@@ -299,7 +299,7 @@ while (!success) {
 
 <div align="center">
   <a href="https://github.com/juletopi/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=juletopi&bg_color=0e1118&hide_border=true&custom_title=Juletopi's%20Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="JuletopiContribution-graph" title="Juletopi's Contribution Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=juletopi&bg_color=0e1118&hide_border=true&custom_title=Juletopi's%20Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="JuletopiContribution-graph" title="Contribution Graph">
   </a>
 </div>
 
@@ -311,10 +311,10 @@ while (!success) {
 
 <div align="center">
   <a href="https://github.com/juletopi/">
-    <img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Juletopi's%20GitHub%20Stats&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="510" alt="Juletopi-stats" title="Juletopi's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Juletopi's%20GitHub%20Stats&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="510" alt="Juletopi-stats" title="GitHub Stats">
   </a>
   <a href="https://github.com/juletopi/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=10&theme=codeSTACKr&custom_title=Juletopi's%20Top%20Langs%20(By%20File%20Size)&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="330" alt="JuletopiTopLangs-stats" title="Juletopi's Coding Language Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=10&theme=codeSTACKr&custom_title=Juletopi's%20Top%20Langs%20(By%20File%20Size)&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="330" alt="JuletopiTopLangs-stats" title="Coding Language Stats">
   </a>
 </div>
 
@@ -326,7 +326,7 @@ while (!success) {
 
 <div align="center">
   <a href="https://github.com/juletopi/">
-    <img src="https://streak-stats.demolab.com/?user=juletopi&theme=dark&hide_border=true&background=0E1118&ring=E73737&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="JuletopiStreak-stats" title="Juletopi's Streak Stats">
+    <img src="https://streak-stats.demolab.com/?user=juletopi&theme=dark&hide_border=true&background=0E1118&ring=E73737&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="JuletopiStreak-stats" title="Streak Stats">
   </a>
 </div>
 
@@ -342,6 +342,6 @@ while (!success) {
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=FA3E3E&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Thanks+for+visiting%2C+see+ya!" alt="TypingGoodbye-SVG" title="Goodbye and come again! ;)"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=FA3E3E&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Thanks+for+visiting%2C+see+ya!" alt="TypingGoodbye-SVG" title="Goodbye and come again!"/>
   </a>
 </div>
