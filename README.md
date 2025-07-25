@@ -62,12 +62,15 @@ REFERENCES USED IN THIS REPOSITORY:
 
 **💭 Interested in accessibility, artificial intelligence, and innovative full-stack solutions.**
 
-```js
-while (!success) {
-  tryAgain();
-  if (dead) break;
-}
-```
+<!-- SPOTIFY PLAYING -->
+
+<div align="left">
+  
+### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify
+
+[![Juletopi's Spotify Playing](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
+
+</div>
 
 <!-- SOCIAL NETWORKS -->
 
@@ -240,18 +243,6 @@ while (!success) {
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**July 2022</i> - <i>currently now...**</i>
 
 <br>
-
-<div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
-  </a>
-</div>
-
-<!-- SPOTIFY PLAYING -->
-
-### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify
-
-[![Juletopi's Spotify Playing](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
 
 <div align="center">
   <a href="#">
