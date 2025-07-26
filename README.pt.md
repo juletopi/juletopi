@@ -27,21 +27,20 @@
 
 <!-- ABOUT ME -->
 
-## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Heya folks!
+## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Prazer, eu sou o Júlio Cézar — aka *Juletopi*
 
 <img align="right" src="https://github.com/user-attachments/assets/51b2c10a-66fc-4ddc-8f63-19621e253682" align="left" width="310" alt="JulioAboutMe-pic" title="Hey, esse sou eu: Júlio Cézar!"/>
 
 <div align="left">
- 
-**👌 Me chamo Júlio Cézar (a.k.a. *Juletopi*), um desenvolvedor Full-Stack de Rondônia, Brasil.**
 
-**📚 Graduando em ADS (Análise e Desenvolvimento de Sistemas).**
+Sou um desenvolvedor Full-Stack brasileiro de 21 anos, direto de Rondônia. Sigo sempre resiliente, sendo o melhor construtor no Minecraft e aprendendo algo novo de tecnologia.
 
-**👨‍💻 Trabalhando profissionalmente na Eficiência Fiscal LTDA.**
+🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas no IFRO. \
+💼 Atuo como Desenvolvedor Auxiliar na Eficiência Fiscal, onde automatizo processos com webscraping usando Python. \
+💬 Pergunte-me sobre webscraping, Python, PHP, C#, Github. \
+💭 Interessado em acessibilidade, IAs e soluções full-stack.
 
-**💬 Pergunte-me sobre webscraping, Python, PHP, C#.**
-
-**💭 Interessado em acessibilidade, IAs e soluções full-stack inovadoras.**
+Se quiser trocar uma ideia, perguntar algo sobre tecnologia, ou só dar um alô, meus links estão aí embaixo!  
 
 ```js
 while (!success) {
