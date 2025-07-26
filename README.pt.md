@@ -35,12 +35,12 @@
 
 Sou um desenvolvedor Full-Stack brasileiro de 21 anos, direto de Rondônia. Sigo sempre resiliente, sendo o melhor construtor no Minecraft e aprendendo algo novo de tecnologia.
 
-🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas no IFRO. \
-💼 Atuo como Desenvolvedor Auxiliar na Eficiência Fiscal, onde automatizo processos com webscraping usando Python. \
+🎓 Atualmente cursando o 4º período de Análise e Desenvolvimento de Sistemas no IFRO. \
+💼 Atuo como Desenvolvedor Auxiliar na Eficiência Fiscal, trabalhando com webscraping e Python. \
 💬 Pergunte-me sobre webscraping, Python, PHP, C#, Github. \
 💭 Interessado em acessibilidade, IAs e soluções full-stack.
 
-Se quiser trocar uma ideia, perguntar algo sobre tecnologia, ou só dar um alô, meus links estão aí embaixo!  
+Se quiser trocar uma ideia ou me dar um alô, meus links estão aí embaixo!  
 
 ```js
 while (!success) {
