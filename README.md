@@ -48,7 +48,7 @@ REFERENCES USED IN THIS REPOSITORY:
 
 ## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Nice to meet ya!
 
-<img align="right" src="https://github.com/user-attachments/assets/51b2c10a-66fc-4ddc-8f63-19621e253682" align="left" width="310" alt="JulioAboutMe-pic" title="Hey, that's me: Júlio Cézar!"/>
+<img align="right" src="https://github.com/user-attachments/assets/51b2c10a-66fc-4ddc-8f63-19621e253682" align="left" width="340" alt="JulioAboutMe-pic" title="Hey, that's me: Júlio Cézar!"/>
 
 <div align="left">
  
@@ -65,8 +65,6 @@ REFERENCES USED IN THIS REPOSITORY:
 <!-- SPOTIFY PLAYING -->
 
 <div align="left">
-  
-### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify
 
 [![Juletopi's Spotify Playing](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
 
