@@ -52,8 +52,6 @@ while (!success) {
 
 <!-- SOCIAL NETWORKS -->
 
-<br>
-
 <div align="right">
   <a href="https://juletopi.github.io/JCPC_Portfolio/">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/redInitialsLogo-icon.png" height="32" alt="Portfolio-icon" title="Portfolio">
