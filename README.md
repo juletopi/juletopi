@@ -48,7 +48,7 @@ REFERENCES USED IN THIS REPOSITORY:
 
 ## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Nice to meet ya!
 
-<img align="right" src="https://github.com/user-attachments/assets/51b2c10a-66fc-4ddc-8f63-19621e253682" align="left" width="340" alt="JulioAboutMe-pic" title="Hey, that's me: Júlio Cézar!"/>
+<img align="right" src="https://github.com/user-attachments/assets/51b2c10a-66fc-4ddc-8f63-19621e253682" align="left" width="310" alt="JulioAboutMe-pic" title="Hey, that's me: Júlio Cézar!"/>
 
 <div align="left">
  
@@ -62,13 +62,12 @@ REFERENCES USED IN THIS REPOSITORY:
 
 **💭 Interested in accessibility, artificial intelligence, and innovative full-stack solutions.**
 
-<!-- SPOTIFY PLAYING -->
-
-<div align="left">
-
-[![Juletopi's Spotify Playing](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
-
-</div>
+```js
+while (!success) {
+  tryAgain();
+  if (dead) break;
+}
+```
 
 <!-- SOCIAL NETWORKS -->
 
@@ -76,13 +75,13 @@ REFERENCES USED IN THIS REPOSITORY:
 
 <div align="right">
   <a href="https://juletopi.github.io/JCPC_Portfolio/">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/redInitialsLogo-icon.png" height="32" alt="Portfolio-icon" title="Portfolio">
+    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/redInitialsLogo-icon.png" height="32" alt="MyPortfolio-icon" title="My Portfolio">
   </a>&nbsp;&nbsp;
   <a href="https://dev.to/juletopi">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/DEVCommunity-icon.png" height="35" alt="DEVCommunity-icon" title="DEV Community">
   </a>&nbsp;&nbsp;
   <a href="https://linktr.ee/juletopi">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Linktree-icon.png" height="32" alt="Linktree-icon" title="Linktree">
+    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Linktree-icon.png" height="32" alt="MyLinktree-icon" title="My Linktree">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/LinkedIn-icon.png" height="32" alt="LinkedIn-icon" title="LinkedIn">
@@ -241,6 +240,18 @@ REFERENCES USED IN THIS REPOSITORY:
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**July 2022</i> - <i>currently now...**</i>
 
 <br>
+
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
+  </a>
+</div>
+
+<!-- SPOTIFY PLAYING -->
+
+### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify
+
+[![Juletopi's Spotify Playing](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
 
 <div align="center">
   <a href="#">
