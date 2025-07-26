@@ -46,21 +46,21 @@ REFERENCES USED IN THIS REPOSITORY:
 
 <!-- ABOUT ME -->
 
-## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Nice to meet ya!
+## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Nice to meet you — I'm Júlio Cézar, aka *Juletopi*
 
 <img align="right" src="https://github.com/user-attachments/assets/51b2c10a-66fc-4ddc-8f63-19621e253682" align="left" width="310" alt="JulioAboutMe-pic" title="Hey, that's me: Júlio Cézar!"/>
 
 <div align="left">
- 
-**👌 I'm Júlio Cézar (a.k.a. *Juletopi*), a 21-year-old Full-Stack Developer from Brazil.**
 
-**📚 Currently pursuing a degree in Systems Analysis and Development.**
+I'm a 21-year-old Full-Stack Developer from Rondônia, Brazil.  
+Always resilient, the best builder in Minecraft (trust me), and constantly learning something new in tech.
 
-**👨‍💻 Working professionaly as an Auxiliary Developer at Eficiência Fiscal LTDA.**
+🎓 Currently in my 4th semester of Systems Analysis and Development at IFRO.  
+💼 Working as an Auxiliary Developer at Eficiência Fiscal, mainly dealing with web scraping and Python.  
+💬 Ask me about web scraping, Python, PHP, C#, GitHub.  
+💭 Interested in accessibility, AIs, and full-stack solutions.
 
-**💬 Ask me about webscraping, Python, PHP, C#.**
-
-**💭 Interested in accessibility, artificial intelligence, and innovative full-stack solutions.**
+Wanna reach out? My links are down below!
 
 ```js
 while (!success) {
