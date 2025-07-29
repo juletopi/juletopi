@@ -73,13 +73,13 @@ while (!success) {
 
 <div align="right">
   <a href="https://juletopi.github.io/JCPC_Portfolio/">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/redInitialsLogo-icon.png" height="32" alt="MyPortfolio-icon" title="My Portfolio">
+    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/redInitialsLogo-icon.png" height="32" alt="Portfolio-icon" title="Portfolio">
   </a>&nbsp;&nbsp;
   <a href="https://dev.to/juletopi">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/DEVCommunity-icon.png" height="35" alt="DEVCommunity-icon" title="DEV Community">
   </a>&nbsp;&nbsp;
   <a href="https://linktr.ee/juletopi">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Linktree-icon.png" height="32" alt="MyLinktree-icon" title="My Linktree">
+    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Linktree-icon.png" height="32" alt="Linktree-icon" title="Linktree">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/LinkedIn-icon.png" height="32" alt="LinkedIn-icon" title="LinkedIn">
