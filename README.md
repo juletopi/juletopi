@@ -56,7 +56,7 @@ I'm a 21-year-old Full-Stack Developer from Rondônia, Brazil.
 Always resilient, the best builder in Minecraft (trust me), and constantly learning something new in tech.
 
 🎓 Currently in my 4th semester of Systems Analysis and Development at IFRO.  
-💼 Working as an Auxiliary Developer at Eficiência Fiscal, mainly dealing with webscraping and Python.  
+💼 Working as an Auxiliary Developer at Eficiência Fiscal, mainly dealing with webscraping using Python and Playwright.  
 💬 Ask me about webscraping, Python, PHP, C#, GitHub.  
 💭 Interested in accessibility, AIs, and full-stack solutions.
 
