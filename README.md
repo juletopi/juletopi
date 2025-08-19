@@ -127,6 +127,9 @@ while (!success) {
   <a href="https://docs.github.com/en/get-started" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub-icon" height="45" title="GitHub"/>
   </a>&nbsp;
+  <a href="https://www.w3schools.com/git/" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/git-auto.svg" alt="Git-icon" height="45" title="Git"/>
+  </a>&nbsp;
   <a href="https://docs.github.com/en/get-started" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="GitHub-icon" height="45" title="GitLab"/>
   </a>&nbsp;
@@ -157,6 +160,12 @@ while (!success) {
   </a>&nbsp;
   <a href="https://www.w3schools.com/js/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript-icon" height="45" title="JavaScript"/>
+  </a>&nbsp;
+  <a href="https://www.w3schools.com/bootstrap/bootstrap_get_started.asp" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap-icon" height="45" title="Bootstrap"/>
+  </a>&nbsp;
+  <a href="https://www.w3schools.com/jquery/" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" alt="jQuery-icon" height="45" title="jQuery"/>
   </a>&nbsp;
   <a href="https://www.w3schools.com/react/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React-icon" height="45" title="React"/>
@@ -189,17 +198,11 @@ while (!success) {
 <h3 align="center"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/>&nbsp; Studying for now</h3>
 
 <div align="center">
-  <a href="https://www.w3schools.com/git/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git-icon" height="45" title="Git"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/jquery/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" alt="jQuery-icon" height="45" title="jQuery"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/bootstrap/bootstrap_get_started.asp" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap-icon" height="45" title="Bootstrap"/>
-  </a>&nbsp;
   <a href="https://www.w3schools.com/react/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React-icon" height="45" title="React"/>
+  </a>&nbsp;
+  <a href="https://www.w3schools.com/nodejs/" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS-icon" height="45" title="Node.js"/>
   </a>&nbsp;
   <a href="https://www.w3schools.com/php/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP-icon" height="45" title="PHP"/>
