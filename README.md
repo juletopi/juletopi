@@ -117,7 +117,7 @@ while (!success) {
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VisualStudio-icon" height="45" title="Visual Studio"/>
   </a>&nbsp;
   <a href="https://www.w3schools.com/mysql/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQLWorkbench-icon" height="45" title="MySQL Workbench"/>
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQLWorkbench-icon" height="45" title="MySQL"/>
   </a>
 </div>
 
