@@ -88,7 +88,7 @@ while (!success) {
 
 <h3 align="center"><img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Ferramentas</h3>
 
-<h4 align="center">IDEs</h4>
+<h4 align="center">IDEs & GUIs</h4>
 
 <div align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
