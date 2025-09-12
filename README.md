@@ -48,17 +48,17 @@ REFERENCES USED IN THIS REPOSITORY:
 
 ## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Nice to meet you — I'm Júlio Cézar, aka *Juletopi*
 
-<img align="right" src="https://github.com/user-attachments/assets/51b2c10a-66fc-4ddc-8f63-19621e253682" align="left" width="310" alt="JulioAboutMe-pic" title="Hey, that's me: Júlio Cézar!"/>
+<img align="right" src="https://github.com/user-attachments/assets/51b2c10a-66fc-4ddc-8f63-19621e253682" align="left" width="330" alt="JulioAboutMe-pic" title="Hey, that's me: Júlio Cézar!"/>
 
 <div align="left">
 
 I'm a 21-year-old Full-Stack Developer from Rondônia, Brazil.  
 Always resilient, the best builder in Minecraft (trust me), and constantly learning something new in tech.
 
-🎓 Currently in my 4th semester of Systems Analysis and Development at IFRO.  
-💼 Working as an Auxiliary Developer at Eficiência Fiscal, mainly dealing with webscraping using Python and Playwright.  
+🎓 Currently in my 4th semester of Systems Analysis and Development.  
+💼 Working as an Auxiliary Developer at Eficiência Fiscal, mainly dealing with webscraping using Python with Playwright and Requests.  
 💬 Ask me about webscraping, Python, PHP, C#, GitHub.  
-💭 Interested in accessibility, AIs, and full-stack solutions.
+💭 A quote? *"There is no home like the one you’ve got, 'cause that home belongs to you"* from Barking at the Moon (Jenny Lewis), featured in Bolt (2008), my favorite film.
 
 Wanna reach out? My links are down below!
 
