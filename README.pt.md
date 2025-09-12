@@ -33,22 +33,18 @@
 
 <div align="left">
 
-Sou um desenvolvedor Full-Stack brasileiro de 21 anos, direto de Rondônia. \
+Sou um **desenvolvedor Full-Stack** brasileiro de 21 anos, direto de Rondônia. \
 Sigo sempre resiliente, sendo o melhor construtor no Minecraft e aprendendo algo novo de tecnologia.
 
-🎓 Atualmente cursando o 4º período de Análise e Desenvolvimento de Sistemas no IFRO. \
-💼 Atuo como Desenvolvedor Auxiliar na Eficiência Fiscal, trabalhando com webscraping usando Python e Playwright. \
-💬 Pergunte-me sobre webscraping, Python, PHP, C#, Github. \
-💭 Interessado em acessibilidade, IAs e soluções full-stack.
+🎓 Atualmente cursando o 4º período de **Análise e Desenvolvimento de Sistemas**. 
+
+💼 Atuando como **Desenvolvedor Auxiliar** na Eficiência Fiscal, trabalhando com webscraping usando Python com Playwright e Requests. 
+
+💬 Pergunte-me sobre webscraping, Python, PHP, C#, Github. 
+
+💭 Uma citação? *"Nenhum outro lar é melhor que o seu, pois ele pertence a você"* da música **Barking at the Moon**, que aparece em **Bolt (2008)**, meu filme favorito.
 
 Se quiser trocar uma ideia meus links estão aí embaixo!  
-
-```js
-while (!success) {
-  tryAgain();
-  if (dead) break;
-}
-```
 
 <!-- SOCIAL NETWORKS -->
 
