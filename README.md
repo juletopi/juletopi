@@ -52,16 +52,16 @@ REFERENCES USED IN THIS REPOSITORY:
 
 <div align="left">
 
-I'm a 21-year-old Full-Stack Developer from Rondônia, Brazil.  
+I'm a 21-year-old **Full-Stack Developer** from Rondônia, Brazil.  
 Always resilient, the best builder in Minecraft (trust me), and constantly learning something new in tech.
 
-🎓 Currently in my 4th semester of Systems Analysis and Development.  
+🎓 Currently in my 4th semester of **Systems Analysis and Development**.  
 
-💼 Working as an Auxiliary Developer at Eficiência Fiscal, mainly dealing with webscraping using Python with Playwright and Requests.  
+💼 Working as an **Auxiliary Developer** at Eficiência Fiscal, mainly dealing with webscraping using Python with Playwright and Requests.  
 
 💬 Ask me about webscraping, Python, PHP, C#, GitHub.  
 
-💭 A quote? *"There is no home like the one you’ve got, 'cause that home belongs to you"* from Barking at the Moon (Jenny Lewis), featured in Bolt (2008), my favorite film.
+💭 A quote? *"There is no home like the one you’ve got, 'cause that home belongs to you"* from **Barking at the Moon**, a music featured in **Bolt (2008)**, my favorite film.
 
 Wanna reach out? My links are down below!
 
