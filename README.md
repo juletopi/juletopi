@@ -48,7 +48,7 @@ REFERENCES USED IN THIS REPOSITORY:
 
 ## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Nice to meet you — I'm Júlio Cézar, aka *Juletopi*
 
-<img align="right" src="https://github.com/user-attachments/assets/51b2c10a-66fc-4ddc-8f63-19621e253682" align="left" width="310" alt="JulioAboutMe-pic" title="Hey, that's me: Júlio Cézar!"/>
+<img align="right" src="https://github.com/user-attachments/assets/51b2c10a-66fc-4ddc-8f63-19621e253682" align="left" width="300" alt="JulioAboutMe-pic" title="Hey, that's me: Júlio Cézar!"/>
 
 <div align="left">
 
