@@ -52,7 +52,7 @@ REFERENCES USED IN THIS REPOSITORY:
 
 <div align="left">
 
-I'm a 21-year-old **Full-Stack Developer** from Rondônia, Brazil.  
+I'm a 22-year-old **Full-Stack Developer** from Rondônia, Brazil.  
 Always resilient, the best builder in Minecraft (trust me), and constantly learning something new in tech.
 
 🎓 Currently in my 4th semester of **Systems Analysis and Development**.  
