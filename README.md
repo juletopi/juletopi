@@ -40,7 +40,7 @@ REFERENCES USED IN THIS REPOSITORY:
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=FA3E3E&center=true&vCenter=true&width=1000&height=70&lines=A+21+year+old+brazilian+guy;From+Rond%C3%B4nia%2C+Brazil;And+a+Full+Stack+Developer" alt="TypingSub-SVG" title="Welcome, welcome!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=FA3E3E&center=true&vCenter=true&width=1000&height=70&lines=A+22+year+old+brazilian+guy;From+Rond%C3%B4nia%2C+Brazil;And+a+Full+Stack+Developer" alt="TypingSub-SVG" title="Welcome, welcome!"/>
   </a>
 </div>
 
