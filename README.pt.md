@@ -146,6 +146,9 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
   </a>&nbsp;
   <a href="https://www.w3schools.com/react/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React-icon" height="45" title="React"/>
+  </a>&nbsp;
+  <a href="https://www.w3schools.com/php/" target="_blank">
+    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP-icon" height="45" title="PHP"/>
   </a>
 </div>
 
@@ -167,9 +170,6 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
   <a href="https://playwright.dev/docs/intro" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/playwright-auto.svg" alt="Playwright-icon" height="45" title="Playwright"/>
   </a>&nbsp;
-  <a href="https://www.w3schools.com/php/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP-icon" height="45" title="PHP"/>
-  </a>
 </div>
 
 <h3 align="center"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/>&nbsp; Estudando</h3>
