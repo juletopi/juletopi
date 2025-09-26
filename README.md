@@ -166,7 +166,7 @@ Wanna reach out? My links are down below!
   <a href="https://www.w3schools.com/react/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React-icon" height="45" title="React"/>
   </a>&nbsp;
-    <a href="https://www.w3schools.com/php/" target="_blank">
+  <a href="https://www.w3schools.com/php/" target="_blank">
     <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP-icon" height="45" title="PHP"/>
   </a>
 </div>
