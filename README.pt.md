@@ -40,7 +40,7 @@ Sigo sempre resiliente, sendo o melhor construtor no Minecraft e aprendendo algo
 
 💼 Atuando como **Desenvolvedor Auxiliar** na Eficiência Fiscal, trabalhando com webscraping usando Python com Playwright e Requests. 
 
-💬 Pergunte-me sobre webscraping, Python, PHP, C#, Github. 
+💬 Pergunte-me sobre desenvolvimento web, webscraping, Python, PHP Laravel, C# .NET. 
 
 💭 Uma citação? *"Nenhum outro lar é melhor que o seu, pois ele pertence a você"* da música **Barking at the Moon**, que aparece em **Bolt (2008)**, meu filme favorito.
 
