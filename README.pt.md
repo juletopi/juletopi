@@ -87,41 +87,49 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
 <h4 align="center">IDEs & GUIs</h4>
 
 <div align="center">
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode-icon" height="45" title="VSCode"/>
-  </a>&nbsp;
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VisualStudio-icon" height="45" title="Visual Studio"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/mysql/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL-icon" height="45" title="MySQL"/>
-  </a>
+  <p align="center">
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode-icon" height="45" title="VSCode"/>
+    </a>&nbsp;
+    <a href="https://visualstudio.microsoft.com/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VisualStudio-icon" height="45" title="Visual Studio"/>
+    </a>&nbsp;
+    <a href="https://www.w3schools.com/mysql/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL-icon" height="45" title="MySQL"/>
+    </a>&nbsp;
+    <a href="https://www.w3schools.com/postgresql/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL-icon" height="45" title="PostgreSQL"/>
+    </a>
+  </p>
 </div>
 
 <h4 align="center">DevOps & Produtividade</h4>
 
 <div align="center">
-  <a href="https://docs.github.com/en/get-started" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub-icon" height="45" title="GitHub"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/git/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/git-auto.svg" alt="Git-icon" height="45" title="Git"/>
-  </a>&nbsp;
-  <a href="https://docs.github.com/en/get-started" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="GitHub-icon" height="45" title="GitLab"/>
-  </a>&nbsp;
-  <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/azuredevops-auto.svg" alt="AzureDevOps-icon" height="45" title="Azure DevOps"/>
-  </a>&nbsp;
-  <a href="https://www.notion.com/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="Notion-icon" height="45" title="Notion"/>
-  </a>&nbsp;
-  <a href="https://jupyter.org/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-auto.svg" alt="Jupyter-icon" height="45" title="Jupyter"/>
-  </a>&nbsp;
-  <a href="https://www.postman.com/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postman.svg" alt="Postman-icon" height="45" title="Postman"/>
-  </a>
+  <p align="center">
+    <a href="https://docs.github.com/en/get-started" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub-icon" height="45" title="GitHub"/>
+    </a>&nbsp;
+    <a href="https://www.w3schools.com/git/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/git-auto.svg" alt="Git-icon" height="45" title="Git"/>
+    </a>&nbsp;
+    <a href="https://docs.github.com/en/get-started" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="GitHub-icon" height="45" title="GitLab"/>
+    </a>&nbsp;
+    <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/azuredevops-auto.svg" alt="AzureDevOps-icon" height="45" title="Azure DevOps"/>
+    </a>
+  </p>
+    <a href="https://www.notion.com/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="Notion-icon" height="45" title="Notion"/>
+    </a>&nbsp;
+    <a href="https://jupyter.org/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-auto.svg" alt="Jupyter-icon" height="45" title="Jupyter"/>
+    </a>&nbsp;
+    <a href="https://www.postman.com/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postman.svg" alt="Postman-icon" height="45" title="Postman"/>
+    </a>
+  </p>
 </div>
 
 <h3 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif">&nbsp; Tecnologias</h3>
@@ -129,70 +137,71 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
 <h4 align="center">Front-end</h4>
 
 <div align="center">
-  <a href="https://www.w3schools.com/html/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5-icon" height="45" title="HTML5"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3-icon" height="45" title="CSS3"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/js/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript-icon" height="45" title="JavaScript"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/bootstrap/bootstrap_get_started.asp" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap-icon" height="45" title="Bootstrap"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/jquery/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" alt="jQuery-icon" height="45" title="jQuery"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/react/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React-icon" height="45" title="React"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/php/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP-icon" height="45" title="PHP"/>
-  </a>
+  <p align="center">
+    <a href="https://www.w3schools.com/html/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5-icon" height="45" title="HTML5"/>
+    </a>&nbsp;
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3-icon" height="45" title="CSS3"/>
+    </a>&nbsp;
+    <a href="https://www.w3schools.com/js/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript-icon" height="45" title="JavaScript"/>
+    </a>&nbsp;
+    <a href="https://www.w3schools.com/bootstrap/bootstrap_get_started.asp" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap-icon" height="45" title="Bootstrap"/>
+    </a>&nbsp;
+    <a href="https://www.w3schools.com/jquery/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" alt="jQuery-icon" height="45" title="jQuery"/>
+    </a>
+  </p>
+    <a href="https://www.w3schools.com/react/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React-icon" height="45" title="React"/>
+    </a>&nbsp;
+    <a href="https://www.w3schools.com/nodejs/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS-icon" height="45" title="Node.js"/>
+    </a>&nbsp;
+    <a href="https://www.w3schools.com/php/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP-icon" height="45" title="PHP"/>
+    </a>&nbsp;
+    <a href="https://laravel.com/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel-icon" height="45" title="Laravel"/>
+    </a>
+  </p>
 </div>
 
 <h4 align="center">Back-end</h4>
 
 <div align="center">
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="CSharp-icon" height="45" title="CSharp"/>
-  </a>&nbsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt=".NETCore-icon" height="45" title=".NET Core"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/r/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" alt="RLanguage-icon" height="45" title="R Language"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/python/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python-icon" height="45" title="Python"/>
-  </a>&nbsp;
-  <a href="https://playwright.dev/docs/intro" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/playwright-auto.svg" alt="Playwright-icon" height="45" title="Playwright"/>
-  </a>&nbsp;
+  <p align="center">
+    <a href="https://www.w3schools.com/cs/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="CSharp-icon" height="45" title="CSharp"/>
+    </a>&nbsp;
+    <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt=".NETCore-icon" height="45" title=".NET Core"/>
+    </a>&nbsp;
+    <a href="https://www.w3schools.com/python/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python-icon" height="45" title="Python"/>
+    </a>&nbsp;
+    <a href="https://playwright.dev/docs/intro" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/playwright-auto.svg" alt="Playwright-icon" height="45" title="Playwright"/>
+    </a>&nbsp;
+    <a href="https://www.w3schools.com/r/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" alt="RLanguage-icon" height="45" title="R Language"/>
+    </a>
+  </p>
 </div>
 
 <h3 align="center"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/>&nbsp; Estudando</h3>
 
 <div align="center">
-  <a href="https://www.w3schools.com/react/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React-icon" height="45" title="React"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/nodejs/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS-icon" height="45" title="Node.js"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/php/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP-icon" height="45" title="PHP"/>
-  </a>&nbsp;
-  <a href="https://laravel.com/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel-icon" height="45" title="Laravel"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/postgresql/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL-icon" height="45" title="PostgreSQL"/>
-  </a>&nbsp;
-  <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank">
-    <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma-icon" height="45" title="Figma"/>
-  </a>
+  <p align="center">
+    <a href="https://www.w3schools.com/react/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React-icon" height="45" title="React"/>
+    </a>&nbsp;
+    <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma-icon" height="45" title="Figma"/>
+    </a>
+  </p>
 </div>
 
 <br>
