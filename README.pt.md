@@ -38,7 +38,7 @@ Sigo sempre resiliente, sendo o melhor construtor no Minecraft e aprendendo algo
 
 🎓 Atualmente cursando o 4º período de **Análise e Desenvolvimento de Sistemas**. 
 
-💼 Atuando como **Desenvolvedor Auxiliar** na Eficiência Fiscal, trabalhando com webscraping usando Python com Playwright e Requests. 
+💼 Atuando como **Desenvolvedor Web Júnior** na Eficiência Fiscal, trabalhando com webscraping usando Python com Playwright e Requests. 
 
 💬 Pergunte-me sobre desenvolvimento web, webscraping, Python, PHP Laravel, C# .NET. 
 
