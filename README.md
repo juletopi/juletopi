@@ -57,7 +57,7 @@ Always resilient, the best builder in Minecraft (trust me), and constantly learn
 
 🎓 Currently in my 4th semester of **Systems Analysis and Development**.  
 
-💼 Working as an **Auxiliary Developer** at Eficiência Fiscal, mainly dealing with webscraping using Python with Playwright and Requests.  
+💼 Working as an **Junior Web Developer** at Eficiência Fiscal, mainly dealing with webscraping using Python with Playwright and Requests.  
 
 💬 Ask me about web development, webscraping, Python, PHP Laravel, C# .NET.  
 
