@@ -1,20 +1,20 @@
 <!--
-REFERENCES USED IN THIS REPOSITORY:
-• https://github.com/kyechan99/capsule-render
-• https://github.com/DenverCoder1/custom-icon-badges
-• https://github.com/anuraghazra/github-readme-stats
-• https://github.com/DenverCoder1/github-readme-streak-stats
-• https://github.com/Ashutosh00710/github-readme-activity-graph
-• https://github.com/alexandresanlim/Badges4-README.md-Profile
-• https://github.com/tandpfun/skill-icons
-• https://github.com/LelouchFR/skill-icons
-• https://readme-typing-svg.demolab.com/demo
-• https://profilepicturemaker.com
-• https://devicon.dev
-• https://shields.io
-• https://giphy.com
-• https://emoji.gg
-• https://getemoji.com
+References used in this Repository
+https://github.com/kyechan99/capsule-render
+https://github.com/DenverCoder1/custom-icon-badges
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/DenverCoder1/github-readme-streak-stats
+https://github.com/Ashutosh00710/github-readme-activity-graph
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://github.com/tandpfun/skill-icons
+https://github.com/LelouchFR/skill-icons
+https://readme-typing-svg.demolab.com/demo
+https://profilepicturemaker.com
+https://devicon.dev
+https://shields.io
+https://giphy.com
+https://emoji.gg
+https://getemoji.com
 -->
 
 <div>
