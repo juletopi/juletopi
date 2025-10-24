@@ -273,7 +273,7 @@ Wanna reach out? My links are down below!
 
 <!-- RECENT PROJECTS -->
 
-### <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0OG14aGFmbDZ6Z2J3eGpjdzNmMGxneGpuajdkbDF1ZHVsd3N1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ugvn4HEbU2FqZyJQ2o/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0OG14aGFmbDZ6Z2J3eGpjdzNmMGxneGpuajdkbDF1ZHVsd3N1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ugvn4HEbU2FqZyJQ2o/giphy.gif" width="36" alt="ProjectBuilding-gif"/></a>&nbsp; My most recent projects
+### <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0OG14aGFmbDZ6Z2J3eGpjdzNmMGxneGpuajdkbDF1ZHVsd3N1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ugvn4HEbU2FqZyJQ2o/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0OG14aGFmbDZ6Z2J3eGpjdzNmMGxneGpuajdkbDF1ZHVsd3N1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ugvn4HEbU2FqZyJQ2o/giphy.gif" width="36" alt="ProjectBuilding-gif"/></a>&nbsp; Recent projects
 
 <p align="left">
     <a href="https://github.com/juletopi/PontuaDev_Project">
