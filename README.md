@@ -235,7 +235,7 @@ Wanna reach out? My links are down below!
 
 ### <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif" width="38" alt="SkeletonInAChair-gif"/></a> Work Experience
 
-  <a href="https://eficienciafiscal.com.br/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQFejpw3_KtY8g/company-logo_200_200/company-logo_200_200/0/1702995310803/eficincia_fiscal_logo?e=1764201600&v=beta&t=aOM1wkKN_PeMdXMDbq1xulNfVl4nzWa8PRuwkpEFVe8" align="left" width="94" height="100" alt="EficienciaFiscal-pic" title="Go to the company's website →"/></a>
+  <a href="https://eficienciafiscal.com.br/"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Logos/EficienciaFiscal-logo.jpeg" align="left" width="94" height="100" alt="EficienciaFiscal-pic" title="Go to the company's website →"/></a>
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Enterprise-icon.png" height="22" alt="Enterprise-icon"/>&thinsp; **Eficiência Fiscal LTDA** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Occupation-icon.png" height="22" alt="Occupation-icon"/>&thinsp; **Junior Web Developer** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brazil &thinsp;•&thinsp; (On-Site)** \
@@ -245,7 +245,7 @@ Wanna reach out? My links are down below!
 
 ### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif" width="34" alt="GoldenGraduationCap-gif"/></a>&thinsp; Education
 
-  <a href="https://portal.ifro.edu.br/ji-parana"><img src="https://github.com/juletopi/juletopi/assets/76459155/6e52c29a-8c6c-438d-93a8-c465311d2efe" align="left" width="94" height="100" alt="IFRO-pic" title="Go to the institution's website →"/></a>
+  <a href="https://portal.ifro.edu.br/ji-parana"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Logos/IFRO-logo.jpeg" align="left" width="94" height="100" alt="IFRO-logo" title="Go to the institution's website →"/></a>
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Book-icon.png" height="19" alt="Book-icon"/>&thinsp; **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GraduationCap-icon.png" height="22" alt="GraduationCap-icon"/>&thinsp; **Graduation in System Analysis and Development**\
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brazil &thinsp;•&thinsp; (On-Campus)** \
