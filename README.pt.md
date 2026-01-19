@@ -82,7 +82,7 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
 
 <!-- SKILLS -->
 
-<h3 align="center"><img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Ferramentas</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tech stack</h3>
 
 <h4 align="center">IDEs & GUIs</h4>
 
@@ -118,6 +118,9 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
     </a>&nbsp;
     <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank">
       <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/azuredevops-auto.svg" alt="AzureDevOps-icon" height="45" title="Azure DevOps"/>
+    </a>&nbsp;
+    <a href="https://clickup.com/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/clickup-auto.svg" alt="ClickUp-icon" height="45" title="ClickUp"/>
     </a>
   </p>
     <a href="https://www.notion.com/" target="_blank">
@@ -131,8 +134,6 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
     </a>
   </p>
 </div>
-
-<h3 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif">&nbsp; Tecnologias</h3>
 
 <h4 align="center">Front-end</h4>
 
@@ -191,6 +192,7 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
   </p>
 </div>
 
+<br>
 <h3 align="center"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/>&nbsp; Estudando</h3>
 
 <div align="center">
