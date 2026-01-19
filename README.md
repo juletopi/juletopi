@@ -101,7 +101,7 @@ Wanna reach out? My links are down below!
 
 <!-- SKILLS -->
 
-<h3 align="center"><img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tech stack</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tech stack</h3>
 
 <h4 align="center">IDEs & GUIs</h4>
 
@@ -212,7 +212,7 @@ Wanna reach out? My links are down below!
 </div>
 
 <br>
-<h4 align="center">Studying for now</h4>
+<h3 align="center"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/>&nbsp; Studying for now</h3>
 
 <div align="center">
   <p align="center">
