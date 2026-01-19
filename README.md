@@ -101,7 +101,7 @@ Wanna reach out? My links are down below!
 
 <!-- SKILLS -->
 
-<h3 align="center"><img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tools I use</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif">&nbsp; Tech stack</h3>
 
 <h4 align="center">IDEs & GUIs</h4>
 
@@ -137,6 +137,9 @@ Wanna reach out? My links are down below!
     </a>&nbsp;
     <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank">
       <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/azuredevops-auto.svg" alt="AzureDevOps-icon" height="45" title="Azure DevOps"/>
+    </a>&nbsp;
+    <a href="https://clickup.com/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/clickup-auto.svg" alt="ClickUp-icon" height="45" title="ClickUp"/>
     </a>
   </p>
     <a href="https://www.notion.com/" target="_blank">
@@ -150,8 +153,6 @@ Wanna reach out? My links are down below!
     </a>
   </p>
 </div>
-
-<h3 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif">&nbsp; Main skills</h3>
 
 <h4 align="center">Front-end</h4>
 
@@ -210,7 +211,8 @@ Wanna reach out? My links are down below!
   </p>
 </div>
 
-<h3 align="center"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/>&nbsp; Studying for now</h3>
+<br>
+<h4 align="center">Studying for now</h4>
 
 <div align="center">
   <p align="center">
