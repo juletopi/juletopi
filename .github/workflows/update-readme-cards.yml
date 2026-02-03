@@ -1,0 +1,72 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Juletopi's%20GitHub%20Stats&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118&disable_animations=true
+          path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=codeSTACKr&custom_title=Juletopi's%20Top%20Langs%20(By%20File%20Size)&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - PontuaDev_Project
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=PontuaDev_Project&theme=react&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true
+          path: assets/pin-pontuadev.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - JCPC_Portfolio
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=JCPC_Portfolio&theme=react&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true
+          path: assets/pin-portfolio.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - Pagina_Cyberpunk-Edgerunners
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Pagina_Cyberpunk-Edgerunners&theme=react&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true
+          path: assets/pin-cyberpunk.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - Desafio_Pagina_Musical
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Desafio_Pagina_Musical&theme=react&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true
+          path: assets/pin-musical.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push

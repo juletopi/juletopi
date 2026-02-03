@@ -279,16 +279,16 @@ Wanna reach out? My links are down below!
 
 <p align="left">
     <a href="https://github.com/juletopi/PontuaDev_Project">
-      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=juletopi&theme=react&repo=PontuaDev_Project&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="PontuaDev-Repo">
+      <img width="388" src="assets/pin-pontuadev.svg" alt="PontuaDev-Repo">
     </a>
     <a href="https://github.com/juletopi/JCPC_Portfolio">
-      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=juletopi&repo=JCPC_Portfolio&theme=react&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="JCPCPortfolio-Repo">
+      <img width="388" src="assets/pin-portfolio.svg" alt="JCPCPortfolio-Repo">
     </a>
     <a href="https://github.com/juletopi/Pagina_Cyberpunk-Edgerunners">
-      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=juletopi&repo=Pagina_Cyberpunk-Edgerunners&theme=react&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="CyberpunkEdgerunners-Repo">
+      <img width="388" src="assets/pin-cyberpunk.svg" alt="CyberpunkEdgerunners-Repo">
     </a>
     <a href="https://github.com/juletopi/Desafio_Pagina_Musical">
-      <img width="388" src="https://github-readme-stats.vercel.app/api/pin/?username=juletopi&theme=react&repo=Desafio_Pagina_Musical&bg_color=0e1118&border_color=32394c&title_color=e73737&icon_color=ffffff&show_icons=true" alt="PaginaMusical-Repo">
+      <img width="388" src="assets/pin-musical.svg" alt="PaginaMusical-Repo">
     </a>
 </p>
 
@@ -322,10 +322,10 @@ Wanna reach out? My links are down below!
 
 <div align="center">
   <a href="https://github.com/juletopi/">
-    <img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Juletopi's%20GitHub%20Stats&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="510" alt="Juletopi-stats" title="GitHub Stats">
+    <img src="assets/stats.svg" width="510" alt="Juletopi-stats" title="GitHub Stats">
   </a>
   <a href="https://github.com/juletopi/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=10&theme=codeSTACKr&custom_title=Juletopi's%20Top%20Langs%20(By%20File%20Size)&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="330" alt="JuletopiTopLangs-stats" title="Coding Language Stats">
+    <img src="assets/top-langs.svg" width="330" alt="JuletopiTopLangs-stats" title="Coding Language Stats">
   </a>
 </div>
 
