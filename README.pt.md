@@ -36,7 +36,7 @@
 Sou um **Desenvolvedor Full-stack** brasileiro de 22 anos, direto de Rondônia. \
 Sigo sempre resiliente, sendo o melhor construtor no Minecraft e aprendendo algo novo de tecnologia.
 
-🎓 Atualmente cursando o 4º período de **Análise e Desenvolvimento de Sistemas**. 
+🎓 Atualmente cursando o 5º período de **Análise e Desenvolvimento de Sistemas**. 
 
 💼 Atuando como **Desenvolvedor Web Júnior** na Eficiência Fiscal, trabalhando com webscraping usando Python com Playwright e Requests. 
 

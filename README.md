@@ -55,7 +55,7 @@ https://getemoji.com
 I'm a 22-year-old **Full-stack Developer** from Rondônia, Brazil.  
 Always resilient, the best builder in Minecraft (trust me), and constantly learning something new in tech.
 
-🎓 Currently in my 4th semester of **Systems Analysis and Development**.  
+🎓 Currently in my 5th semester of **Systems Analysis and Development**.  
 
 💼 Working as an **Junior Web Developer** at Eficiência Fiscal, mainly dealing with webscraping using Python with Playwright and Requests.  
 
