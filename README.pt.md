@@ -123,6 +123,9 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
       <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/clickup-auto.svg" alt="ClickUp-icon" height="45" title="ClickUp"/>
     </a>
   </p>
+    <a href="https://taiga.io/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/taiga-auto.svg" alt="Taiga-icon" height="45" title="Taiga"/>
+    </a>&nbsp;
     <a href="https://www.notion.com/" target="_blank">
       <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="Notion-icon" height="45" title="Notion"/>
     </a>&nbsp;
