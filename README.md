@@ -77,7 +77,7 @@ Wanna reach out? My links are down below!
   <a href="https://www.thegitcity.com/dev/juletopi">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GitCity-icon.png" height="30" alt="GitCity-icon" title="Git City">
   </a>&nbsp;&nbsp;
-  <a href="https://linktr.ee/juletopi">
+  <a href="https://www.thegitcity.com/?user=juletopi">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Linktree-icon.png" height="32" alt="Linktree-icon" title="Linktree">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/">

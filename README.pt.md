@@ -55,7 +55,7 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
   <a href="https://dev.to/juletopi">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/DEVCommunity-icon.png" height="35" alt="DEVCommunity-icon" title="DEV Community">
   </a>&nbsp;&nbsp;
-  <a href="https://www.thegitcity.com/dev/juletopi">
+  <a href="https://www.thegitcity.com/?user=juletopi">
     <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GitCity-icon.png" height="30" alt="GitCity-icon" title="Git City">
   </a>&nbsp;&nbsp;
   <a href="https://linktr.ee/juletopi">
