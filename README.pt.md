@@ -50,28 +50,28 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
 
 <div align="right">
   <a href="https://juletopi.github.io/JCPC_Portfolio/">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/redInitialsLogo-icon.png" height="32" alt="Portfolio-icon" title="Portfolio">
+    <img src="https://github.com/juletopi/juletopi/blob/main/assets/icons/redInitialsLogo-icon.png" height="32" alt="Portfolio-icon" title="Portfolio">
   </a>&nbsp;&nbsp;
   <a href="https://dev.to/juletopi">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/DEVCommunity-icon.png" height="35" alt="DEVCommunity-icon" title="DEV Community">
+    <img src="https://github.com/juletopi/juletopi/blob/main/assets/icons/devCommunity-icon.png" height="35" alt="DEVCommunity-icon" title="DEV Community">
   </a>&nbsp;&nbsp;
   <a href="https://www.thegitcity.com/?user=juletopi">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GitCity-icon.png" height="30" alt="GitCity-icon" title="Git City">
+    <img src="https://github.com/juletopi/juletopi/blob/main/assets/icons/gitCity-icon.png" height="30" alt="GitCity-icon" title="Git City">
   </a>&nbsp;&nbsp;
   <a href="https://linktr.ee/juletopi">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Linktree-icon.png" height="32" alt="Linktree-icon" title="Linktree">
+    <img src="https://github.com/juletopi/juletopi/blob/main/assets/icons/linktree-icon.png" height="32" alt="Linktree-icon" title="Linktree">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/LinkedIn-icon.png" height="32" alt="LinkedIn-icon" title="LinkedIn">
+    <img src="https://github.com/juletopi/juletopi/blob/main/assets/icons/linkedIn-icon.png" height="32" alt="LinkedIn-icon" title="LinkedIn">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/juletopi/">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Instagram-icon.png" height="32" alt="Instagram-icon" title="Instagram">
+    <img src="https://github.com/juletopi/juletopi/blob/main/assets/icons/instagram-icon.png" height="32" alt="Instagram-icon" title="Instagram">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100006955867774">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Facebook-icon.png" height="32" alt="Facebook-icon" title="Facebook">
+    <img src="https://github.com/juletopi/juletopi/blob/main/assets/icons/facebook-icon.png" height="32" alt="Facebook-icon" title="Facebook">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:juliocezarpvh@hotmail.com">
-    <img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Email-icon.png" height="32" alt="Email-icon" title="Email">
+    <img src="https://github.com/juletopi/juletopi/blob/main/assets/icons/email-icon.png" height="32" alt="Email-icon" title="Email">
   </a>
  
   <sub>**"Use `ctrl + click` para abrir em uma nova janela!"**</sub>
@@ -224,21 +224,21 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
 
 ### <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif" width="38" alt="SkeletonInAChair-gif"/></a> Experiência
 
-  <a href="https://eficienciafiscal.com.br/"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Logos/EficienciaFiscal-logo.jpeg" align="left" width="94" height="100" alt="EficienciaFiscal-pic" title="Ir ao site da empresa →"/></a>
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Enterprise-icon.png" height="22" alt="Enterprise-icon"/>&thinsp; **Eficiência Fiscal LTDA** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Occupation-icon.png" height="22" alt="Occupation-icon"/>&thinsp; **Desenvolvedor Web Júnior** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brasil &thinsp;•&thinsp; (Presencial)** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**Outubro 2024</i> - <i>até o momento...**</i>
+  <a href="https://eficienciafiscal.com.br/"><img src="https://github.com/juletopi/juletopi/blob/main/assets/logos/eficienciaFiscal-logo.jpeg" align="left" width="94" height="100" alt="EficienciaFiscal-pic" title="Ir ao site da empresa →"/></a>
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/enterprise-icon.png" height="22" alt="Enterprise-icon"/>&thinsp; **Eficiência Fiscal LTDA** \
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/occupation-icon.png" height="22" alt="Occupation-icon"/>&thinsp; **Desenvolvedor Web Júnior** \
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/mapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brasil &thinsp;•&thinsp; (Presencial)** \
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**Outubro 2024</i> - <i>até o momento...**</i>
 
 <!-- EDUCATION -->
 
 ### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif" width="34" alt="GoldenGraduationCap-gif"/></a>&thinsp; Educação
 
-  <a href="https://portal.ifro.edu.br/ji-parana"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Logos/IFRO-logo.jpeg" align="left" width="94" height="100" alt="IFRO-logo" title="Ir ao site da instituição →"/></a>
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Book-icon.png" height="19" alt="Book-icon"/>&thinsp; **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/GraduationCap-icon.png" height="22" alt="GraduationCap-icon"/>&thinsp; **Graduação em Análise e Desenvolvimento de Sistemas**\
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/MapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brasil &thinsp;•&thinsp; (Presencial)** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**Julho 2022</i> - <i>até o momento...**</i>
+  <a href="https://portal.ifro.edu.br/ji-parana"><img src="https://github.com/juletopi/juletopi/blob/main/assets/logos/IFRO-logo.jpeg" align="left" width="94" height="100" alt="IFRO-logo" title="Ir ao site da instituição →"/></a>
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/book-icon.png" height="19" alt="Book-icon"/>&thinsp; **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná** \
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/graduationCap-icon.png" height="22" alt="GraduationCap-icon"/>&thinsp; **Graduação em Análise e Desenvolvimento de Sistemas**\
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/mapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brasil &thinsp;•&thinsp; (Presencial)** \
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**Julho 2022</i> - <i>até o momento...**</i>
 
 <br>
 
@@ -266,16 +266,16 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
 
 <p align="left">
     <a href="https://github.com/juletopi/PontuaDev_Project">
-      <img width="388" src="assets/pin-pontuadev.svg" alt="PontuaDev-Repo">
+      <img width="388" src="assets/cards/pontuadev-card.svg" alt="PontuaDev-Repo">
     </a>
     <a href="https://github.com/juletopi/JCPC_Portfolio">
-      <img width="388" src="assets/pin-portfolio.svg" alt="JCPCPortfolio-Repo">
+      <img width="388" src="assets/cards/portfolio-card.svg" alt="JCPCPortfolio-Repo">
     </a>
     <a href="https://github.com/juletopi/Pagina_Cyberpunk-Edgerunners">
-      <img width="388" src="assets/pin-cyberpunk.svg" alt="CyberpunkEdgerunners-Repo">
+      <img width="388" src="assets/cards/cyberpunk-card.svg" alt="CyberpunkEdgerunners-Repo">
     </a>
     <a href="https://github.com/juletopi/Desafio_Pagina_Musical">
-      <img width="388" src="assets/pin-musical.svg" alt="PaginaMusical-Repo">
+      <img width="388" src="assets/cards/musical-card.svg" alt="PaginaMusical-Repo">
     </a>
 </p>
 
@@ -309,10 +309,10 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
 
 <div align="center">
   <a href="https://github.com/juletopi/">
-    <img src="assets/stats.svg" width="510" alt="Juletopi-stats" title="Status do Github">
+    <img src="assets/cards/stats-card.svg" width="510" alt="Juletopi-stats" title="Status do Github">
   </a>
   <a href="https://github.com/juletopi/">
-    <img src="assets/top-langs.svg" width="330" alt="JuletopiTopLangs-stats" title=" Status de Linguagens">
+    <img src="assets/cards/top-langs-card.svg" width="330" alt="JuletopiTopLangs-stats" title="Status de Linguagens">
   </a>
 </div>
 
