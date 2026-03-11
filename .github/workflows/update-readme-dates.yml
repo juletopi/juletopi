@@ -133,5 +133,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md README.pt.md
-          git commit -m "docs auto-update age and experience durations"
+          git commit -m "doc auto-update age and experience durations"
           git push
