@@ -247,7 +247,7 @@ Wanna reach out? My links are down below!
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/enterprise-icon.png" height="22" alt="Enterprise-icon"/>&thinsp; **Eficiência Fiscal LTDA** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/occupation-icon.png" height="22" alt="Occupation-icon"/>&thinsp; **Junior Web Developer** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/mapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brazil &thinsp;•&thinsp; (On-Site)** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**October 2024</i> - <i>currently now...**</i>
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**October 2024</i> - <i>currently now (1 year n' 4 months)**</i>
 
 <!-- EDUCATION -->
 
@@ -257,7 +257,7 @@ Wanna reach out? My links are down below!
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/book-icon.png" height="19" alt="Book-icon"/>&thinsp; **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/graduationCap-icon.png" height="22" alt="GraduationCap-icon"/>&thinsp; **Graduation in System Analysis and Development**\
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/mapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brazil &thinsp;•&thinsp; (On-Campus)** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**July 2022</i> - <i>currently now...**</i>
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**July 2022</i> - <i>currently now (3 years n' 7 months)**</i>
 
 <br>
 

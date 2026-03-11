@@ -228,7 +228,7 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/enterprise-icon.png" height="22" alt="Enterprise-icon"/>&thinsp; **Eficiência Fiscal LTDA** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/occupation-icon.png" height="22" alt="Occupation-icon"/>&thinsp; **Desenvolvedor Web Júnior** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/mapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brasil &thinsp;•&thinsp; (Presencial)** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**Outubro 2024</i> - <i>até o momento...**</i>
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**Outubro 2024</i> - <i>até o momento (1 ano e 4 meses)**</i>
 
 <!-- EDUCATION -->
 
@@ -238,7 +238,7 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/book-icon.png" height="19" alt="Book-icon"/>&thinsp; **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/graduationCap-icon.png" height="22" alt="GraduationCap-icon"/>&thinsp; **Graduação em Análise e Desenvolvimento de Sistemas**\
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/mapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brasil &thinsp;•&thinsp; (Presencial)** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**Julho 2022</i> - <i>até o momento...**</i>
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**Julho 2022</i> - <i>até o momento (3 anos e 7 meses)**</i>
 
 <br>
 
