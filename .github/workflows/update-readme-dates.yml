@@ -21,14 +21,14 @@ jobs:
           BIRTH_DATE="2003-09-17"
           CURRENT_DATE=$(date +%Y-%m-%d)
           
-          BIRTH_YEAR=     $(date -d "$BIRTH_DATE" +%Y)
-          CURRENT_YEAR=   $(date +%Y)
-          AGE=            $((CURRENT_YEAR - BIRTH_YEAR))
+          BIRTH_YEAR=$(date -d "$BIRTH_DATE" +%Y)
+          CURRENT_YEAR=$(date +%Y)
+          AGE=$((CURRENT_YEAR - BIRTH_YEAR))
           
-          BIRTH_MONTH=    $(date -d "$BIRTH_DATE" +%m)
-          BIRTH_DAY=      $(date -d "$BIRTH_DATE" +%d)
-          CURRENT_MONTH=  $(date +%m)
-          CURRENT_DAY=    $(date +%d)
+          BIRTH_MONTH=$(date -d "$BIRTH_DATE" +%m)
+          BIRTH_DAY=$(date -d "$BIRTH_DATE" +%d)
+          CURRENT_MONTH=$(date +%m)
+          CURRENT_DAY=$(date +%d)
           
           if [ "$CURRENT_MONTH" -lt "$BIRTH_MONTH" ] || \
              ([ "$CURRENT_MONTH" -eq "$BIRTH_MONTH" ] && [ "$CURRENT_DAY" -lt "$BIRTH_DAY" ]); then
@@ -41,13 +41,13 @@ jobs:
             START_DATE=$1
             END_DATE=$2
             
-            START_YEAR=   $(date -d "$START_DATE" +%Y)
-            START_MONTH=  $(date -d "$START_DATE" +%m)
-            END_YEAR=     $(date -d "$END_DATE" +%Y)
-            END_MONTH=    $(date -d "$END_DATE" +%m)
+            START_YEAR=$(date -d "$START_DATE" +%Y)
+            START_MONTH=$(date -d "$START_DATE" +%m)
+            END_YEAR=$(date -d "$END_DATE" +%Y)
+            END_MONTH=$(date -d "$END_DATE" +%m)
             
-            YEARS=  $((END_YEAR - START_YEAR))
-            MONTHS= $((END_MONTH - START_MONTH))
+            YEARS=$((END_YEAR - START_YEAR))
+            MONTHS=$((END_MONTH - START_MONTH))
             
             if [ $MONTHS -lt 0 ]; then
               YEARS=$((YEARS - 1))
@@ -71,13 +71,13 @@ jobs:
             START_DATE=$1
             END_DATE=$2
             
-            START_YEAR=   $(date -d "$START_DATE" +%Y)
-            START_MONTH=  $(date -d "$START_DATE" +%m)
-            END_YEAR=     $(date -d "$END_DATE" +%Y)
-            END_MONTH=    $(date -d "$END_DATE" +%m)
+            START_YEAR=$(date -d "$START_DATE" +%Y)
+            START_MONTH=$(date -d "$START_DATE" +%m)
+            END_YEAR=$(date -d "$END_DATE" +%Y)
+            END_MONTH=$(date -d "$END_DATE" +%m)
             
-            YEARS=  $((END_YEAR - START_YEAR))
-            MONTHS= $((END_MONTH - START_MONTH))
+            YEARS=$((END_YEAR - START_YEAR))
+            MONTHS=$((END_MONTH - START_MONTH))
             
             if [ $MONTHS -lt 0 ]; then
               YEARS=$((YEARS - 1))
@@ -98,10 +98,11 @@ jobs:
           }
           
           WORK_START="2024-10-01"     # October 2024
+          WORK_END="2026-03-26"       # Last working day at Eficiência Fiscal
           EDU_START="2022-07-01"      # July 2022
           
-          WORK_DURATION_EN=$(calculate_duration_en "$WORK_START" "$CURRENT_DATE")
-          WORK_DURATION_PT=$(calculate_duration_pt "$WORK_START" "$CURRENT_DATE")
+          WORK_DURATION_EN=$(calculate_duration_en "$WORK_START" "$WORK_END")
+          WORK_DURATION_PT=$(calculate_duration_pt "$WORK_START" "$WORK_END")
           EDU_DURATION_EN=$(calculate_duration_en "$EDU_START" "$CURRENT_DATE")
           EDU_DURATION_PT=$(calculate_duration_pt "$EDU_START" "$CURRENT_DATE")
           
@@ -112,12 +113,12 @@ jobs:
           
           # Update README.md (English)
           sed -i "s/A [0-9]\+ year old brazilian guy/A $AGE year old brazilian guy/g" README.md
-          sed -i "s/<i>\*\*October 2024<\/i> - <i>currently now ([^)]\+)<\/i>/<i>**October 2024<\/i> - <i>currently now ($WORK_DURATION_EN)**<\/i>/g" README.md
+          sed -E -i "s#<i>\*\*October 2024</i> - <i>.*</i>#<i>**October 2024</i> - <i>March 2026 ($WORK_DURATION_EN)**</i>#g" README.md
           sed -i "s/<i>\*\*July 2022<\/i> - <i>currently now ([^)]\+)<\/i>/<i>**July 2022<\/i> - <i>currently now ($EDU_DURATION_EN)**<\/i>/g" README.md
           
           # Update README.pt.md (Portuguese)
           sed -i "s/Um rapaz de [0-9]\+ anos/Um rapaz de $AGE anos/g" README.pt.md
-          sed -i "s/<i>\*\*Outubro 2024<\/i> - <i>até o momento ([^)]\+)<\/i>/<i>**Outubro 2024<\/i> - <i>até o momento ($WORK_DURATION_PT)**<\/i>/g" README.pt.md
+          sed -E -i "s#<i>\*\*Outubro 2024</i> - <i>.*</i>#<i>**Outubro 2024</i> - <i>Março 2026 ($WORK_DURATION_PT)**</i>#g" README.pt.md
           sed -i "s/<i>\*\*Julho 2022<\/i> - <i>até o momento ([^)]\+)<\/i>/<i>**Julho 2022<\/i> - <i>até o momento ($EDU_DURATION_PT)**<\/i>/g" README.pt.md
           
           echo "README files updated successfully!"
@@ -133,5 +134,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md README.pt.md
-          git commit -m "doc auto-update age and experience durations"
+          git commit -m "docs: auto-update readme age and durations"
           git push
