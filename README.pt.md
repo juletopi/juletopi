@@ -38,7 +38,7 @@ Sigo sempre resiliente, sendo o melhor construtor no Minecraft e aprendendo algo
 
 🎓 Atualmente cursando o 5º período de **Análise e Desenvolvimento de Sistemas**. 
 
-💼 Atuando como **Desenvolvedor Web Júnior** na Eficiência Fiscal, trabalhando com webscraping usando Python com Playwright e Requests. 
+💼 Tenho experiência anterior como **Desenvolvedor Web Júnior**, trabalhei com webscraping usando Python e com desenvolvimento web usando PHP Laravel. 
 
 💬 Pergunte-me sobre desenvolvimento web, webscraping, Python, PHP Laravel, C# .NET. 
 
@@ -228,7 +228,7 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/enterprise-icon.png" height="22" alt="Enterprise-icon"/>&thinsp; **Eficiência Fiscal LTDA** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/occupation-icon.png" height="22" alt="Occupation-icon"/>&thinsp; **Desenvolvedor Web Júnior** \
   <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/mapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brasil &thinsp;•&thinsp; (Presencial)** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**Outubro 2024</i> - <i>até o momento (1 ano e 4 meses)**</i>
+  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**Outubro 2024</i> - <i>Março 2026 (1 ano e 5 meses)**</i>
 
 <!-- EDUCATION -->
 
