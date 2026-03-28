@@ -252,7 +252,7 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
 
 ### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Escutando agora no Spotify
 
-[![Juletopi's Spotify Playing](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
+[![Juletopi's Spotify Playing](https://music-player-widget-ten.vercel.app/api/spotify/?show_status=true&background_color=0e1118&border_color=22252c)](https://music-player-widget-ten.vercel.app/api/spotify/?show_status=true&background_color=0e1118&border_color=22252c)
 
 <div align="center">
   <a href="#">
