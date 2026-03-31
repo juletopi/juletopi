@@ -274,8 +274,8 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
     <a href="https://github.com/juletopi/Pagina_Cyberpunk-Edgerunners">
       <img width="388" src="assets/cards/cyberpunk-card.svg" alt="CyberpunkEdgerunners-Repo">
     </a>
-    <a href="https://github.com/juletopi/Desafio_Pagina_Musical">
-      <img width="388" src="assets/cards/musical-card.svg" alt="PaginaMusical-Repo">
+    <a href="https://github.com/juletopi/guardaRoupaApp">
+      <img width="388" src="assets/cards/guardaroupa-card.svg" alt="GuardaRoupaApp-Repo">
     </a>
 </p>
 
