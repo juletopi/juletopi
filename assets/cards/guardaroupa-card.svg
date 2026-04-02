@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">App mobile em React Native + componentes Ardu&#237;no que</tspan><tspan dy="1.2em" x="25">resolve um problema cotidiano: recolher ou expor roupas no</tspan><tspan dy="1.2em" x="25">varal antes de ser tarde demais.</tspan>
+      <tspan dy="1.2em" x="25">App mobile em React Native + componentes Ardu&#237;no que</tspan><tspan dy="1.2em" x="25">recolhe ou exp&#245;e suas roupas no varal antes de ser</tspan><tspan dy="1.2em" x="25">tarde demais.</tspan>
     </text>
 
     <g transform="translate(30, 75)">
