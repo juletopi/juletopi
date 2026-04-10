@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="150"
-        viewBox="0 0 400 150"
+        height="140"
+        viewBox="0 0 400 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -100,10 +100,10 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">App mobile em React Native + componentes Ardu&#237;no que</tspan><tspan dy="1.2em" x="25">recolhe ou exp&#245;e suas roupas no varal antes de ser</tspan><tspan dy="1.2em" x="25">tarde demais.</tspan>
+      <tspan dy="1.2em" x="25">App mobile em React Native + componentes Ardu&#237;no que</tspan><tspan dy="1.2em" x="25">cuida das suas roupas no varal antes de ser tarde demais.</tspan>
     </text>
 
-    <g transform="translate(30, 75)">
+    <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
       <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#f1e05a" />
