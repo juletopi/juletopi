@@ -64,6 +64,8 @@ I'm a 22-year-old **Full-stack Developer** from Rondônia, Brazil.
 
 Wanna reach out? My links are down below!
 
+<br>
+
 <!-- SOCIAL NETWORKS -->
 
 <div align="right">

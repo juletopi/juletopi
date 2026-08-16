@@ -45,6 +45,8 @@ Sou um **Desenvolvedor Full-stack** brasileiro de 22 anos, direto de Rondônia.
 
 Se quiser trocar uma ideia meus links estão aí embaixo!  
 
+<br>
+
 <!-- SOCIAL NETWORKS -->
 
 <div align="right">
