@@ -29,7 +29,7 @@
 
 ## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Prazer, eu sou o Júlio Cézar — aka *Juletopi*
 
-<img align="right" src="https://github.com/juletopi/juletopi/blob/main/assets/images/meAndFavCharacters-image.png" align="left" width="290" alt="JulioAboutMe-pic" title="Opa, esse sou eu no meio! E também tem o Zangoose e o Madarame-senpai, meus personagens favoritos."/>
+<img align="right" src="https://github.com/juletopi/juletopi/blob/main/assets/images/meAndFavCharacters-image.png" align="left" width="270" alt="JulioAboutMe-pic" title="Opa, esse sou eu no meio! E também tem o Zangoose e o Madarame-senpai, meus personagens favoritos."/>
 
 <div align="left">
 
