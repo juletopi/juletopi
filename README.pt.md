@@ -33,10 +33,9 @@
 
 <div align="left">
 
-Sou um **Desenvolvedor Full-stack** brasileiro de 22 anos, direto de Rondônia. \
-Sigo sempre resiliente, sendo o melhor construtor no Minecraft e aprendendo algo novo de tecnologia.
+Sou um **Desenvolvedor Full-stack** brasileiro de 22 anos, direto de Rondônia.
 
-🎓 Atualmente cursando o 5º período de **Análise e Desenvolvimento de Sistemas**. 
+🎓 Atualmente cursando o 6º período de **Análise e Desenvolvimento de Sistemas**. 
 
 💼 Tenho experiência anterior como **Desenvolvedor Web Júnior**, trabalhei com webscraping usando Python e com desenvolvimento web usando PHP Laravel. 
 
@@ -194,20 +193,6 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
     </a>&nbsp;
     <a href="https://www.w3schools.com/r/" target="_blank">
       <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" alt="RLanguage-icon" height="45" title="R Language"/>
-    </a>
-  </p>
-</div>
-
-<br>
-<h3 align="center"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/>&nbsp; Estudando</h3>
-
-<div align="center">
-  <p align="center">
-    <a href="https://www.w3schools.com/react/" target="_blank">
-      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React-icon" height="45" title="React"/>
-    </a>&nbsp;
-    <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank">
-      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma-icon" height="45" title="Figma"/>
     </a>
   </p>
 </div>

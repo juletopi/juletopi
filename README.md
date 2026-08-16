@@ -53,9 +53,8 @@ https://getemoji.com
 <div align="left">
 
 I'm a 22-year-old **Full-stack Developer** from Rondônia, Brazil.  
-Always resilient, the best builder in Minecraft (trust me), and constantly learning something new in tech.
 
-🎓 Currently in my 5th semester of **Systems Analysis and Development**.  
+🎓 Currently in my 6th semester of **Systems Analysis and Development**.  
 
 💼 Past experience as a **Junior Web Developer**, mainly dealing with webscraping using Python and web development using PHP Laravel.  
 
@@ -213,20 +212,6 @@ Wanna reach out? My links are down below!
     </a>&nbsp;
     <a href="https://www.w3schools.com/r/" target="_blank">
       <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" alt="RLanguage-icon" height="45" title="R Language"/>
-    </a>
-  </p>
-</div>
-
-<br>
-<h3 align="center"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/>&nbsp; Studying for now</h3>
-
-<div align="center">
-  <p align="center">
-    <a href="https://www.w3schools.com/react/" target="_blank">
-      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React-icon" height="45" title="React"/>
-    </a>&nbsp;
-    <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank">
-      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma-icon" height="45" title="Figma"/>
     </a>
   </p>
 </div>
