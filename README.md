@@ -226,34 +226,6 @@ Wanna reach out? My links are down below!
   </a>
 </div>
 
-<!-- EXPERIENCE -->
-
-### <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGw4NjV5OWxsenU0ZGh3YXoyYTJyOXgyYnVrYzV0NjVtZjJibXJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif" width="38" alt="SkeletonInAChair-gif"/></a> Work Experience
-
-  <a href="https://eficienciafiscal.com.br/"><img src="https://github.com/juletopi/juletopi/blob/main/assets/logos/eficienciaFiscal-logo.jpeg" align="left" width="94" height="100" alt="EficienciaFiscal-pic" title="Go to the company's website →"/></a>
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/enterprise-icon.png" height="22" alt="Enterprise-icon"/>&thinsp; **Eficiência Fiscal LTDA** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/occupation-icon.png" height="22" alt="Occupation-icon"/>&thinsp; **Junior Web Developer** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/mapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brazil &thinsp;•&thinsp; (On-Site)** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**October 2024</i> - <i>March 2026 (1 year n' 5 months)**</i>
-
-<!-- EDUCATION -->
-
-### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd0ZzA5bGc4Y3p5cnBqeGtraWUxMHpiNHlkdHR1b3gycjhnMzd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eWPGEzSkWPJHKl7ili/giphy.gif" width="34" alt="GoldenGraduationCap-gif"/></a>&thinsp; Education
-
-  <a href="https://portal.ifro.edu.br/ji-parana"><img src="https://github.com/juletopi/juletopi/blob/main/assets/logos/IFRO-logo.jpeg" align="left" width="94" height="100" alt="IFRO-logo" title="Go to the institution's website →"/></a>
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/book-icon.png" height="19" alt="Book-icon"/>&thinsp; **IFRO (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) | Campus Ji-Paraná** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/graduationCap-icon.png" height="22" alt="GraduationCap-icon"/>&thinsp; **Graduation in System Analysis and Development**\
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/mapPin-icon.png" height="20" alt="MapPin-icon"/>&thinsp; **Ji-Paraná, Rondônia, Brazil &thinsp;•&thinsp; (On-Campus)** \
-  <img align="center" src="https://github.com/juletopi/juletopi/blob/main/assets/icons/calendar-icon.png" height="19" alt="Calendar-icon"/>&thinsp; <i>**July 2022</i> - <i>currently now (3 years n' 7 months)**</i>
-
-<br>
-
-<div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
-  </a>
-</div>
-
 <!-- SPOTIFY PLAYING -->
 
 ### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify
@@ -331,21 +303,5 @@ Wanna reach out? My links are down below!
 <div align="center">
   <a href="https://github.com/juletopi/">
     <img src="https://streak-stats.demolab.com/?user=juletopi&theme=dark&hide_border=true&background=0E1118&ring=E73737&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="JuletopiStreak-stats" title="Streak Stats">
-  </a>
-</div>
-
-<div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
-  </a>
-</div>
-
-<br>
-
-<!-- THANKS FOR VISITING -->
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=FA3E3E&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Thanks+for+visiting%2C+see+ya!" alt="TypingGoodbye-SVG" title="Goodbye and come again!"/>
   </a>
 </div>
