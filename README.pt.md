@@ -33,7 +33,7 @@
 
 <div align="left">
 
-Sou um **Desenvolvedor Full-stack** brasileiro de 22 anos, direto de Rondônia.
+Sou um **Desenvolvedor Full-stack** brasileiro de 23 anos, direto de Rondônia.
 
 🎓 Atualmente cursando o 6º período de **Análise e Desenvolvimento de Sistemas**. 
 
