@@ -52,7 +52,7 @@ https://getemoji.com
 
 <div align="left">
 
-I'm a 22-year-old **Full-stack Developer** from Rondônia, Brazil.  
+I'm a 23-year-old **Full-stack Developer** from Rondônia, Brazil.  
 
 🎓 Currently in my 6th semester of **Systems Analysis and Development**.  
 
