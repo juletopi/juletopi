@@ -86,3 +86,41 @@ jobs:
           git add assets/cards/*.svg
           git commit -m "doc auto-update README cards" || exit 0
           git push
+
+  check-spotify-widget:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check Spotify widget auth and token expiry
+        env:
+          HEALTH_URL: https://music-player-widget-ten.vercel.app/api/spotify/health/auth
+          MIN_DAYS: 14 # Fails when the refresh token expires in fewer days than this
+        run: |
+          status=$(curl -s -o health.json -w "%{http_code}" "$HEALTH_URL")
+          body=$(cat health.json 2>/dev/null)
+
+          if [ "$status" != "200" ]; then
+            echo "::error title=Spotify widget::/health/auth returned HTTP $status: $body"
+            exit 1
+          fi
+
+          days=$(jq -r '.days_remaining' health.json)
+          expires=$(jq -r '.expires_on' health.json)
+
+          case "$days" in
+            null)
+              echo "::warning title=Spotify widget::SPOTIFY_REFRESH_TOKEN_DATE is not set on Vercel, so token expiry can't be checked"
+              ;;
+            ''|*[!0-9-]*)
+              echo "::error title=Spotify widget::Unexpected days_remaining in /health/auth response: $body"
+              exit 1
+              ;;
+            *)
+              if [ "$days" -lt "$MIN_DAYS" ]; then
+                echo "::error title=Spotify widget::Spotify refresh token expires in $days days ($expires). Renew it with scripts/get_token.py from musicPlayerWidget"
+                exit 1
+              fi
+              ;;
+          esac
+
+          echo "Spotify widget OK: $body"
