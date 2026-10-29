@@ -256,7 +256,7 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
 
 <div align="center">
   <a href="https://github.com/juletopi/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=juletopi&bg_color=0e1118&hide_border=true&custom_title=Gráfico%20de%20Contribuição%20de%20Juletopi&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="JuletopiContribution-graph" title="Gráfico de Contribuição">
+    <img src="assets/cards/contribution-graph-pt.svg" width="800" alt="JuletopiContribution-graph" title="Gráfico de Contribuição">
   </a>
 </div>
 

@@ -31,6 +31,22 @@ jobs:
           path: assets/cards/top-langs-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate contribution graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: bg_color=0e1118&hide_border=true&custom_title=Juletopi's%20Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast
+          output_path: assets/cards/contribution-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contribution graph (pt)
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: bg_color=0e1118&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o%20de%20Juletopi&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast
+          output_path: assets/cards/contribution-graph-pt.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate pin card - PontuaDev_Project
         uses: stats-organization/github-readme-stats-action@v2
         with:
