@@ -178,7 +178,7 @@
           data-testid="lang-progress"
           x="189.26"
           y="0"
-          width="18.21"
+          width="18.2"
           height="8"
           fill="#663399"
         />
@@ -186,7 +186,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="207.47"
+          x="207.45999999999998"
           y="0"
           width="16.81"
           height="8"
@@ -196,7 +196,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="224.28"
+          x="224.26999999999998"
           y="0"
           width="10.79"
           height="8"
@@ -206,7 +206,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="235.07"
+          x="235.05999999999997"
           y="0"
           width="17.55"
           height="8"
@@ -216,7 +216,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="242.62"
+          x="242.60999999999999"
           y="0"
           width="15.05"
           height="8"
@@ -226,7 +226,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.67000000000002"
+          x="247.66"
           y="0"
           width="12.33"
           height="8"
@@ -246,7 +246,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#7355dd" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 22.05%
+        C# 22.06%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -260,7 +260,7 @@
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 8.43%
+        JavaScript 8.42%
       </text>
     </g>
   </g><g transform="translate(0, 100)">
