@@ -136,11 +136,11 @@ Se quiser trocar uma ideia meus links estão aí embaixo!
     <a href="https://jupyter.org/" target="_blank">
       <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-auto.svg" alt="Jupyter-icon" height="45" title="Jupyter"/>
     </a>&nbsp;
-    <a href="https://www.postman.com/" target="_blank">
-      <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postman.svg" alt="Postman-icon" height="45" title="Postman"/>
-    </a>
     <a href="https://claude.com/" target="_blank">
       <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/claude-auto.svg" alt="Claude-icon" height="45" title="Claude"/>
+    </a>&nbsp;
+    <a href="https://www.postman.com/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postman.svg" alt="Postman-icon" height="45" title="Postman"/>
     </a>
   </p>
 </div>
